@@ -1,0 +1,1801 @@
+cascade,step_order,step,definition,month,site,n_at_step,n_first,n_prior,n_progressed
+HCV,1,Screened,Anti-HCV antibody test,2025-04-01,Town 1,41,41,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-04-01,Town 1,24,41,41,28
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-04-01,Town 1,19,41,24,21
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-04-01,Town 1,10,41,19,15
+HCV,1,Screened,Anti-HCV antibody test,2025-04-01,Town 2,43,43,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-04-01,Town 2,33,43,43,27
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-04-01,Town 2,26,43,33,26
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-04-01,Town 2,17,43,26,18
+HCV,1,Screened,Anti-HCV antibody test,2025-04-01,Town 3,39,39,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-04-01,Town 3,20,39,39,24
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-04-01,Town 3,15,39,20,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-04-01,Town 3,9,39,15,13
+HCV,1,Screened,Anti-HCV antibody test,2025-04-01,Town 4,43,43,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-04-01,Town 4,28,43,43,24
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-04-01,Town 4,21,43,28,21
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-04-01,Town 4,13,43,21,14
+HCV,1,Screened,Anti-HCV antibody test,2025-04-01,Town 5,45,45,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-04-01,Town 5,26,45,45,27
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-04-01,Town 5,18,45,26,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-04-01,Town 5,13,45,18,12
+HCV,1,Screened,Anti-HCV antibody test,2025-05-01,Town 1,33,33,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-05-01,Town 1,19,33,33,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-05-01,Town 1,14,33,19,14
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-05-01,Town 1,9,33,14,11
+HCV,1,Screened,Anti-HCV antibody test,2025-05-01,Town 2,35,35,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-05-01,Town 2,21,35,35,23
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-05-01,Town 2,11,35,21,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-05-01,Town 2,8,35,11,8
+HCV,1,Screened,Anti-HCV antibody test,2025-05-01,Town 3,31,31,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-05-01,Town 3,19,31,31,22
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-05-01,Town 3,12,31,19,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-05-01,Town 3,8,31,12,8
+HCV,1,Screened,Anti-HCV antibody test,2025-05-01,Town 4,36,36,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-05-01,Town 4,20,36,36,20
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-05-01,Town 4,17,36,20,12
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-05-01,Town 4,11,36,17,12
+HCV,1,Screened,Anti-HCV antibody test,2025-05-01,Town 5,39,39,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-05-01,Town 5,24,39,39,22
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-05-01,Town 5,15,39,24,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-05-01,Town 5,11,39,15,11
+HCV,1,Screened,Anti-HCV antibody test,2025-06-01,Town 1,49,49,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-06-01,Town 1,36,49,49,28
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-06-01,Town 1,25,49,36,26
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-06-01,Town 1,18,49,25,20
+HCV,1,Screened,Anti-HCV antibody test,2025-06-01,Town 2,38,38,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-06-01,Town 2,25,38,38,32
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-06-01,Town 2,14,38,25,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-06-01,Town 2,9,38,14,9
+HCV,1,Screened,Anti-HCV antibody test,2025-06-01,Town 3,32,32,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-06-01,Town 3,17,32,32,22
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-06-01,Town 3,13,32,17,13
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-06-01,Town 3,9,32,13,10
+HCV,1,Screened,Anti-HCV antibody test,2025-06-01,Town 4,34,34,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-06-01,Town 4,24,34,34,20
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-06-01,Town 4,15,34,24,20
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-06-01,Town 4,12,34,15,8
+HCV,1,Screened,Anti-HCV antibody test,2025-06-01,Town 5,41,41,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-06-01,Town 5,31,41,41,28
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-06-01,Town 5,24,41,31,23
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-06-01,Town 5,16,41,24,13
+HCV,1,Screened,Anti-HCV antibody test,2025-07-01,Town 1,47,47,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-07-01,Town 1,25,47,47,29
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-07-01,Town 1,21,47,25,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-07-01,Town 1,15,47,21,12
+HCV,1,Screened,Anti-HCV antibody test,2025-07-01,Town 2,34,34,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-07-01,Town 2,20,34,34,22
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-07-01,Town 2,15,34,20,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-07-01,Town 2,12,34,15,10
+HCV,1,Screened,Anti-HCV antibody test,2025-07-01,Town 3,62,62,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-07-01,Town 3,38,62,62,43
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-07-01,Town 3,29,62,38,29
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-07-01,Town 3,18,62,29,20
+HCV,1,Screened,Anti-HCV antibody test,2025-07-01,Town 4,53,53,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-07-01,Town 4,36,53,53,41
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-07-01,Town 4,26,53,36,23
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-07-01,Town 4,18,53,26,18
+HCV,1,Screened,Anti-HCV antibody test,2025-07-01,Town 5,40,40,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-07-01,Town 5,28,40,40,28
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-07-01,Town 5,18,40,28,21
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-07-01,Town 5,10,40,18,14
+HCV,1,Screened,Anti-HCV antibody test,2025-08-01,Town 1,46,46,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-08-01,Town 1,26,46,46,36
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-08-01,Town 1,18,46,26,20
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-08-01,Town 1,10,46,18,14
+HCV,1,Screened,Anti-HCV antibody test,2025-08-01,Town 2,38,38,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-08-01,Town 2,20,38,38,27
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-08-01,Town 2,16,38,20,13
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-08-01,Town 2,9,38,16,12
+HCV,1,Screened,Anti-HCV antibody test,2025-08-01,Town 3,24,24,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-08-01,Town 3,9,24,24,20
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-08-01,Town 3,8,24,9,8
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-08-01,Town 3,6,24,8,7
+HCV,1,Screened,Anti-HCV antibody test,2025-08-01,Town 4,39,39,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-08-01,Town 4,26,39,39,28
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-08-01,Town 4,15,39,26,16
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-08-01,Town 4,10,39,15,11
+HCV,1,Screened,Anti-HCV antibody test,2025-08-01,Town 5,34,34,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-08-01,Town 5,20,34,34,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-08-01,Town 5,13,34,20,16
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-08-01,Town 5,7,34,13,7
+HCV,1,Screened,Anti-HCV antibody test,2025-09-01,Town 1,42,42,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-09-01,Town 1,31,42,42,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-09-01,Town 1,22,42,31,24
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-09-01,Town 1,12,42,22,19
+HCV,1,Screened,Anti-HCV antibody test,2025-09-01,Town 2,37,37,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-09-01,Town 2,27,37,37,22
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-09-01,Town 2,14,37,27,22
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-09-01,Town 2,9,37,14,10
+HCV,1,Screened,Anti-HCV antibody test,2025-09-01,Town 3,40,40,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-09-01,Town 3,24,40,40,22
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-09-01,Town 3,16,40,24,18
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-09-01,Town 3,11,40,16,11
+HCV,1,Screened,Anti-HCV antibody test,2025-09-01,Town 4,37,37,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-09-01,Town 4,23,37,37,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-09-01,Town 4,13,37,23,18
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-09-01,Town 4,12,37,13,11
+HCV,1,Screened,Anti-HCV antibody test,2025-09-01,Town 5,41,41,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-09-01,Town 5,23,41,41,31
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-09-01,Town 5,20,41,23,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-09-01,Town 5,13,41,20,14
+HCV,1,Screened,Anti-HCV antibody test,2025-10-01,Town 1,32,32,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-10-01,Town 1,19,32,32,18
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-10-01,Town 1,12,32,19,16
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-10-01,Town 1,5,32,12,8
+HCV,1,Screened,Anti-HCV antibody test,2025-10-01,Town 2,42,42,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-10-01,Town 2,22,42,42,30
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-10-01,Town 2,16,42,22,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-10-01,Town 2,11,42,16,14
+HCV,1,Screened,Anti-HCV antibody test,2025-10-01,Town 3,38,38,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-10-01,Town 3,26,38,38,24
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-10-01,Town 3,18,38,26,16
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-10-01,Town 3,11,38,18,13
+HCV,1,Screened,Anti-HCV antibody test,2025-10-01,Town 4,33,33,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-10-01,Town 4,22,33,33,20
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-10-01,Town 4,15,33,22,18
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-10-01,Town 4,12,33,15,12
+HCV,1,Screened,Anti-HCV antibody test,2025-10-01,Town 5,44,44,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-10-01,Town 5,27,44,44,33
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-10-01,Town 5,17,44,27,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-10-01,Town 5,13,44,17,12
+HCV,1,Screened,Anti-HCV antibody test,2025-11-01,Town 1,38,38,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-11-01,Town 1,21,38,38,26
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-11-01,Town 1,18,38,21,14
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-11-01,Town 1,9,38,18,13
+HCV,1,Screened,Anti-HCV antibody test,2025-11-01,Town 2,45,45,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-11-01,Town 2,24,45,45,27
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-11-01,Town 2,15,45,24,16
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-11-01,Town 2,10,45,15,11
+HCV,1,Screened,Anti-HCV antibody test,2025-11-01,Town 3,46,46,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-11-01,Town 3,32,46,46,30
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-11-01,Town 3,18,46,32,24
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-11-01,Town 3,13,46,18,12
+HCV,1,Screened,Anti-HCV antibody test,2025-11-01,Town 4,41,41,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-11-01,Town 4,30,41,41,26
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-11-01,Town 4,20,41,30,23
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-11-01,Town 4,12,41,20,13
+HCV,1,Screened,Anti-HCV antibody test,2025-11-01,Town 5,41,41,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-11-01,Town 5,24,41,41,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-11-01,Town 5,19,41,24,19
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-11-01,Town 5,13,41,19,13
+HCV,1,Screened,Anti-HCV antibody test,2025-12-01,Town 1,39,39,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-12-01,Town 1,25,39,39,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-12-01,Town 1,22,39,25,21
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-12-01,Town 1,16,39,22,11
+HCV,1,Screened,Anti-HCV antibody test,2025-12-01,Town 2,46,46,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-12-01,Town 2,27,46,46,30
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-12-01,Town 2,19,46,27,23
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-12-01,Town 2,14,46,19,14
+HCV,1,Screened,Anti-HCV antibody test,2025-12-01,Town 3,43,43,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-12-01,Town 3,22,43,43,27
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-12-01,Town 3,16,43,22,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-12-01,Town 3,14,43,16,12
+HCV,1,Screened,Anti-HCV antibody test,2025-12-01,Town 4,33,33,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-12-01,Town 4,17,33,33,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-12-01,Town 4,13,33,17,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-12-01,Town 4,9,33,13,8
+HCV,1,Screened,Anti-HCV antibody test,2025-12-01,Town 5,33,33,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2025-12-01,Town 5,21,33,33,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2025-12-01,Town 5,17,33,21,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2025-12-01,Town 5,13,33,17,10
+HCV,1,Screened,Anti-HCV antibody test,2026-01-01,Town 1,32,32,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-01-01,Town 1,21,32,32,23
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-01-01,Town 1,14,32,21,13
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-01-01,Town 1,9,32,14,12
+HCV,1,Screened,Anti-HCV antibody test,2026-01-01,Town 2,53,53,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-01-01,Town 2,36,53,53,39
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-01-01,Town 2,26,53,36,28
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-01-01,Town 2,16,53,26,17
+HCV,1,Screened,Anti-HCV antibody test,2026-01-01,Town 3,35,35,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-01-01,Town 3,25,35,35,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-01-01,Town 3,19,35,25,19
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-01-01,Town 3,13,35,19,11
+HCV,1,Screened,Anti-HCV antibody test,2026-01-01,Town 4,50,50,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-01-01,Town 4,28,50,50,32
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-01-01,Town 4,20,50,28,21
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-01-01,Town 4,10,50,20,16
+HCV,1,Screened,Anti-HCV antibody test,2026-01-01,Town 5,43,43,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-01-01,Town 5,22,43,43,27
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-01-01,Town 5,13,43,22,18
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-01-01,Town 5,8,43,13,13
+HCV,1,Screened,Anti-HCV antibody test,2026-02-01,Town 1,33,33,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-02-01,Town 1,23,33,33,19
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-02-01,Town 1,16,33,23,19
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-02-01,Town 1,11,33,16,13
+HCV,1,Screened,Anti-HCV antibody test,2026-02-01,Town 2,40,40,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-02-01,Town 2,21,40,40,26
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-02-01,Town 2,17,40,21,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-02-01,Town 2,10,40,17,12
+HCV,1,Screened,Anti-HCV antibody test,2026-02-01,Town 3,39,39,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-02-01,Town 3,25,39,39,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-02-01,Town 3,19,39,25,20
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-02-01,Town 3,13,39,19,13
+HCV,1,Screened,Anti-HCV antibody test,2026-02-01,Town 4,36,36,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-02-01,Town 4,21,36,36,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-02-01,Town 4,15,36,21,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-02-01,Town 4,9,36,15,11
+HCV,1,Screened,Anti-HCV antibody test,2026-02-01,Town 5,45,45,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-02-01,Town 5,29,45,45,28
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-02-01,Town 5,22,45,29,24
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-02-01,Town 5,12,45,22,17
+HCV,1,Screened,Anti-HCV antibody test,2026-03-01,Town 1,44,44,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-03-01,Town 1,26,44,44,30
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-03-01,Town 1,19,44,26,19
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-03-01,Town 1,12,44,19,16
+HCV,1,Screened,Anti-HCV antibody test,2026-03-01,Town 2,33,33,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-03-01,Town 2,17,33,33,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-03-01,Town 2,12,33,17,12
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-03-01,Town 2,6,33,12,7
+HCV,1,Screened,Anti-HCV antibody test,2026-03-01,Town 3,33,33,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-03-01,Town 3,19,33,33,22
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-03-01,Town 3,14,33,19,13
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-03-01,Town 3,10,33,14,11
+HCV,1,Screened,Anti-HCV antibody test,2026-03-01,Town 4,42,42,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-03-01,Town 4,20,42,42,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-03-01,Town 4,13,42,20,14
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-03-01,Town 4,10,42,13,10
+HCV,1,Screened,Anti-HCV antibody test,2026-03-01,Town 5,39,39,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-03-01,Town 5,25,39,39,23
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-03-01,Town 5,16,39,25,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-03-01,Town 5,10,39,16,11
+HCV,1,Screened,Anti-HCV antibody test,2026-04-01,Town 1,42,42,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-04-01,Town 1,30,42,42,27
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-04-01,Town 1,21,42,30,21
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-04-01,Town 1,13,42,21,14
+HCV,1,Screened,Anti-HCV antibody test,2026-04-01,Town 2,41,41,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-04-01,Town 2,21,41,41,26
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-04-01,Town 2,15,41,21,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-04-01,Town 2,8,41,15,8
+HCV,1,Screened,Anti-HCV antibody test,2026-04-01,Town 3,40,40,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-04-01,Town 3,27,40,40,31
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-04-01,Town 3,20,40,27,22
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-04-01,Town 3,11,40,20,9
+HCV,1,Screened,Anti-HCV antibody test,2026-04-01,Town 4,47,47,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-04-01,Town 4,32,47,47,36
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-04-01,Town 4,25,47,32,23
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-04-01,Town 4,17,47,25,18
+HCV,1,Screened,Anti-HCV antibody test,2026-04-01,Town 5,50,50,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-04-01,Town 5,29,50,50,35
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-04-01,Town 5,24,50,29,23
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-04-01,Town 5,16,50,24,13
+HCV,1,Screened,Anti-HCV antibody test,2026-05-01,Town 1,35,35,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-05-01,Town 1,23,35,35,20
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-05-01,Town 1,19,35,23,19
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-05-01,Town 1,14,35,19,11
+HCV,1,Screened,Anti-HCV antibody test,2026-05-01,Town 2,31,31,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-05-01,Town 2,15,31,31,21
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-05-01,Town 2,14,31,15,10
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-05-01,Town 2,8,31,14,11
+HCV,1,Screened,Anti-HCV antibody test,2026-05-01,Town 3,35,35,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-05-01,Town 3,23,35,35,20
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-05-01,Town 3,15,35,23,19
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-05-01,Town 3,7,35,15,10
+HCV,1,Screened,Anti-HCV antibody test,2026-05-01,Town 4,41,41,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-05-01,Town 4,22,41,41,23
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-05-01,Town 4,16,41,22,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-05-01,Town 4,10,41,16,11
+HCV,1,Screened,Anti-HCV antibody test,2026-05-01,Town 5,34,34,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-05-01,Town 5,21,34,34,26
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-05-01,Town 5,12,34,21,18
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-05-01,Town 5,8,34,12,7
+HCV,1,Screened,Anti-HCV antibody test,2026-06-01,Town 1,41,41,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-06-01,Town 1,27,41,41,26
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-06-01,Town 1,20,41,27,20
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-06-01,Town 1,14,41,20,14
+HCV,1,Screened,Anti-HCV antibody test,2026-06-01,Town 2,39,39,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-06-01,Town 2,21,39,39,27
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-06-01,Town 2,12,39,21,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-06-01,Town 2,10,39,12,9
+HCV,1,Screened,Anti-HCV antibody test,2026-06-01,Town 3,53,53,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-06-01,Town 3,31,53,53,36
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-06-01,Town 3,25,53,31,27
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-06-01,Town 3,18,53,25,15
+HCV,1,Screened,Anti-HCV antibody test,2026-06-01,Town 4,36,36,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-06-01,Town 4,22,36,36,20
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-06-01,Town 4,15,36,22,19
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-06-01,Town 4,6,36,15,7
+HCV,1,Screened,Anti-HCV antibody test,2026-06-01,Town 5,40,40,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-06-01,Town 5,20,40,40,26
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-06-01,Town 5,12,40,20,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-06-01,Town 5,9,40,12,11
+HCV,1,Screened,Anti-HCV antibody test,2026-07-01,Town 1,44,44,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-07-01,Town 1,26,44,44,33
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-07-01,Town 1,16,44,26,21
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-07-01,Town 1,9,44,16,12
+HCV,1,Screened,Anti-HCV antibody test,2026-07-01,Town 2,37,37,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-07-01,Town 2,22,37,37,23
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-07-01,Town 2,14,37,22,16
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-07-01,Town 2,11,37,14,11
+HCV,1,Screened,Anti-HCV antibody test,2026-07-01,Town 3,42,42,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-07-01,Town 3,26,42,42,28
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-07-01,Town 3,19,42,26,16
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-07-01,Town 3,10,42,19,13
+HCV,1,Screened,Anti-HCV antibody test,2026-07-01,Town 4,32,32,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-07-01,Town 4,16,32,32,21
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-07-01,Town 4,15,32,16,11
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-07-01,Town 4,10,32,15,11
+HCV,1,Screened,Anti-HCV antibody test,2026-07-01,Town 5,45,45,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-07-01,Town 5,27,45,45,30
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-07-01,Town 5,19,45,27,25
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-07-01,Town 5,11,45,19,14
+HCV,1,Screened,Anti-HCV antibody test,2026-08-01,Town 1,31,31,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-08-01,Town 1,17,31,31,21
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-08-01,Town 1,13,31,17,13
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-08-01,Town 1,8,31,13,8
+HCV,1,Screened,Anti-HCV antibody test,2026-08-01,Town 2,48,48,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-08-01,Town 2,26,48,48,32
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-08-01,Town 2,17,48,26,21
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-08-01,Town 2,11,48,17,15
+HCV,1,Screened,Anti-HCV antibody test,2026-08-01,Town 3,56,56,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-08-01,Town 3,32,56,56,34
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-08-01,Town 3,27,56,32,25
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-08-01,Town 3,15,56,27,18
+HCV,1,Screened,Anti-HCV antibody test,2026-08-01,Town 4,35,35,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-08-01,Town 4,22,35,35,28
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-08-01,Town 4,17,35,22,19
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-08-01,Town 4,12,35,17,14
+HCV,1,Screened,Anti-HCV antibody test,2026-08-01,Town 5,41,41,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-08-01,Town 5,26,41,41,30
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-08-01,Town 5,19,41,26,17
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-08-01,Town 5,13,41,19,15
+HCV,1,Screened,Anti-HCV antibody test,2026-09-01,Town 1,50,50,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-09-01,Town 1,30,50,50,34
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-09-01,Town 1,24,50,30,24
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-09-01,Town 1,13,50,24,17
+HCV,1,Screened,Anti-HCV antibody test,2026-09-01,Town 2,40,40,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-09-01,Town 2,21,40,40,27
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-09-01,Town 2,14,40,21,15
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-09-01,Town 2,8,40,14,9
+HCV,1,Screened,Anti-HCV antibody test,2026-09-01,Town 3,33,33,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-09-01,Town 3,14,33,33,22
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-09-01,Town 3,12,33,14,13
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-09-01,Town 3,5,33,12,8
+HCV,1,Screened,Anti-HCV antibody test,2026-09-01,Town 4,39,39,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-09-01,Town 4,20,39,39,25
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-09-01,Town 4,12,39,20,18
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-09-01,Town 4,7,39,12,9
+HCV,1,Screened,Anti-HCV antibody test,2026-09-01,Town 5,50,50,NA,NA
+HCV,2,Diagnosed,Active viremia confirmed (RNA PCR or point of care),2026-09-01,Town 5,26,50,50,35
+HCV,3,Linked to care,DAA prescribed or referred for treatment,2026-09-01,Town 5,17,50,26,20
+HCV,4,Cured (SVR),Undetectable viral load 12 weeks after treatment,2026-09-01,Town 5,9,50,17,12
+HIV PrEP,1,Tested,HIV-negative test result,2025-04-01,Town 1,41,41,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-04-01,Town 1,24,41,41,31
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-04-01,Town 1,14,41,24,18
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-04-01,Town 1,12,41,14,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-04-01,Town 1,9,41,12,10
+HIV PrEP,1,Tested,HIV-negative test result,2025-04-01,Town 2,37,37,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-04-01,Town 2,26,37,37,31
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-04-01,Town 2,19,37,26,18
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-04-01,Town 2,16,37,19,16
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-04-01,Town 2,8,37,16,13
+HIV PrEP,1,Tested,HIV-negative test result,2025-04-01,Town 3,43,43,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-04-01,Town 3,27,43,43,27
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-04-01,Town 3,14,43,27,20
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-04-01,Town 3,12,43,14,10
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-04-01,Town 3,8,43,12,8
+HIV PrEP,1,Tested,HIV-negative test result,2025-04-01,Town 4,46,46,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-04-01,Town 4,31,46,46,36
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-04-01,Town 4,22,46,31,16
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-04-01,Town 4,17,46,22,18
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-04-01,Town 4,13,46,17,10
+HIV PrEP,1,Tested,HIV-negative test result,2025-04-01,Town 5,45,45,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-04-01,Town 5,29,45,45,32
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-04-01,Town 5,21,45,29,20
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-04-01,Town 5,13,45,21,17
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-04-01,Town 5,6,45,13,8
+HIV PrEP,1,Tested,HIV-negative test result,2025-05-01,Town 1,30,30,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-05-01,Town 1,24,30,30,23
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-05-01,Town 1,15,30,24,14
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-05-01,Town 1,11,30,15,14
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-05-01,Town 1,8,30,11,8
+HIV PrEP,1,Tested,HIV-negative test result,2025-05-01,Town 2,46,46,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-05-01,Town 2,37,46,46,36
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-05-01,Town 2,23,46,37,25
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-05-01,Town 2,18,46,23,20
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-05-01,Town 2,13,46,18,13
+HIV PrEP,1,Tested,HIV-negative test result,2025-05-01,Town 3,40,40,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-05-01,Town 3,33,40,40,30
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-05-01,Town 3,17,40,33,24
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-05-01,Town 3,13,40,17,14
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-05-01,Town 3,12,40,13,8
+HIV PrEP,1,Tested,HIV-negative test result,2025-05-01,Town 4,29,29,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-05-01,Town 4,21,29,29,21
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-05-01,Town 4,14,29,21,14
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-05-01,Town 4,11,29,14,12
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-05-01,Town 4,6,29,11,8
+HIV PrEP,1,Tested,HIV-negative test result,2025-05-01,Town 5,46,46,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-05-01,Town 5,26,46,46,39
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-05-01,Town 5,18,46,26,17
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-05-01,Town 5,10,46,18,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-05-01,Town 5,6,46,10,7
+HIV PrEP,1,Tested,HIV-negative test result,2025-06-01,Town 1,60,60,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-06-01,Town 1,34,60,60,39
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-06-01,Town 1,23,60,34,23
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-06-01,Town 1,19,60,23,19
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-06-01,Town 1,10,60,19,15
+HIV PrEP,1,Tested,HIV-negative test result,2025-06-01,Town 2,25,25,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-06-01,Town 2,19,25,25,20
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-06-01,Town 2,11,25,19,14
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-06-01,Town 2,10,25,11,8
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-06-01,Town 2,7,25,10,7
+HIV PrEP,1,Tested,HIV-negative test result,2025-06-01,Town 3,30,30,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-06-01,Town 3,23,30,30,20
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-06-01,Town 3,17,30,23,17
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-06-01,Town 3,10,30,17,13
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-06-01,Town 3,8,30,10,9
+HIV PrEP,1,Tested,HIV-negative test result,2025-06-01,Town 4,43,43,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-06-01,Town 4,25,43,43,33
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-06-01,Town 4,15,43,25,19
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-06-01,Town 4,12,43,15,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-06-01,Town 4,7,43,12,10
+HIV PrEP,1,Tested,HIV-negative test result,2025-06-01,Town 5,35,35,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-06-01,Town 5,24,35,35,22
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-06-01,Town 5,14,35,24,15
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-06-01,Town 5,9,35,14,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-06-01,Town 5,4,35,9,6
+HIV PrEP,1,Tested,HIV-negative test result,2025-07-01,Town 1,47,47,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-07-01,Town 1,32,47,47,40
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-07-01,Town 1,24,47,32,17
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-07-01,Town 1,16,47,24,17
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-07-01,Town 1,7,47,16,12
+HIV PrEP,1,Tested,HIV-negative test result,2025-07-01,Town 2,42,42,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-07-01,Town 2,31,42,42,29
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-07-01,Town 2,20,42,31,22
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-07-01,Town 2,16,42,20,17
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-07-01,Town 2,10,42,16,10
+HIV PrEP,1,Tested,HIV-negative test result,2025-07-01,Town 3,41,41,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-07-01,Town 3,34,41,41,30
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-07-01,Town 3,17,41,34,23
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-07-01,Town 3,12,41,17,12
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-07-01,Town 3,7,41,12,4
+HIV PrEP,1,Tested,HIV-negative test result,2025-07-01,Town 4,36,36,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-07-01,Town 4,23,36,36,24
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-07-01,Town 4,14,36,23,19
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-07-01,Town 4,9,36,14,9
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-07-01,Town 4,5,36,9,9
+HIV PrEP,1,Tested,HIV-negative test result,2025-07-01,Town 5,45,45,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-07-01,Town 5,26,45,45,37
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-07-01,Town 5,14,45,26,20
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-07-01,Town 5,13,45,14,13
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-07-01,Town 5,12,45,13,9
+HIV PrEP,1,Tested,HIV-negative test result,2025-08-01,Town 1,33,33,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-08-01,Town 1,23,33,33,28
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-08-01,Town 1,12,33,23,16
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-08-01,Town 1,8,33,12,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-08-01,Town 1,8,33,8,5
+HIV PrEP,1,Tested,HIV-negative test result,2025-08-01,Town 2,41,41,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-08-01,Town 2,31,41,41,34
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-08-01,Town 2,17,41,31,19
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-08-01,Town 2,15,41,17,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-08-01,Town 2,11,41,15,12
+HIV PrEP,1,Tested,HIV-negative test result,2025-08-01,Town 3,38,38,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-08-01,Town 3,24,38,38,29
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-08-01,Town 3,16,38,24,15
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-08-01,Town 3,10,38,16,12
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-08-01,Town 3,5,38,10,8
+HIV PrEP,1,Tested,HIV-negative test result,2025-08-01,Town 4,44,44,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-08-01,Town 4,38,44,44,31
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-08-01,Town 4,25,44,38,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-08-01,Town 4,19,44,25,22
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-08-01,Town 4,10,44,19,15
+HIV PrEP,1,Tested,HIV-negative test result,2025-08-01,Town 5,41,41,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-08-01,Town 5,28,41,41,31
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-08-01,Town 5,16,41,28,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-08-01,Town 5,11,41,16,14
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-08-01,Town 5,9,41,11,10
+HIV PrEP,1,Tested,HIV-negative test result,2025-09-01,Town 1,29,29,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-09-01,Town 1,19,29,29,26
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-09-01,Town 1,12,29,19,16
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-09-01,Town 1,11,29,12,10
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-09-01,Town 1,6,29,11,8
+HIV PrEP,1,Tested,HIV-negative test result,2025-09-01,Town 2,41,41,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-09-01,Town 2,28,41,41,30
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-09-01,Town 2,20,41,28,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-09-01,Town 2,13,41,20,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-09-01,Town 2,10,41,13,11
+HIV PrEP,1,Tested,HIV-negative test result,2025-09-01,Town 3,33,33,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-09-01,Town 3,26,33,33,24
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-09-01,Town 3,18,33,26,19
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-09-01,Town 3,16,33,18,16
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-09-01,Town 3,12,33,16,9
+HIV PrEP,1,Tested,HIV-negative test result,2025-09-01,Town 4,50,50,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-09-01,Town 4,37,50,50,38
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-09-01,Town 4,27,50,37,22
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-09-01,Town 4,21,50,27,24
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-09-01,Town 4,11,50,21,13
+HIV PrEP,1,Tested,HIV-negative test result,2025-09-01,Town 5,43,43,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-09-01,Town 5,31,43,43,27
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-09-01,Town 5,14,43,31,24
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-09-01,Town 5,10,43,14,8
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-09-01,Town 5,5,43,10,6
+HIV PrEP,1,Tested,HIV-negative test result,2025-10-01,Town 1,32,32,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-10-01,Town 1,27,32,32,24
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-10-01,Town 1,17,32,27,19
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-10-01,Town 1,15,32,17,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-10-01,Town 1,10,32,15,10
+HIV PrEP,1,Tested,HIV-negative test result,2025-10-01,Town 2,35,35,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-10-01,Town 2,23,35,35,23
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-10-01,Town 2,17,35,23,17
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-10-01,Town 2,15,35,17,14
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-10-01,Town 2,9,35,15,9
+HIV PrEP,1,Tested,HIV-negative test result,2025-10-01,Town 3,35,35,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-10-01,Town 3,25,35,35,26
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-10-01,Town 3,13,35,25,20
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-10-01,Town 3,11,35,13,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-10-01,Town 3,8,35,11,9
+HIV PrEP,1,Tested,HIV-negative test result,2025-10-01,Town 4,39,39,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-10-01,Town 4,27,39,39,27
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-10-01,Town 4,22,39,27,20
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-10-01,Town 4,17,39,22,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-10-01,Town 4,13,39,17,10
+HIV PrEP,1,Tested,HIV-negative test result,2025-10-01,Town 5,42,42,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-10-01,Town 5,32,42,42,32
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-10-01,Town 5,20,42,32,25
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-10-01,Town 5,13,42,20,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-10-01,Town 5,9,42,13,10
+HIV PrEP,1,Tested,HIV-negative test result,2025-11-01,Town 1,44,44,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-11-01,Town 1,35,44,44,30
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-11-01,Town 1,21,44,35,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-11-01,Town 1,15,44,21,17
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-11-01,Town 1,10,44,15,11
+HIV PrEP,1,Tested,HIV-negative test result,2025-11-01,Town 2,40,40,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-11-01,Town 2,35,40,40,32
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-11-01,Town 2,25,40,35,30
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-11-01,Town 2,13,40,25,21
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-11-01,Town 2,8,40,13,11
+HIV PrEP,1,Tested,HIV-negative test result,2025-11-01,Town 3,39,39,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-11-01,Town 3,23,39,39,29
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-11-01,Town 3,15,39,23,13
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-11-01,Town 3,10,39,15,12
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-11-01,Town 3,5,39,10,6
+HIV PrEP,1,Tested,HIV-negative test result,2025-11-01,Town 4,49,49,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-11-01,Town 4,40,49,49,39
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-11-01,Town 4,22,49,40,25
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-11-01,Town 4,19,49,22,18
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-11-01,Town 4,12,49,19,12
+HIV PrEP,1,Tested,HIV-negative test result,2025-11-01,Town 5,47,47,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-11-01,Town 5,36,47,47,37
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-11-01,Town 5,25,47,36,23
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-11-01,Town 5,19,47,25,21
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-11-01,Town 5,13,47,19,13
+HIV PrEP,1,Tested,HIV-negative test result,2025-12-01,Town 1,29,29,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-12-01,Town 1,22,29,29,20
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-12-01,Town 1,19,29,22,12
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-12-01,Town 1,15,29,19,12
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-12-01,Town 1,9,29,15,11
+HIV PrEP,1,Tested,HIV-negative test result,2025-12-01,Town 2,38,38,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-12-01,Town 2,29,38,38,24
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-12-01,Town 2,23,38,29,17
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-12-01,Town 2,17,38,23,18
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-12-01,Town 2,11,38,17,13
+HIV PrEP,1,Tested,HIV-negative test result,2025-12-01,Town 3,48,48,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-12-01,Town 3,33,48,48,34
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-12-01,Town 3,17,48,33,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-12-01,Town 3,13,48,17,13
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-12-01,Town 3,9,48,13,7
+HIV PrEP,1,Tested,HIV-negative test result,2025-12-01,Town 4,42,42,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-12-01,Town 4,30,42,42,37
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-12-01,Town 4,20,42,30,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-12-01,Town 4,18,42,20,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-12-01,Town 4,12,42,18,14
+HIV PrEP,1,Tested,HIV-negative test result,2025-12-01,Town 5,30,30,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2025-12-01,Town 5,20,30,30,20
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2025-12-01,Town 5,11,30,20,20
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2025-12-01,Town 5,8,30,11,10
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2025-12-01,Town 5,7,30,8,6
+HIV PrEP,1,Tested,HIV-negative test result,2026-01-01,Town 1,49,49,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-01-01,Town 1,33,49,49,41
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-01-01,Town 1,23,49,33,18
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-01-01,Town 1,17,49,23,17
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-01-01,Town 1,13,49,17,14
+HIV PrEP,1,Tested,HIV-negative test result,2026-01-01,Town 2,43,43,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-01-01,Town 2,23,43,43,34
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-01-01,Town 2,13,43,23,18
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-01-01,Town 2,8,43,13,10
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-01-01,Town 2,5,43,8,5
+HIV PrEP,1,Tested,HIV-negative test result,2026-01-01,Town 3,28,28,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-01-01,Town 3,14,28,28,20
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-01-01,Town 3,11,28,14,10
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-01-01,Town 3,7,28,11,9
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-01-01,Town 3,5,28,7,6
+HIV PrEP,1,Tested,HIV-negative test result,2026-01-01,Town 4,37,37,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-01-01,Town 4,28,37,37,24
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-01-01,Town 4,22,37,28,17
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-01-01,Town 4,17,37,22,18
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-01-01,Town 4,13,37,17,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-01-01,Town 5,47,47,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-01-01,Town 5,30,47,47,32
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-01-01,Town 5,23,47,30,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-01-01,Town 5,18,47,23,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-01-01,Town 5,13,47,18,16
+HIV PrEP,1,Tested,HIV-negative test result,2026-02-01,Town 1,49,49,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-02-01,Town 1,37,49,49,36
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-02-01,Town 1,23,49,37,23
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-02-01,Town 1,18,49,23,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-02-01,Town 1,15,49,18,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-02-01,Town 2,56,56,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-02-01,Town 2,49,56,56,40
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-02-01,Town 2,33,56,49,40
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-02-01,Town 2,22,56,33,28
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-02-01,Town 2,15,56,22,13
+HIV PrEP,1,Tested,HIV-negative test result,2026-02-01,Town 3,48,48,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-02-01,Town 3,32,48,48,35
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-02-01,Town 3,19,48,32,24
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-02-01,Town 3,14,48,19,14
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-02-01,Town 3,10,48,14,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-02-01,Town 4,35,35,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-02-01,Town 4,23,35,35,25
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-02-01,Town 4,12,35,23,14
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-02-01,Town 4,10,35,12,8
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-02-01,Town 4,8,35,10,6
+HIV PrEP,1,Tested,HIV-negative test result,2026-02-01,Town 5,47,47,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-02-01,Town 5,37,47,47,37
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-02-01,Town 5,23,47,37,27
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-02-01,Town 5,16,47,23,19
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-02-01,Town 5,10,47,16,13
+HIV PrEP,1,Tested,HIV-negative test result,2026-03-01,Town 1,51,51,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-03-01,Town 1,36,51,51,40
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-03-01,Town 1,20,51,36,26
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-03-01,Town 1,12,51,20,17
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-03-01,Town 1,8,51,12,7
+HIV PrEP,1,Tested,HIV-negative test result,2026-03-01,Town 2,43,43,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-03-01,Town 2,32,43,43,34
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-03-01,Town 2,17,43,32,23
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-03-01,Town 2,12,43,17,12
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-03-01,Town 2,10,43,12,9
+HIV PrEP,1,Tested,HIV-negative test result,2026-03-01,Town 3,40,40,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-03-01,Town 3,27,40,40,32
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-03-01,Town 3,15,40,27,18
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-03-01,Town 3,11,40,15,14
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-03-01,Town 3,9,40,11,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-03-01,Town 4,39,39,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-03-01,Town 4,22,39,39,35
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-03-01,Town 4,17,39,22,13
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-03-01,Town 4,15,39,17,14
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-03-01,Town 4,11,39,15,11
+HIV PrEP,1,Tested,HIV-negative test result,2026-03-01,Town 5,47,47,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-03-01,Town 5,34,47,47,34
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-03-01,Town 5,23,47,34,25
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-03-01,Town 5,22,47,23,18
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-03-01,Town 5,17,47,22,12
+HIV PrEP,1,Tested,HIV-negative test result,2026-04-01,Town 1,35,35,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-04-01,Town 1,25,35,35,27
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-04-01,Town 1,15,35,25,16
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-04-01,Town 1,14,35,15,12
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-04-01,Town 1,9,35,14,8
+HIV PrEP,1,Tested,HIV-negative test result,2026-04-01,Town 2,45,45,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-04-01,Town 2,32,45,45,30
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-04-01,Town 2,21,45,32,23
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-04-01,Town 2,16,45,21,20
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-04-01,Town 2,10,45,16,12
+HIV PrEP,1,Tested,HIV-negative test result,2026-04-01,Town 3,43,43,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-04-01,Town 3,31,43,43,34
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-04-01,Town 3,25,43,31,23
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-04-01,Town 3,15,43,25,21
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-04-01,Town 3,11,43,15,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-04-01,Town 4,36,36,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-04-01,Town 4,19,36,36,27
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-04-01,Town 4,14,36,19,14
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-04-01,Town 4,10,36,14,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-04-01,Town 4,6,36,10,8
+HIV PrEP,1,Tested,HIV-negative test result,2026-04-01,Town 5,35,35,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-04-01,Town 5,24,35,35,29
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-04-01,Town 5,14,35,24,17
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-04-01,Town 5,11,35,14,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-04-01,Town 5,7,35,11,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-05-01,Town 1,42,42,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-05-01,Town 1,30,42,42,32
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-05-01,Town 1,20,42,30,19
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-05-01,Town 1,13,42,20,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-05-01,Town 1,8,42,13,9
+HIV PrEP,1,Tested,HIV-negative test result,2026-05-01,Town 2,52,52,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-05-01,Town 2,31,52,52,38
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-05-01,Town 2,18,52,31,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-05-01,Town 2,16,52,18,13
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-05-01,Town 2,11,52,16,13
+HIV PrEP,1,Tested,HIV-negative test result,2026-05-01,Town 3,48,48,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-05-01,Town 3,38,48,48,37
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-05-01,Town 3,25,48,38,27
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-05-01,Town 3,22,48,25,19
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-05-01,Town 3,10,48,22,13
+HIV PrEP,1,Tested,HIV-negative test result,2026-05-01,Town 4,35,35,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-05-01,Town 4,29,35,35,28
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-05-01,Town 4,15,35,29,20
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-05-01,Town 4,11,35,15,12
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-05-01,Town 4,7,35,11,8
+HIV PrEP,1,Tested,HIV-negative test result,2026-05-01,Town 5,44,44,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-05-01,Town 5,31,44,44,36
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-05-01,Town 5,14,44,31,20
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-05-01,Town 5,12,44,14,7
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-05-01,Town 5,8,44,12,9
+HIV PrEP,1,Tested,HIV-negative test result,2026-06-01,Town 1,32,32,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-06-01,Town 1,22,32,32,22
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-06-01,Town 1,12,32,22,13
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-06-01,Town 1,8,32,12,9
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-06-01,Town 1,3,32,8,7
+HIV PrEP,1,Tested,HIV-negative test result,2026-06-01,Town 2,50,50,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-06-01,Town 2,33,50,50,41
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-06-01,Town 2,21,50,33,22
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-06-01,Town 2,15,50,21,20
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-06-01,Town 2,11,50,15,8
+HIV PrEP,1,Tested,HIV-negative test result,2026-06-01,Town 3,33,33,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-06-01,Town 3,23,33,33,28
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-06-01,Town 3,12,33,23,16
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-06-01,Town 3,10,33,12,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-06-01,Town 3,7,33,10,7
+HIV PrEP,1,Tested,HIV-negative test result,2026-06-01,Town 4,45,45,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-06-01,Town 4,31,45,45,34
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-06-01,Town 4,24,45,31,24
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-06-01,Town 4,18,45,24,19
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-06-01,Town 4,13,45,18,15
+HIV PrEP,1,Tested,HIV-negative test result,2026-06-01,Town 5,37,37,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-06-01,Town 5,20,37,37,24
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-06-01,Town 5,12,37,20,14
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-06-01,Town 5,10,37,12,9
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-06-01,Town 5,6,37,10,6
+HIV PrEP,1,Tested,HIV-negative test result,2026-07-01,Town 1,29,29,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-07-01,Town 1,15,29,29,22
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-07-01,Town 1,9,29,15,10
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-07-01,Town 1,6,29,9,9
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-07-01,Town 1,2,29,6,4
+HIV PrEP,1,Tested,HIV-negative test result,2026-07-01,Town 2,25,25,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-07-01,Town 2,16,25,25,20
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-07-01,Town 2,11,25,16,12
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-07-01,Town 2,10,25,11,9
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-07-01,Town 2,8,25,10,3
+HIV PrEP,1,Tested,HIV-negative test result,2026-07-01,Town 3,28,28,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-07-01,Town 3,20,28,28,25
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-07-01,Town 3,16,28,20,10
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-07-01,Town 3,8,28,16,11
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-07-01,Town 3,7,28,8,5
+HIV PrEP,1,Tested,HIV-negative test result,2026-07-01,Town 4,42,42,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-07-01,Town 4,27,42,42,34
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-07-01,Town 4,16,42,27,19
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-07-01,Town 4,13,42,16,13
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-07-01,Town 4,10,42,13,12
+HIV PrEP,1,Tested,HIV-negative test result,2026-07-01,Town 5,32,32,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-07-01,Town 5,24,32,32,23
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-07-01,Town 5,18,32,24,17
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-07-01,Town 5,15,32,18,16
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-07-01,Town 5,8,32,15,13
+HIV PrEP,1,Tested,HIV-negative test result,2026-08-01,Town 1,40,40,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-08-01,Town 1,26,40,40,30
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-08-01,Town 1,18,40,26,18
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-08-01,Town 1,16,40,18,13
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-08-01,Town 1,10,40,16,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-08-01,Town 2,35,35,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-08-01,Town 2,28,35,35,26
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-08-01,Town 2,22,35,28,19
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-08-01,Town 2,19,35,22,17
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-08-01,Town 2,12,35,19,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-08-01,Town 3,42,42,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-08-01,Town 3,32,42,42,26
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-08-01,Town 3,17,42,32,23
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-08-01,Town 3,12,42,17,16
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-08-01,Town 3,4,42,12,9
+HIV PrEP,1,Tested,HIV-negative test result,2026-08-01,Town 4,44,44,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-08-01,Town 4,31,44,44,32
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-08-01,Town 4,18,44,31,22
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-08-01,Town 4,13,44,18,13
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-08-01,Town 4,8,44,13,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-08-01,Town 5,48,48,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-08-01,Town 5,29,48,48,36
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-08-01,Town 5,19,48,29,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-08-01,Town 5,14,48,19,13
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-08-01,Town 5,8,48,14,10
+HIV PrEP,1,Tested,HIV-negative test result,2026-09-01,Town 1,36,36,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-09-01,Town 1,26,36,36,25
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-09-01,Town 1,18,36,26,21
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-09-01,Town 1,13,36,18,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-09-01,Town 1,7,36,13,9
+HIV PrEP,1,Tested,HIV-negative test result,2026-09-01,Town 2,42,42,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-09-01,Town 2,30,42,42,29
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-09-01,Town 2,20,42,30,18
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-09-01,Town 2,13,42,20,13
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-09-01,Town 2,6,42,13,9
+HIV PrEP,1,Tested,HIV-negative test result,2026-09-01,Town 3,44,44,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-09-01,Town 3,36,44,44,33
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-09-01,Town 3,24,44,36,26
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-09-01,Town 3,17,44,24,16
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-09-01,Town 3,10,44,17,8
+HIV PrEP,1,Tested,HIV-negative test result,2026-09-01,Town 4,42,42,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-09-01,Town 4,31,42,42,29
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-09-01,Town 4,20,42,31,16
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-09-01,Town 4,14,42,20,16
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-09-01,Town 4,8,42,14,12
+HIV PrEP,1,Tested,HIV-negative test result,2026-09-01,Town 5,40,40,NA,NA
+HIV PrEP,2,Linked to PrEP care,PrEP discussed or offered,2026-09-01,Town 5,31,40,40,31
+HIV PrEP,3,Prescribed PrEP,"New prescription, or existing prescription confirmed",2026-09-01,Town 5,18,40,31,23
+HIV PrEP,4,Initiated PrEP,Prescription picked up,2026-09-01,Town 5,16,40,18,15
+HIV PrEP,5,Retained in care,Visits and refills on schedule for the formulation,2026-09-01,Town 5,12,40,16,12
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-04-01,Town 1,36,36,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 1,23,36,36,20
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-04-01,Town 1,18,36,23,20
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-04-01,Town 1,16,36,18,18
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-04-01,Town 1,13,36,16,14
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-04-01,Town 1,12,36,13,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-04-01,Town 2,25,25,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 2,7,25,25,13
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-04-01,Town 2,6,25,7,7
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-04-01,Town 2,4,25,6,4
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-04-01,Town 2,3,25,4,3
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-04-01,Town 2,3,25,3,3
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-04-01,Town 3,47,47,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 3,28,47,47,21
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-04-01,Town 3,25,47,28,27
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-04-01,Town 3,20,47,25,24
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-04-01,Town 3,18,47,20,17
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-04-01,Town 3,15,47,18,16
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-04-01,Town 4,38,38,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 4,25,38,38,23
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-04-01,Town 4,19,38,25,23
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-04-01,Town 4,18,38,19,16
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-04-01,Town 4,14,38,18,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-04-01,Town 4,12,38,14,12
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-04-01,Town 5,43,43,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 5,26,43,43,26
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-04-01,Town 5,20,43,26,23
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-04-01,Town 5,17,43,20,16
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-04-01,Town 5,14,43,17,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-04-01,Town 5,13,43,14,14
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-05-01,Town 1,39,39,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 1,21,39,39,27
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-05-01,Town 1,18,39,21,20
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-05-01,Town 1,11,39,18,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-05-01,Town 1,10,39,11,9
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-05-01,Town 1,8,39,10,8
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-05-01,Town 2,47,47,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 2,21,47,47,28
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-05-01,Town 2,15,47,21,21
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-05-01,Town 2,12,47,15,13
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-05-01,Town 2,12,47,12,10
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-05-01,Town 2,12,47,12,9
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-05-01,Town 3,40,40,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 3,26,40,40,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-05-01,Town 3,25,40,26,25
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-05-01,Town 3,23,40,25,22
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-05-01,Town 3,22,40,23,22
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-05-01,Town 3,17,40,22,20
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-05-01,Town 4,43,43,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 4,27,43,43,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-05-01,Town 4,22,43,27,25
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-05-01,Town 4,19,43,22,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-05-01,Town 4,15,43,19,14
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-05-01,Town 4,13,43,15,14
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-05-01,Town 5,29,29,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 5,14,29,29,13
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-05-01,Town 5,14,29,14,13
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-05-01,Town 5,12,29,14,11
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-05-01,Town 5,12,29,12,9
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-05-01,Town 5,11,29,12,12
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-06-01,Town 1,53,53,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 1,24,53,53,31
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-06-01,Town 1,18,53,24,21
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-06-01,Town 1,13,53,18,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-06-01,Town 1,9,53,13,12
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-06-01,Town 1,9,53,9,9
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-06-01,Town 2,47,47,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 2,25,47,47,31
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-06-01,Town 2,23,47,25,21
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-06-01,Town 2,18,47,23,21
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-06-01,Town 2,14,47,18,16
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-06-01,Town 2,12,47,14,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-06-01,Town 3,46,46,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 3,24,46,46,29
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-06-01,Town 3,23,46,24,23
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-06-01,Town 3,20,46,23,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-06-01,Town 3,18,46,20,17
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-06-01,Town 3,13,46,18,16
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-06-01,Town 4,51,51,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 4,32,51,51,28
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-06-01,Town 4,27,51,32,30
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-06-01,Town 4,24,51,27,24
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-06-01,Town 4,17,51,24,20
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-06-01,Town 4,15,51,17,17
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-06-01,Town 5,41,41,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 5,22,41,41,28
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-06-01,Town 5,21,41,22,19
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-06-01,Town 5,19,41,21,18
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-06-01,Town 5,17,41,19,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-06-01,Town 5,16,41,17,15
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-07-01,Town 1,37,37,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 1,18,37,37,19
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-07-01,Town 1,13,37,18,16
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-07-01,Town 1,10,37,13,12
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-07-01,Town 1,8,37,10,8
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-07-01,Town 1,6,37,8,8
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-07-01,Town 2,42,42,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 2,22,42,42,21
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-07-01,Town 2,20,42,22,21
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-07-01,Town 2,17,42,20,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-07-01,Town 2,15,42,17,11
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-07-01,Town 2,12,42,15,14
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-07-01,Town 3,33,33,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 3,15,33,33,19
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-07-01,Town 3,13,33,15,11
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-07-01,Town 3,13,33,13,12
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-07-01,Town 3,12,33,13,12
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-07-01,Town 3,12,33,12,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-07-01,Town 4,33,33,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 4,20,33,33,21
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-07-01,Town 4,17,33,20,19
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-07-01,Town 4,16,33,17,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-07-01,Town 4,14,33,16,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-07-01,Town 4,13,33,14,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-07-01,Town 5,38,38,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 5,29,38,38,26
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-07-01,Town 5,27,38,29,28
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-07-01,Town 5,23,38,27,27
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-07-01,Town 5,20,38,23,22
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-07-01,Town 5,18,38,20,17
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-08-01,Town 1,46,46,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 1,26,46,46,26
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-08-01,Town 1,18,46,26,26
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-08-01,Town 1,9,46,18,17
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-08-01,Town 1,3,46,9,7
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-08-01,Town 1,3,46,3,3
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-08-01,Town 2,54,54,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 2,26,54,54,33
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-08-01,Town 2,25,54,26,23
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-08-01,Town 2,24,54,25,23
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-08-01,Town 2,20,54,24,20
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-08-01,Town 2,16,54,20,18
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-08-01,Town 3,48,48,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 3,25,48,48,28
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-08-01,Town 3,19,48,25,24
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-08-01,Town 3,16,48,19,16
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-08-01,Town 3,12,48,16,12
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-08-01,Town 3,8,48,12,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-08-01,Town 4,42,42,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 4,23,42,42,27
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-08-01,Town 4,19,42,23,23
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-08-01,Town 4,17,42,19,16
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-08-01,Town 4,12,42,17,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-08-01,Town 4,10,42,12,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-08-01,Town 5,29,29,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 5,18,29,29,19
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-08-01,Town 5,16,29,18,17
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-08-01,Town 5,13,29,16,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-08-01,Town 5,11,29,13,10
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-08-01,Town 5,9,29,11,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-09-01,Town 1,36,36,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 1,21,36,36,17
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-09-01,Town 1,19,36,21,19
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-09-01,Town 1,15,36,19,17
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-09-01,Town 1,12,36,15,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-09-01,Town 1,8,36,12,11
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-09-01,Town 2,42,42,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 2,23,42,42,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-09-01,Town 2,19,42,23,23
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-09-01,Town 2,16,42,19,16
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-09-01,Town 2,15,42,16,14
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-09-01,Town 2,13,42,15,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-09-01,Town 3,40,40,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 3,27,40,40,27
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-09-01,Town 3,21,40,27,25
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-09-01,Town 3,21,40,21,20
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-09-01,Town 3,18,40,21,18
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-09-01,Town 3,15,40,18,17
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-09-01,Town 4,37,37,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 4,18,37,37,16
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-09-01,Town 4,14,37,18,15
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-09-01,Town 4,12,37,14,12
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-09-01,Town 4,12,37,12,12
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-09-01,Town 4,11,37,12,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-09-01,Town 5,43,43,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 5,24,43,43,28
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-09-01,Town 5,19,43,24,22
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-09-01,Town 5,17,43,19,18
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-09-01,Town 5,14,43,17,16
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-09-01,Town 5,14,43,14,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-10-01,Town 1,47,47,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 1,26,47,47,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-10-01,Town 1,22,47,26,22
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-10-01,Town 1,21,47,22,20
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-10-01,Town 1,16,47,21,19
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-10-01,Town 1,16,47,16,14
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-10-01,Town 2,58,58,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 2,30,58,58,35
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-10-01,Town 2,28,58,30,29
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-10-01,Town 2,25,58,28,26
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-10-01,Town 2,20,58,25,23
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-10-01,Town 2,17,58,20,19
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-10-01,Town 3,41,41,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 3,23,41,41,19
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-10-01,Town 3,20,41,23,19
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-10-01,Town 3,17,41,20,18
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-10-01,Town 3,14,41,17,17
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-10-01,Town 3,13,41,14,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-10-01,Town 4,38,38,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 4,21,38,38,21
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-10-01,Town 4,19,38,21,20
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-10-01,Town 4,17,38,19,17
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-10-01,Town 4,12,38,17,17
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-10-01,Town 4,10,38,12,9
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-10-01,Town 5,43,43,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 5,22,43,43,21
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-10-01,Town 5,17,43,22,18
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-10-01,Town 5,13,43,17,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-10-01,Town 5,12,43,13,9
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-10-01,Town 5,12,43,12,11
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-11-01,Town 1,38,38,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 1,19,38,38,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-11-01,Town 1,15,38,19,16
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-11-01,Town 1,11,38,15,11
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-11-01,Town 1,9,38,11,11
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-11-01,Town 1,9,38,9,8
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-11-01,Town 2,31,31,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 2,17,31,31,14
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-11-01,Town 2,14,31,17,16
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-11-01,Town 2,11,31,14,13
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-11-01,Town 2,9,31,11,6
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-11-01,Town 2,8,31,9,9
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-11-01,Town 3,39,39,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 3,22,39,39,27
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-11-01,Town 3,16,39,22,21
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-11-01,Town 3,15,39,16,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-11-01,Town 3,11,39,15,10
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-11-01,Town 3,9,39,11,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-11-01,Town 4,36,36,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 4,18,36,36,19
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-11-01,Town 4,18,36,18,16
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-11-01,Town 4,16,36,18,14
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-11-01,Town 4,11,36,16,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-11-01,Town 4,10,36,11,9
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-11-01,Town 5,24,24,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 5,11,24,24,18
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-11-01,Town 5,8,24,11,10
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-11-01,Town 5,7,24,8,7
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-11-01,Town 5,6,24,7,7
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-11-01,Town 5,4,24,6,6
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-12-01,Town 1,35,35,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 1,21,35,35,21
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-12-01,Town 1,18,35,21,18
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-12-01,Town 1,15,35,18,18
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-12-01,Town 1,14,35,15,11
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-12-01,Town 1,14,35,14,12
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-12-01,Town 2,36,36,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 2,19,36,36,17
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-12-01,Town 2,16,36,19,15
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-12-01,Town 2,11,36,16,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-12-01,Town 2,9,36,11,11
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-12-01,Town 2,6,36,9,7
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-12-01,Town 3,46,46,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 3,23,46,46,29
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-12-01,Town 3,21,46,23,20
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-12-01,Town 3,15,46,21,20
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-12-01,Town 3,14,46,15,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-12-01,Town 3,12,46,14,12
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-12-01,Town 4,36,36,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 4,18,36,36,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-12-01,Town 4,15,36,18,16
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-12-01,Town 4,14,36,15,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-12-01,Town 4,9,36,14,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-12-01,Town 4,9,36,9,7
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2025-12-01,Town 5,34,34,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 5,18,34,34,22
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2025-12-01,Town 5,15,34,18,17
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2025-12-01,Town 5,12,34,15,10
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2025-12-01,Town 5,10,34,12,9
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2025-12-01,Town 5,9,34,10,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-01-01,Town 1,35,35,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 1,22,35,35,18
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-01-01,Town 1,19,35,22,21
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-01-01,Town 1,18,35,19,18
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-01-01,Town 1,15,35,18,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-01-01,Town 1,11,35,15,14
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-01-01,Town 2,44,44,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 2,23,44,44,31
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-01-01,Town 2,21,44,23,22
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-01-01,Town 2,18,44,21,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-01-01,Town 2,14,44,18,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-01-01,Town 2,14,44,14,14
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-01-01,Town 3,47,47,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 3,31,47,47,26
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-01-01,Town 3,24,47,31,29
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-01-01,Town 3,21,47,24,23
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-01-01,Town 3,17,47,21,17
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-01-01,Town 3,16,47,17,16
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-01-01,Town 4,40,40,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 4,23,40,40,27
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-01-01,Town 4,21,40,23,20
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-01-01,Town 4,18,40,21,21
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-01-01,Town 4,13,40,18,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-01-01,Town 4,13,40,13,12
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-01-01,Town 5,44,44,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 5,26,44,44,31
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-01-01,Town 5,22,44,26,24
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-01-01,Town 5,18,44,22,17
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-01-01,Town 5,11,44,18,16
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-01-01,Town 5,10,44,11,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-02-01,Town 1,39,39,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 1,24,39,39,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-02-01,Town 1,21,39,24,22
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-02-01,Town 1,17,39,21,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-02-01,Town 1,9,39,17,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-02-01,Town 1,7,39,9,8
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-02-01,Town 2,44,44,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 2,22,44,44,32
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-02-01,Town 2,20,44,22,20
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-02-01,Town 2,19,44,20,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-02-01,Town 2,14,44,19,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-02-01,Town 2,12,44,14,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-02-01,Town 3,37,37,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 3,19,37,37,26
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-02-01,Town 3,19,37,19,17
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-02-01,Town 3,15,37,19,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-02-01,Town 3,14,37,15,12
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-02-01,Town 3,9,37,14,14
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-02-01,Town 4,36,36,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 4,18,36,36,25
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-02-01,Town 4,14,36,18,18
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-02-01,Town 4,12,36,14,12
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-02-01,Town 4,10,36,12,12
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-02-01,Town 4,8,36,10,8
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-02-01,Town 5,39,39,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 5,22,39,39,26
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-02-01,Town 5,15,39,22,19
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-02-01,Town 5,11,39,15,14
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-02-01,Town 5,9,39,11,9
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-02-01,Town 5,8,39,9,8
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-03-01,Town 1,42,42,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 1,28,42,42,19
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-03-01,Town 1,25,42,28,27
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-03-01,Town 1,21,42,25,23
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-03-01,Town 1,17,42,21,19
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-03-01,Town 1,14,42,17,16
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-03-01,Town 2,35,35,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 2,22,35,35,16
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-03-01,Town 2,18,35,22,21
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-03-01,Town 2,14,35,18,17
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-03-01,Town 2,11,35,14,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-03-01,Town 2,11,35,11,8
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-03-01,Town 3,36,36,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 3,24,36,36,22
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-03-01,Town 3,20,36,24,20
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-03-01,Town 3,17,36,20,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-03-01,Town 3,15,36,17,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-03-01,Town 3,13,36,15,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-03-01,Town 4,45,45,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 4,27,45,45,26
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-03-01,Town 4,23,45,27,25
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-03-01,Town 4,22,45,23,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-03-01,Town 4,20,45,22,18
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-03-01,Town 4,18,45,20,18
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-03-01,Town 5,44,44,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 5,31,44,44,30
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-03-01,Town 5,25,44,31,29
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-03-01,Town 5,21,44,25,24
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-03-01,Town 5,14,44,21,17
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-03-01,Town 5,10,44,14,12
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-04-01,Town 1,53,53,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 1,28,53,53,32
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-04-01,Town 1,24,53,28,26
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-04-01,Town 1,18,53,24,24
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-04-01,Town 1,15,53,18,17
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-04-01,Town 1,11,53,15,12
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-04-01,Town 2,33,33,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 2,21,33,33,21
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-04-01,Town 2,19,33,21,18
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-04-01,Town 2,18,33,19,16
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-04-01,Town 2,16,33,18,14
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-04-01,Town 2,11,33,16,14
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-04-01,Town 3,35,35,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 3,22,35,35,21
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-04-01,Town 3,16,35,22,17
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-04-01,Town 3,14,35,16,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-04-01,Town 3,12,35,14,12
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-04-01,Town 3,11,35,12,11
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-04-01,Town 4,41,41,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 4,25,41,41,31
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-04-01,Town 4,22,41,25,20
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-04-01,Town 4,19,41,22,20
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-04-01,Town 4,18,41,19,16
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-04-01,Town 4,14,41,18,17
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-04-01,Town 5,40,40,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 5,19,40,40,21
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-04-01,Town 5,16,40,19,15
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-04-01,Town 5,15,40,16,16
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-04-01,Town 5,12,40,15,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-04-01,Town 5,10,40,12,11
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-05-01,Town 1,37,37,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 1,23,37,37,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-05-01,Town 1,19,37,23,23
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-05-01,Town 1,16,37,19,18
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-05-01,Town 1,10,37,16,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-05-01,Town 1,10,37,10,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-05-01,Town 2,52,52,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 2,31,52,52,31
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-05-01,Town 2,24,52,31,28
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-05-01,Town 2,20,52,24,23
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-05-01,Town 2,15,52,20,18
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-05-01,Town 2,13,52,15,14
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-05-01,Town 3,47,47,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 3,28,47,47,28
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-05-01,Town 3,22,47,28,25
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-05-01,Town 3,21,47,22,19
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-05-01,Town 3,18,47,21,19
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-05-01,Town 3,15,47,18,18
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-05-01,Town 4,42,42,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 4,24,42,42,23
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-05-01,Town 4,21,42,24,22
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-05-01,Town 4,18,42,21,16
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-05-01,Town 4,13,42,18,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-05-01,Town 4,13,42,13,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-05-01,Town 5,41,41,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 5,28,41,41,23
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-05-01,Town 5,21,41,28,25
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-05-01,Town 5,16,41,21,18
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-05-01,Town 5,13,41,16,15
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-05-01,Town 5,10,41,13,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-06-01,Town 1,36,36,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 1,20,36,36,26
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-06-01,Town 1,19,36,20,18
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-06-01,Town 1,16,36,19,18
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-06-01,Town 1,15,36,16,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-06-01,Town 1,13,36,15,11
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-06-01,Town 2,31,31,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 2,17,31,31,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-06-01,Town 2,13,31,17,17
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-06-01,Town 2,8,31,13,12
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-06-01,Town 2,8,31,8,7
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-06-01,Town 2,6,31,8,7
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-06-01,Town 3,35,35,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 3,24,35,35,27
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-06-01,Town 3,21,35,24,23
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-06-01,Town 3,18,35,21,17
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-06-01,Town 3,15,35,18,14
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-06-01,Town 3,12,35,15,15
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-06-01,Town 4,44,44,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 4,24,44,44,28
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-06-01,Town 4,18,44,24,24
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-06-01,Town 4,17,44,18,17
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-06-01,Town 4,14,44,17,12
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-06-01,Town 4,13,44,14,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-06-01,Town 5,54,54,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 5,30,54,54,30
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-06-01,Town 5,26,54,30,27
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-06-01,Town 5,24,54,26,25
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-06-01,Town 5,20,54,24,20
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-06-01,Town 5,18,54,20,20
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-07-01,Town 1,29,29,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 1,18,29,29,17
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-07-01,Town 1,14,29,18,17
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-07-01,Town 1,9,29,14,13
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-07-01,Town 1,7,29,9,8
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-07-01,Town 1,6,29,7,7
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-07-01,Town 2,42,42,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 2,23,42,42,29
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-07-01,Town 2,21,42,23,21
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-07-01,Town 2,16,42,21,21
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-07-01,Town 2,14,42,16,11
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-07-01,Town 2,14,42,14,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-07-01,Town 3,38,38,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 3,17,38,38,22
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-07-01,Town 3,14,38,17,15
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-07-01,Town 3,14,38,14,14
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-07-01,Town 3,10,38,14,12
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-07-01,Town 3,9,38,10,8
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-07-01,Town 4,45,45,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 4,18,45,45,18
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-07-01,Town 4,14,45,18,17
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-07-01,Town 4,12,45,14,13
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-07-01,Town 4,12,45,12,11
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-07-01,Town 4,10,45,12,9
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-07-01,Town 5,28,28,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 5,17,28,28,18
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-07-01,Town 5,16,28,17,15
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-07-01,Town 5,14,28,16,15
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-07-01,Town 5,13,28,14,10
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-07-01,Town 5,9,28,13,13
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-08-01,Town 1,35,35,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 1,22,35,35,25
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-08-01,Town 1,17,35,22,20
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-08-01,Town 1,16,35,17,17
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-08-01,Town 1,11,35,16,13
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-08-01,Town 1,11,35,11,11
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-08-01,Town 2,29,29,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 2,14,29,29,16
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-08-01,Town 2,12,29,14,11
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-08-01,Town 2,10,29,12,11
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-08-01,Town 2,8,29,10,10
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-08-01,Town 2,7,29,8,6
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-08-01,Town 3,37,37,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 3,14,37,37,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-08-01,Town 3,13,37,14,13
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-08-01,Town 3,13,37,13,12
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-08-01,Town 3,11,37,13,11
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-08-01,Town 3,10,37,11,11
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-08-01,Town 4,33,33,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 4,16,33,33,17
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-08-01,Town 4,12,33,16,16
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-08-01,Town 4,12,33,12,11
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-08-01,Town 4,11,33,12,9
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-08-01,Town 4,8,33,11,10
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-08-01,Town 5,52,52,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 5,31,52,52,27
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-08-01,Town 5,26,52,31,29
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-08-01,Town 5,24,52,26,24
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-08-01,Town 5,23,52,24,18
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-08-01,Town 5,19,52,23,23
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-09-01,Town 1,34,34,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 1,19,34,34,17
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-09-01,Town 1,13,34,19,18
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-09-01,Town 1,12,34,13,10
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-09-01,Town 1,9,34,12,11
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-09-01,Town 1,8,34,9,6
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-09-01,Town 2,27,27,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 2,15,27,27,14
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-09-01,Town 2,12,27,15,14
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-09-01,Town 2,10,27,12,11
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-09-01,Town 2,8,27,10,8
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-09-01,Town 2,7,27,8,8
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-09-01,Town 3,35,35,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 3,21,35,35,24
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-09-01,Town 3,16,35,21,18
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-09-01,Town 3,14,35,16,12
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-09-01,Town 3,11,35,14,14
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-09-01,Town 3,10,35,11,11
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-09-01,Town 4,34,34,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 4,19,34,34,16
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-09-01,Town 4,17,34,19,16
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-09-01,Town 4,13,34,17,16
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-09-01,Town 4,9,34,13,11
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-09-01,Town 4,6,34,9,7
+HIV treatment,1,Tested,Rapid or confirmatory HIV test,2026-09-01,Town 5,37,37,NA,NA
+HIV treatment,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 5,17,37,37,22
+HIV treatment,3,Linked to care,"ART prescribed, existing Rx confirmed, or linked to external care",2026-09-01,Town 5,14,37,17,17
+HIV treatment,4,Received care,ART picked up; linkage confirmed,2026-09-01,Town 5,10,37,14,14
+HIV treatment,5,Retained in care,2+ CD4 or VL tests at least 3 months apart in past 12 months,2026-09-01,Town 5,9,37,10,10
+HIV treatment,6,Virally suppressed,Most recent viral load under 200 copies/mL,2026-09-01,Town 5,7,37,9,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-04-01,Town 1,34,34,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 1,20,34,34,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-04-01,Town 1,17,34,20,19
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-04-01,Town 1,15,34,17,14
+SUD,5,Retained in care,Visits and refills on schedule,2025-04-01,Town 1,13,34,15,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-04-01,Town 2,32,32,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 2,20,32,32,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-04-01,Town 2,18,32,20,17
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-04-01,Town 2,13,32,18,15
+SUD,5,Retained in care,Visits and refills on schedule,2025-04-01,Town 2,10,32,13,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-04-01,Town 3,41,41,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 3,25,41,41,28
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-04-01,Town 3,20,41,25,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-04-01,Town 3,15,41,20,14
+SUD,5,Retained in care,Visits and refills on schedule,2025-04-01,Town 3,7,41,15,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-04-01,Town 4,34,34,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 4,20,34,34,19
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-04-01,Town 4,16,34,20,18
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-04-01,Town 4,14,34,16,16
+SUD,5,Retained in care,Visits and refills on schedule,2025-04-01,Town 4,10,34,14,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-04-01,Town 5,46,46,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-04-01,Town 5,25,46,46,30
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-04-01,Town 5,20,46,25,23
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-04-01,Town 5,15,46,20,18
+SUD,5,Retained in care,Visits and refills on schedule,2025-04-01,Town 5,11,46,15,14
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-05-01,Town 1,43,43,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 1,25,43,43,28
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-05-01,Town 1,20,43,25,22
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-05-01,Town 1,13,43,20,18
+SUD,5,Retained in care,Visits and refills on schedule,2025-05-01,Town 1,9,43,13,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-05-01,Town 2,34,34,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 2,18,34,34,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-05-01,Town 2,14,34,18,17
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-05-01,Town 2,10,34,14,13
+SUD,5,Retained in care,Visits and refills on schedule,2025-05-01,Town 2,6,34,10,7
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-05-01,Town 3,51,51,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 3,30,51,51,31
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-05-01,Town 3,25,51,30,24
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-05-01,Town 3,22,51,25,19
+SUD,5,Retained in care,Visits and refills on schedule,2025-05-01,Town 3,14,51,22,18
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-05-01,Town 4,37,37,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 4,21,37,37,23
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-05-01,Town 4,18,37,21,13
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-05-01,Town 4,16,37,18,9
+SUD,5,Retained in care,Visits and refills on schedule,2025-05-01,Town 4,12,37,16,7
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-05-01,Town 5,36,36,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-05-01,Town 5,22,36,36,27
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-05-01,Town 5,16,36,22,18
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-05-01,Town 5,15,36,16,13
+SUD,5,Retained in care,Visits and refills on schedule,2025-05-01,Town 5,7,36,15,7
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-06-01,Town 1,48,48,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 1,24,48,48,35
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-06-01,Town 1,19,48,24,22
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-06-01,Town 1,15,48,19,18
+SUD,5,Retained in care,Visits and refills on schedule,2025-06-01,Town 1,10,48,15,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-06-01,Town 2,40,40,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 2,17,40,40,28
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-06-01,Town 2,12,40,17,12
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-06-01,Town 2,9,40,12,10
+SUD,5,Retained in care,Visits and refills on schedule,2025-06-01,Town 2,5,40,9,5
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-06-01,Town 3,35,35,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 3,23,35,35,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-06-01,Town 3,18,35,23,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-06-01,Town 3,14,35,18,12
+SUD,5,Retained in care,Visits and refills on schedule,2025-06-01,Town 3,8,35,14,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-06-01,Town 4,34,34,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 4,17,34,34,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-06-01,Town 4,15,34,17,14
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-06-01,Town 4,10,34,15,13
+SUD,5,Retained in care,Visits and refills on schedule,2025-06-01,Town 4,6,34,10,5
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-06-01,Town 5,49,49,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-06-01,Town 5,28,49,49,30
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-06-01,Town 5,21,49,28,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-06-01,Town 5,14,49,21,16
+SUD,5,Retained in care,Visits and refills on schedule,2025-06-01,Town 5,9,49,14,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-07-01,Town 1,42,42,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 1,29,42,42,26
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-07-01,Town 1,18,42,29,27
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-07-01,Town 1,11,42,18,13
+SUD,5,Retained in care,Visits and refills on schedule,2025-07-01,Town 1,8,42,11,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-07-01,Town 2,43,43,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 2,25,43,43,31
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-07-01,Town 2,17,43,25,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-07-01,Town 2,16,43,17,14
+SUD,5,Retained in care,Visits and refills on schedule,2025-07-01,Town 2,10,43,16,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-07-01,Town 3,37,37,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 3,26,37,37,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-07-01,Town 3,15,37,26,24
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-07-01,Town 3,13,37,15,8
+SUD,5,Retained in care,Visits and refills on schedule,2025-07-01,Town 3,7,37,13,6
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-07-01,Town 4,34,34,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 4,24,34,34,18
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-07-01,Town 4,21,34,24,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-07-01,Town 4,17,34,21,17
+SUD,5,Retained in care,Visits and refills on schedule,2025-07-01,Town 4,11,34,17,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-07-01,Town 5,40,40,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-07-01,Town 5,21,40,40,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-07-01,Town 5,17,40,21,19
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-07-01,Town 5,15,40,17,14
+SUD,5,Retained in care,Visits and refills on schedule,2025-07-01,Town 5,10,40,15,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-08-01,Town 1,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 1,20,38,38,20
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-08-01,Town 1,15,38,20,17
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-08-01,Town 1,13,38,15,13
+SUD,5,Retained in care,Visits and refills on schedule,2025-08-01,Town 1,7,38,13,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-08-01,Town 2,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 2,22,38,38,30
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-08-01,Town 2,16,38,22,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-08-01,Town 2,14,38,16,14
+SUD,5,Retained in care,Visits and refills on schedule,2025-08-01,Town 2,10,38,14,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-08-01,Town 3,40,40,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 3,26,40,40,26
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-08-01,Town 3,18,40,26,24
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-08-01,Town 3,14,40,18,12
+SUD,5,Retained in care,Visits and refills on schedule,2025-08-01,Town 3,12,40,14,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-08-01,Town 4,36,36,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 4,25,36,36,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-08-01,Town 4,21,36,25,22
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-08-01,Town 4,14,36,21,17
+SUD,5,Retained in care,Visits and refills on schedule,2025-08-01,Town 4,11,36,14,7
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-08-01,Town 5,36,36,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-08-01,Town 5,14,36,36,29
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-08-01,Town 5,11,36,14,12
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-08-01,Town 5,5,36,11,11
+SUD,5,Retained in care,Visits and refills on schedule,2025-08-01,Town 5,3,36,5,2
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-09-01,Town 1,31,31,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 1,20,31,31,18
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-09-01,Town 1,17,31,20,17
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-09-01,Town 1,12,31,17,14
+SUD,5,Retained in care,Visits and refills on schedule,2025-09-01,Town 1,8,31,12,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-09-01,Town 2,41,41,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 2,23,41,41,23
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-09-01,Town 2,20,41,23,18
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-09-01,Town 2,16,41,20,15
+SUD,5,Retained in care,Visits and refills on schedule,2025-09-01,Town 2,9,41,16,12
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-09-01,Town 3,41,41,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 3,24,41,41,29
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-09-01,Town 3,15,41,24,19
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-09-01,Town 3,11,41,15,12
+SUD,5,Retained in care,Visits and refills on schedule,2025-09-01,Town 3,10,41,11,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-09-01,Town 4,49,49,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 4,37,49,49,31
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-09-01,Town 4,29,49,37,26
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-09-01,Town 4,21,49,29,24
+SUD,5,Retained in care,Visits and refills on schedule,2025-09-01,Town 4,14,49,21,14
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-09-01,Town 5,33,33,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-09-01,Town 5,17,33,33,22
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-09-01,Town 5,16,33,17,15
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-09-01,Town 5,15,33,16,14
+SUD,5,Retained in care,Visits and refills on schedule,2025-09-01,Town 5,10,33,15,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-10-01,Town 1,40,40,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 1,28,40,40,22
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-10-01,Town 1,25,40,28,22
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-10-01,Town 1,19,40,25,21
+SUD,5,Retained in care,Visits and refills on schedule,2025-10-01,Town 1,11,40,19,14
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-10-01,Town 2,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 2,24,38,38,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-10-01,Town 2,17,38,24,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-10-01,Town 2,15,38,17,15
+SUD,5,Retained in care,Visits and refills on schedule,2025-10-01,Town 2,10,38,15,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-10-01,Town 3,47,47,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 3,27,47,47,31
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-10-01,Town 3,21,47,27,23
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-10-01,Town 3,17,47,21,17
+SUD,5,Retained in care,Visits and refills on schedule,2025-10-01,Town 3,8,47,17,12
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-10-01,Town 4,52,52,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 4,31,52,52,29
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-10-01,Town 4,21,52,31,29
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-10-01,Town 4,13,52,21,16
+SUD,5,Retained in care,Visits and refills on schedule,2025-10-01,Town 4,5,52,13,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-10-01,Town 5,37,37,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-10-01,Town 5,25,37,37,29
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-10-01,Town 5,20,37,25,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-10-01,Town 5,14,37,20,18
+SUD,5,Retained in care,Visits and refills on schedule,2025-10-01,Town 5,7,37,14,13
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-11-01,Town 1,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 1,21,38,38,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-11-01,Town 1,19,38,21,19
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-11-01,Town 1,16,38,19,14
+SUD,5,Retained in care,Visits and refills on schedule,2025-11-01,Town 1,12,38,16,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-11-01,Town 2,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 2,23,38,38,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-11-01,Town 2,20,38,23,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-11-01,Town 2,14,38,20,16
+SUD,5,Retained in care,Visits and refills on schedule,2025-11-01,Town 2,7,38,14,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-11-01,Town 3,35,35,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 3,23,35,35,28
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-11-01,Town 3,19,35,23,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-11-01,Town 3,14,35,19,14
+SUD,5,Retained in care,Visits and refills on schedule,2025-11-01,Town 3,8,35,14,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-11-01,Town 4,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 4,23,38,38,29
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-11-01,Town 4,17,38,23,19
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-11-01,Town 4,13,38,17,12
+SUD,5,Retained in care,Visits and refills on schedule,2025-11-01,Town 4,10,38,13,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-11-01,Town 5,26,26,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-11-01,Town 5,17,26,26,21
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-11-01,Town 5,15,26,17,15
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-11-01,Town 5,9,26,15,10
+SUD,5,Retained in care,Visits and refills on schedule,2025-11-01,Town 5,4,26,9,7
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-12-01,Town 1,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 1,27,38,38,29
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-12-01,Town 1,21,38,27,23
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-12-01,Town 1,18,38,21,13
+SUD,5,Retained in care,Visits and refills on schedule,2025-12-01,Town 1,11,38,18,14
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-12-01,Town 2,47,47,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 2,29,47,47,31
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-12-01,Town 2,24,47,29,24
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-12-01,Town 2,22,47,24,18
+SUD,5,Retained in care,Visits and refills on schedule,2025-12-01,Town 2,16,47,22,17
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-12-01,Town 3,49,49,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 3,34,49,49,34
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-12-01,Town 3,27,49,34,25
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-12-01,Town 3,22,49,27,21
+SUD,5,Retained in care,Visits and refills on schedule,2025-12-01,Town 3,17,49,22,17
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-12-01,Town 4,49,49,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 4,37,49,49,29
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-12-01,Town 4,25,49,37,32
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-12-01,Town 4,21,49,25,21
+SUD,5,Retained in care,Visits and refills on schedule,2025-12-01,Town 4,17,49,21,13
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2025-12-01,Town 5,41,41,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2025-12-01,Town 5,24,41,41,28
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2025-12-01,Town 5,21,41,24,22
+SUD,4,Received care,Medication started; referral linkage confirmed,2025-12-01,Town 5,18,41,21,17
+SUD,5,Retained in care,Visits and refills on schedule,2025-12-01,Town 5,14,41,18,15
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-01-01,Town 1,47,47,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 1,29,47,47,33
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-01-01,Town 1,20,47,29,23
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-01-01,Town 1,14,47,20,20
+SUD,5,Retained in care,Visits and refills on schedule,2026-01-01,Town 1,8,47,14,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-01-01,Town 2,46,46,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 2,30,46,46,36
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-01-01,Town 2,23,46,30,26
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-01-01,Town 2,16,46,23,17
+SUD,5,Retained in care,Visits and refills on schedule,2026-01-01,Town 2,12,46,16,13
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-01-01,Town 3,54,54,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 3,30,54,54,32
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-01-01,Town 3,24,54,30,29
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-01-01,Town 3,17,54,24,19
+SUD,5,Retained in care,Visits and refills on schedule,2026-01-01,Town 3,11,54,17,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-01-01,Town 4,49,49,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 4,31,49,49,31
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-01-01,Town 4,23,49,31,26
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-01-01,Town 4,19,49,23,19
+SUD,5,Retained in care,Visits and refills on schedule,2026-01-01,Town 4,17,49,19,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-01-01,Town 5,32,32,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-01-01,Town 5,23,32,32,18
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-01-01,Town 5,20,32,23,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-01-01,Town 5,17,32,20,16
+SUD,5,Retained in care,Visits and refills on schedule,2026-01-01,Town 5,12,32,17,15
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-02-01,Town 1,41,41,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 1,28,41,41,26
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-02-01,Town 1,18,41,28,25
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-02-01,Town 1,12,41,18,14
+SUD,5,Retained in care,Visits and refills on schedule,2026-02-01,Town 1,5,41,12,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-02-01,Town 2,36,36,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 2,24,36,36,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-02-01,Town 2,19,36,24,19
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-02-01,Town 2,12,36,19,16
+SUD,5,Retained in care,Visits and refills on schedule,2026-02-01,Town 2,7,36,12,6
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-02-01,Town 3,37,37,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 3,21,37,37,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-02-01,Town 3,17,37,21,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-02-01,Town 3,12,37,17,16
+SUD,5,Retained in care,Visits and refills on schedule,2026-02-01,Town 3,5,37,12,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-02-01,Town 4,32,32,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 4,16,32,32,23
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-02-01,Town 4,13,32,16,14
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-02-01,Town 4,11,32,13,9
+SUD,5,Retained in care,Visits and refills on schedule,2026-02-01,Town 4,6,32,11,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-02-01,Town 5,42,42,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-02-01,Town 5,20,42,42,26
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-02-01,Town 5,15,42,20,16
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-02-01,Town 5,10,42,15,14
+SUD,5,Retained in care,Visits and refills on schedule,2026-02-01,Town 5,5,42,10,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-03-01,Town 1,45,45,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 1,30,45,45,30
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-03-01,Town 1,21,45,30,26
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-03-01,Town 1,16,45,21,21
+SUD,5,Retained in care,Visits and refills on schedule,2026-03-01,Town 1,8,45,16,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-03-01,Town 2,43,43,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 2,27,43,43,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-03-01,Town 2,21,43,27,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-03-01,Town 2,16,43,21,21
+SUD,5,Retained in care,Visits and refills on schedule,2026-03-01,Town 2,8,43,16,14
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-03-01,Town 3,36,36,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 3,24,36,36,30
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-03-01,Town 3,16,36,24,22
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-03-01,Town 3,14,36,16,13
+SUD,5,Retained in care,Visits and refills on schedule,2026-03-01,Town 3,10,36,14,12
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-03-01,Town 4,53,53,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 4,32,53,53,37
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-03-01,Town 4,23,53,32,30
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-03-01,Town 4,17,53,23,20
+SUD,5,Retained in care,Visits and refills on schedule,2026-03-01,Town 4,13,53,17,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-03-01,Town 5,34,34,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-03-01,Town 5,22,34,34,23
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-03-01,Town 5,17,34,22,17
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-03-01,Town 5,15,34,17,13
+SUD,5,Retained in care,Visits and refills on schedule,2026-03-01,Town 5,9,34,15,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-04-01,Town 1,41,41,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 1,24,41,41,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-04-01,Town 1,17,41,24,22
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-04-01,Town 1,14,41,17,15
+SUD,5,Retained in care,Visits and refills on schedule,2026-04-01,Town 1,10,41,14,14
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-04-01,Town 2,35,35,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 2,21,35,35,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-04-01,Town 2,16,35,21,17
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-04-01,Town 2,12,35,16,12
+SUD,5,Retained in care,Visits and refills on schedule,2026-04-01,Town 2,6,35,12,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-04-01,Town 3,32,32,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 3,18,32,32,22
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-04-01,Town 3,15,32,18,15
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-04-01,Town 3,14,32,15,14
+SUD,5,Retained in care,Visits and refills on schedule,2026-04-01,Town 3,9,32,14,7
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-04-01,Town 4,54,54,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 4,39,54,54,41
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-04-01,Town 4,28,54,39,30
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-04-01,Town 4,19,54,28,21
+SUD,5,Retained in care,Visits and refills on schedule,2026-04-01,Town 4,15,54,19,13
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-04-01,Town 5,42,42,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-04-01,Town 5,16,42,42,28
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-04-01,Town 5,12,42,16,12
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-04-01,Town 5,6,42,12,8
+SUD,5,Retained in care,Visits and refills on schedule,2026-04-01,Town 5,5,42,6,2
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-05-01,Town 1,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 1,24,38,38,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-05-01,Town 1,17,38,24,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-05-01,Town 1,14,38,17,15
+SUD,5,Retained in care,Visits and refills on schedule,2026-05-01,Town 1,7,38,14,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-05-01,Town 2,36,36,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 2,20,36,36,20
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-05-01,Town 2,17,36,20,14
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-05-01,Town 2,11,36,17,14
+SUD,5,Retained in care,Visits and refills on schedule,2026-05-01,Town 2,7,36,11,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-05-01,Town 3,45,45,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 3,28,45,45,28
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-05-01,Town 3,19,45,28,25
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-05-01,Town 3,16,45,19,12
+SUD,5,Retained in care,Visits and refills on schedule,2026-05-01,Town 3,10,45,16,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-05-01,Town 4,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 4,23,38,38,30
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-05-01,Town 4,17,38,23,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-05-01,Town 4,10,38,17,14
+SUD,5,Retained in care,Visits and refills on schedule,2026-05-01,Town 4,2,38,10,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-05-01,Town 5,39,39,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-05-01,Town 5,23,39,39,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-05-01,Town 5,19,39,23,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-05-01,Town 5,15,39,19,15
+SUD,5,Retained in care,Visits and refills on schedule,2026-05-01,Town 5,10,39,15,12
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-06-01,Town 1,42,42,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 1,20,42,42,25
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-06-01,Town 1,17,42,20,16
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-06-01,Town 1,15,42,17,15
+SUD,5,Retained in care,Visits and refills on schedule,2026-06-01,Town 1,11,42,15,7
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-06-01,Town 2,40,40,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 2,24,40,40,26
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-06-01,Town 2,21,40,24,22
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-06-01,Town 2,18,40,21,18
+SUD,5,Retained in care,Visits and refills on schedule,2026-06-01,Town 2,10,40,18,14
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-06-01,Town 3,46,46,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 3,26,46,46,33
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-06-01,Town 3,19,46,26,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-06-01,Town 3,16,46,19,15
+SUD,5,Retained in care,Visits and refills on schedule,2026-06-01,Town 3,9,46,16,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-06-01,Town 4,43,43,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 4,29,43,43,34
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-06-01,Town 4,24,43,29,23
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-06-01,Town 4,17,43,24,17
+SUD,5,Retained in care,Visits and refills on schedule,2026-06-01,Town 4,9,43,17,14
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-06-01,Town 5,43,43,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-06-01,Town 5,26,43,43,34
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-06-01,Town 5,19,43,26,23
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-06-01,Town 5,15,43,19,15
+SUD,5,Retained in care,Visits and refills on schedule,2026-06-01,Town 5,12,43,15,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-07-01,Town 1,33,33,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 1,17,33,33,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-07-01,Town 1,15,33,17,15
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-07-01,Town 1,13,33,15,10
+SUD,5,Retained in care,Visits and refills on schedule,2026-07-01,Town 1,7,33,13,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-07-01,Town 2,39,39,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 2,26,39,39,28
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-07-01,Town 2,19,39,26,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-07-01,Town 2,15,39,19,13
+SUD,5,Retained in care,Visits and refills on schedule,2026-07-01,Town 2,9,39,15,8
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-07-01,Town 3,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 3,20,38,38,23
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-07-01,Town 3,14,38,20,15
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-07-01,Town 3,12,38,14,10
+SUD,5,Retained in care,Visits and refills on schedule,2026-07-01,Town 3,8,38,12,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-07-01,Town 4,45,45,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 4,25,45,45,28
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-07-01,Town 4,20,45,25,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-07-01,Town 4,16,45,20,17
+SUD,5,Retained in care,Visits and refills on schedule,2026-07-01,Town 4,9,45,16,10
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-07-01,Town 5,33,33,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-07-01,Town 5,13,33,33,26
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-07-01,Town 5,12,33,13,10
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-07-01,Town 5,10,33,12,7
+SUD,5,Retained in care,Visits and refills on schedule,2026-07-01,Town 5,5,33,10,6
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-08-01,Town 1,37,37,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 1,19,37,37,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-08-01,Town 1,17,37,19,17
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-08-01,Town 1,13,37,17,12
+SUD,5,Retained in care,Visits and refills on schedule,2026-08-01,Town 1,10,37,13,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-08-01,Town 2,46,46,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 2,25,46,46,30
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-08-01,Town 2,19,46,25,20
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-08-01,Town 2,15,46,19,14
+SUD,5,Retained in care,Visits and refills on schedule,2026-08-01,Town 2,9,46,15,7
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-08-01,Town 3,30,30,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 3,16,30,30,14
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-08-01,Town 3,13,30,16,15
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-08-01,Town 3,11,30,13,13
+SUD,5,Retained in care,Visits and refills on schedule,2026-08-01,Town 3,9,30,11,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-08-01,Town 4,46,46,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 4,23,46,46,29
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-08-01,Town 4,18,46,23,21
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-08-01,Town 4,12,46,18,16
+SUD,5,Retained in care,Visits and refills on schedule,2026-08-01,Town 4,9,46,12,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-08-01,Town 5,34,34,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-08-01,Town 5,19,34,34,22
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-08-01,Town 5,17,34,19,15
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-08-01,Town 5,11,34,17,13
+SUD,5,Retained in care,Visits and refills on schedule,2026-08-01,Town 5,8,34,11,9
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-09-01,Town 1,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 1,20,38,38,27
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-09-01,Town 1,14,38,20,18
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-09-01,Town 1,14,38,14,10
+SUD,5,Retained in care,Visits and refills on schedule,2026-09-01,Town 1,6,38,14,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-09-01,Town 2,43,43,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 2,26,43,43,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-09-01,Town 2,23,43,26,22
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-09-01,Town 2,18,43,23,18
+SUD,5,Retained in care,Visits and refills on schedule,2026-09-01,Town 2,12,43,18,13
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-09-01,Town 3,33,33,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 3,20,33,33,19
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-09-01,Town 3,15,33,20,15
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-09-01,Town 3,15,33,15,14
+SUD,5,Retained in care,Visits and refills on schedule,2026-09-01,Town 3,7,33,15,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-09-01,Town 4,39,39,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 4,17,39,39,24
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-09-01,Town 4,14,39,17,14
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-09-01,Town 4,13,39,14,9
+SUD,5,Retained in care,Visits and refills on schedule,2026-09-01,Town 4,9,39,13,11
+SUD,1,Screened,"ROUDA, RSUDA, AUDIT, or NIDA quick screen completed",2026-09-01,Town 5,38,38,NA,NA
+SUD,2,Diagnosed,"New diagnosis, or existing diagnosis verified",2026-09-01,Town 5,29,38,38,27
+SUD,3,Linked to care,"Medication prescribed, referred, or existing Rx confirmed",2026-09-01,Town 5,24,38,29,23
+SUD,4,Received care,Medication started; referral linkage confirmed,2026-09-01,Town 5,18,38,24,18
+SUD,5,Retained in care,Visits and refills on schedule,2026-09-01,Town 5,12,38,18,10

@@ -1,0 +1,8 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+rsconnect/
+.DS_Store
+# Once real data arrives, keep it OUT of git unless your data agreement allows it:
+# data/real/

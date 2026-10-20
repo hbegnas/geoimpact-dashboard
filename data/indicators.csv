@@ -1,0 +1,2431 @@
+month,site,component,indicator,numerator,denominator
+2025-04-01,Town 1,Component 1,engaged,23,NA
+2025-04-01,Town 1,Component 2,engaged,10,NA
+2025-04-01,Town 2,Component 1,engaged,11,NA
+2025-04-01,Town 2,Component 2,engaged,12,NA
+2025-04-01,Town 3,Component 1,engaged,23,NA
+2025-04-01,Town 3,Component 2,engaged,18,NA
+2025-04-01,Town 4,Component 1,engaged,19,NA
+2025-04-01,Town 4,Component 2,engaged,17,NA
+2025-04-01,Town 5,Component 1,engaged,17,NA
+2025-04-01,Town 5,Component 2,engaged,11,NA
+2025-05-01,Town 1,Component 1,engaged,9,NA
+2025-05-01,Town 1,Component 2,engaged,22,NA
+2025-05-01,Town 2,Component 1,engaged,17,NA
+2025-05-01,Town 2,Component 2,engaged,15,NA
+2025-05-01,Town 3,Component 1,engaged,26,NA
+2025-05-01,Town 3,Component 2,engaged,15,NA
+2025-05-01,Town 4,Component 1,engaged,13,NA
+2025-05-01,Town 4,Component 2,engaged,15,NA
+2025-05-01,Town 5,Component 1,engaged,30,NA
+2025-05-01,Town 5,Component 2,engaged,22,NA
+2025-06-01,Town 1,Component 1,engaged,22,NA
+2025-06-01,Town 1,Component 2,engaged,19,NA
+2025-06-01,Town 2,Component 1,engaged,30,NA
+2025-06-01,Town 2,Component 2,engaged,14,NA
+2025-06-01,Town 3,Component 1,engaged,21,NA
+2025-06-01,Town 3,Component 2,engaged,10,NA
+2025-06-01,Town 4,Component 1,engaged,23,NA
+2025-06-01,Town 4,Component 2,engaged,21,NA
+2025-06-01,Town 5,Component 1,engaged,25,NA
+2025-06-01,Town 5,Component 2,engaged,12,NA
+2025-07-01,Town 1,Component 1,engaged,23,NA
+2025-07-01,Town 1,Component 2,engaged,22,NA
+2025-07-01,Town 2,Component 1,engaged,31,NA
+2025-07-01,Town 2,Component 2,engaged,24,NA
+2025-07-01,Town 3,Component 1,engaged,32,NA
+2025-07-01,Town 3,Component 2,engaged,23,NA
+2025-07-01,Town 4,Component 1,engaged,19,NA
+2025-07-01,Town 4,Component 2,engaged,20,NA
+2025-07-01,Town 5,Component 1,engaged,21,NA
+2025-07-01,Town 5,Component 2,engaged,15,NA
+2025-08-01,Town 1,Component 1,engaged,18,NA
+2025-08-01,Town 1,Component 2,engaged,12,NA
+2025-08-01,Town 2,Component 1,engaged,26,NA
+2025-08-01,Town 2,Component 2,engaged,15,NA
+2025-08-01,Town 3,Component 1,engaged,29,NA
+2025-08-01,Town 3,Component 2,engaged,16,NA
+2025-08-01,Town 4,Component 1,engaged,16,NA
+2025-08-01,Town 4,Component 2,engaged,13,NA
+2025-08-01,Town 5,Component 1,engaged,18,NA
+2025-08-01,Town 5,Component 2,engaged,17,NA
+2025-09-01,Town 1,Component 1,engaged,23,NA
+2025-09-01,Town 1,Component 2,engaged,11,NA
+2025-09-01,Town 2,Component 1,engaged,26,NA
+2025-09-01,Town 2,Component 2,engaged,33,NA
+2025-09-01,Town 3,Component 1,engaged,25,NA
+2025-09-01,Town 3,Component 2,engaged,21,NA
+2025-09-01,Town 4,Component 1,engaged,24,NA
+2025-09-01,Town 4,Component 2,engaged,24,NA
+2025-09-01,Town 5,Component 1,engaged,20,NA
+2025-09-01,Town 5,Component 2,engaged,24,NA
+2025-10-01,Town 1,Component 1,engaged,28,NA
+2025-10-01,Town 1,Component 2,engaged,11,NA
+2025-10-01,Town 2,Component 1,engaged,33,NA
+2025-10-01,Town 2,Component 2,engaged,30,NA
+2025-10-01,Town 3,Component 1,engaged,28,NA
+2025-10-01,Town 3,Component 2,engaged,23,NA
+2025-10-01,Town 4,Component 1,engaged,26,NA
+2025-10-01,Town 4,Component 2,engaged,26,NA
+2025-10-01,Town 5,Component 1,engaged,25,NA
+2025-10-01,Town 5,Component 2,engaged,16,NA
+2025-11-01,Town 1,Component 1,engaged,23,NA
+2025-11-01,Town 1,Component 2,engaged,15,NA
+2025-11-01,Town 2,Component 1,engaged,25,NA
+2025-11-01,Town 2,Component 2,engaged,16,NA
+2025-11-01,Town 3,Component 1,engaged,23,NA
+2025-11-01,Town 3,Component 2,engaged,22,NA
+2025-11-01,Town 4,Component 1,engaged,32,NA
+2025-11-01,Town 4,Component 2,engaged,18,NA
+2025-11-01,Town 5,Component 1,engaged,29,NA
+2025-11-01,Town 5,Component 2,engaged,28,NA
+2025-12-01,Town 1,Component 1,engaged,28,NA
+2025-12-01,Town 1,Component 2,engaged,16,NA
+2025-12-01,Town 2,Component 1,engaged,34,NA
+2025-12-01,Town 2,Component 2,engaged,15,NA
+2025-12-01,Town 3,Component 1,engaged,25,NA
+2025-12-01,Town 3,Component 2,engaged,15,NA
+2025-12-01,Town 4,Component 1,engaged,33,NA
+2025-12-01,Town 4,Component 2,engaged,16,NA
+2025-12-01,Town 5,Component 1,engaged,26,NA
+2025-12-01,Town 5,Component 2,engaged,19,NA
+2026-01-01,Town 1,Component 1,engaged,31,NA
+2026-01-01,Town 1,Component 2,engaged,15,NA
+2026-01-01,Town 2,Component 1,engaged,38,NA
+2026-01-01,Town 2,Component 2,engaged,31,NA
+2026-01-01,Town 3,Component 1,engaged,29,NA
+2026-01-01,Town 3,Component 2,engaged,26,NA
+2026-01-01,Town 4,Component 1,engaged,18,NA
+2026-01-01,Town 4,Component 2,engaged,20,NA
+2026-01-01,Town 5,Component 1,engaged,30,NA
+2026-01-01,Town 5,Component 2,engaged,17,NA
+2026-02-01,Town 1,Component 1,engaged,34,NA
+2026-02-01,Town 1,Component 2,engaged,22,NA
+2026-02-01,Town 2,Component 1,engaged,42,NA
+2026-02-01,Town 2,Component 2,engaged,25,NA
+2026-02-01,Town 3,Component 1,engaged,27,NA
+2026-02-01,Town 3,Component 2,engaged,24,NA
+2026-02-01,Town 4,Component 1,engaged,28,NA
+2026-02-01,Town 4,Component 2,engaged,17,NA
+2026-02-01,Town 5,Component 1,engaged,30,NA
+2026-02-01,Town 5,Component 2,engaged,25,NA
+2026-03-01,Town 1,Component 1,engaged,19,NA
+2026-03-01,Town 1,Component 2,engaged,24,NA
+2026-03-01,Town 2,Component 1,engaged,34,NA
+2026-03-01,Town 2,Component 2,engaged,17,NA
+2026-03-01,Town 3,Component 1,engaged,33,NA
+2026-03-01,Town 3,Component 2,engaged,29,NA
+2026-03-01,Town 4,Component 1,engaged,35,NA
+2026-03-01,Town 4,Component 2,engaged,25,NA
+2026-03-01,Town 5,Component 1,engaged,29,NA
+2026-03-01,Town 5,Component 2,engaged,22,NA
+2026-04-01,Town 1,Component 1,engaged,30,NA
+2026-04-01,Town 1,Component 2,engaged,22,NA
+2026-04-01,Town 2,Component 1,engaged,33,NA
+2026-04-01,Town 2,Component 2,engaged,27,NA
+2026-04-01,Town 3,Component 1,engaged,36,NA
+2026-04-01,Town 3,Component 2,engaged,20,NA
+2026-04-01,Town 4,Component 1,engaged,35,NA
+2026-04-01,Town 4,Component 2,engaged,23,NA
+2026-04-01,Town 5,Component 1,engaged,31,NA
+2026-04-01,Town 5,Component 2,engaged,23,NA
+2026-05-01,Town 1,Component 1,engaged,40,NA
+2026-05-01,Town 1,Component 2,engaged,27,NA
+2026-05-01,Town 2,Component 1,engaged,33,NA
+2026-05-01,Town 2,Component 2,engaged,28,NA
+2026-05-01,Town 3,Component 1,engaged,34,NA
+2026-05-01,Town 3,Component 2,engaged,30,NA
+2026-05-01,Town 4,Component 1,engaged,36,NA
+2026-05-01,Town 4,Component 2,engaged,25,NA
+2026-05-01,Town 5,Component 1,engaged,32,NA
+2026-05-01,Town 5,Component 2,engaged,25,NA
+2026-06-01,Town 1,Component 1,engaged,36,NA
+2026-06-01,Town 1,Component 2,engaged,26,NA
+2026-06-01,Town 2,Component 1,engaged,32,NA
+2026-06-01,Town 2,Component 2,engaged,16,NA
+2026-06-01,Town 3,Component 1,engaged,39,NA
+2026-06-01,Town 3,Component 2,engaged,17,NA
+2026-06-01,Town 4,Component 1,engaged,27,NA
+2026-06-01,Town 4,Component 2,engaged,20,NA
+2026-06-01,Town 5,Component 1,engaged,37,NA
+2026-06-01,Town 5,Component 2,engaged,27,NA
+2026-07-01,Town 1,Component 1,engaged,36,NA
+2026-07-01,Town 1,Component 2,engaged,34,NA
+2026-07-01,Town 2,Component 1,engaged,36,NA
+2026-07-01,Town 2,Component 2,engaged,28,NA
+2026-07-01,Town 3,Component 1,engaged,28,NA
+2026-07-01,Town 3,Component 2,engaged,33,NA
+2026-07-01,Town 4,Component 1,engaged,33,NA
+2026-07-01,Town 4,Component 2,engaged,29,NA
+2026-07-01,Town 5,Component 1,engaged,28,NA
+2026-07-01,Town 5,Component 2,engaged,35,NA
+2026-08-01,Town 1,Component 1,engaged,30,NA
+2026-08-01,Town 1,Component 2,engaged,29,NA
+2026-08-01,Town 2,Component 1,engaged,38,NA
+2026-08-01,Town 2,Component 2,engaged,17,NA
+2026-08-01,Town 3,Component 1,engaged,36,NA
+2026-08-01,Town 3,Component 2,engaged,26,NA
+2026-08-01,Town 4,Component 1,engaged,22,NA
+2026-08-01,Town 4,Component 2,engaged,31,NA
+2026-08-01,Town 5,Component 1,engaged,33,NA
+2026-08-01,Town 5,Component 2,engaged,29,NA
+2026-09-01,Town 1,Component 1,engaged,29,NA
+2026-09-01,Town 1,Component 2,engaged,37,NA
+2026-09-01,Town 2,Component 1,engaged,29,NA
+2026-09-01,Town 2,Component 2,engaged,27,NA
+2026-09-01,Town 3,Component 1,engaged,31,NA
+2026-09-01,Town 3,Component 2,engaged,26,NA
+2026-09-01,Town 4,Component 1,engaged,32,NA
+2026-09-01,Town 4,Component 2,engaged,34,NA
+2026-09-01,Town 5,Component 1,engaged,40,NA
+2026-09-01,Town 5,Component 2,engaged,39,NA
+2025-04-01,Town 1,Component 1,engaged_pwud,14,23
+2025-04-01,Town 1,Component 2,engaged_pwud,7,10
+2025-04-01,Town 2,Component 1,engaged_pwud,10,11
+2025-04-01,Town 2,Component 2,engaged_pwud,9,12
+2025-04-01,Town 3,Component 1,engaged_pwud,15,23
+2025-04-01,Town 3,Component 2,engaged_pwud,10,18
+2025-04-01,Town 4,Component 1,engaged_pwud,13,19
+2025-04-01,Town 4,Component 2,engaged_pwud,10,17
+2025-04-01,Town 5,Component 1,engaged_pwud,11,17
+2025-04-01,Town 5,Component 2,engaged_pwud,10,11
+2025-05-01,Town 1,Component 1,engaged_pwud,4,9
+2025-05-01,Town 1,Component 2,engaged_pwud,13,22
+2025-05-01,Town 2,Component 1,engaged_pwud,11,17
+2025-05-01,Town 2,Component 2,engaged_pwud,8,15
+2025-05-01,Town 3,Component 1,engaged_pwud,18,26
+2025-05-01,Town 3,Component 2,engaged_pwud,9,15
+2025-05-01,Town 4,Component 1,engaged_pwud,7,13
+2025-05-01,Town 4,Component 2,engaged_pwud,8,15
+2025-05-01,Town 5,Component 1,engaged_pwud,16,30
+2025-05-01,Town 5,Component 2,engaged_pwud,11,22
+2025-06-01,Town 1,Component 1,engaged_pwud,14,22
+2025-06-01,Town 1,Component 2,engaged_pwud,9,19
+2025-06-01,Town 2,Component 1,engaged_pwud,17,30
+2025-06-01,Town 2,Component 2,engaged_pwud,12,14
+2025-06-01,Town 3,Component 1,engaged_pwud,12,21
+2025-06-01,Town 3,Component 2,engaged_pwud,6,10
+2025-06-01,Town 4,Component 1,engaged_pwud,13,23
+2025-06-01,Town 4,Component 2,engaged_pwud,15,21
+2025-06-01,Town 5,Component 1,engaged_pwud,16,25
+2025-06-01,Town 5,Component 2,engaged_pwud,7,12
+2025-07-01,Town 1,Component 1,engaged_pwud,12,23
+2025-07-01,Town 1,Component 2,engaged_pwud,14,22
+2025-07-01,Town 2,Component 1,engaged_pwud,25,31
+2025-07-01,Town 2,Component 2,engaged_pwud,15,24
+2025-07-01,Town 3,Component 1,engaged_pwud,18,32
+2025-07-01,Town 3,Component 2,engaged_pwud,11,23
+2025-07-01,Town 4,Component 1,engaged_pwud,11,19
+2025-07-01,Town 4,Component 2,engaged_pwud,16,20
+2025-07-01,Town 5,Component 1,engaged_pwud,8,21
+2025-07-01,Town 5,Component 2,engaged_pwud,7,15
+2025-08-01,Town 1,Component 1,engaged_pwud,10,18
+2025-08-01,Town 1,Component 2,engaged_pwud,7,12
+2025-08-01,Town 2,Component 1,engaged_pwud,15,26
+2025-08-01,Town 2,Component 2,engaged_pwud,9,15
+2025-08-01,Town 3,Component 1,engaged_pwud,14,29
+2025-08-01,Town 3,Component 2,engaged_pwud,7,16
+2025-08-01,Town 4,Component 1,engaged_pwud,8,16
+2025-08-01,Town 4,Component 2,engaged_pwud,7,13
+2025-08-01,Town 5,Component 1,engaged_pwud,11,18
+2025-08-01,Town 5,Component 2,engaged_pwud,9,17
+2025-09-01,Town 1,Component 1,engaged_pwud,14,23
+2025-09-01,Town 1,Component 2,engaged_pwud,6,11
+2025-09-01,Town 2,Component 1,engaged_pwud,15,26
+2025-09-01,Town 2,Component 2,engaged_pwud,18,33
+2025-09-01,Town 3,Component 1,engaged_pwud,18,25
+2025-09-01,Town 3,Component 2,engaged_pwud,14,21
+2025-09-01,Town 4,Component 1,engaged_pwud,11,24
+2025-09-01,Town 4,Component 2,engaged_pwud,11,24
+2025-09-01,Town 5,Component 1,engaged_pwud,13,20
+2025-09-01,Town 5,Component 2,engaged_pwud,11,24
+2025-10-01,Town 1,Component 1,engaged_pwud,18,28
+2025-10-01,Town 1,Component 2,engaged_pwud,6,11
+2025-10-01,Town 2,Component 1,engaged_pwud,18,33
+2025-10-01,Town 2,Component 2,engaged_pwud,21,30
+2025-10-01,Town 3,Component 1,engaged_pwud,18,28
+2025-10-01,Town 3,Component 2,engaged_pwud,17,23
+2025-10-01,Town 4,Component 1,engaged_pwud,16,26
+2025-10-01,Town 4,Component 2,engaged_pwud,15,26
+2025-10-01,Town 5,Component 1,engaged_pwud,11,25
+2025-10-01,Town 5,Component 2,engaged_pwud,9,16
+2025-11-01,Town 1,Component 1,engaged_pwud,15,23
+2025-11-01,Town 1,Component 2,engaged_pwud,9,15
+2025-11-01,Town 2,Component 1,engaged_pwud,16,25
+2025-11-01,Town 2,Component 2,engaged_pwud,10,16
+2025-11-01,Town 3,Component 1,engaged_pwud,10,23
+2025-11-01,Town 3,Component 2,engaged_pwud,14,22
+2025-11-01,Town 4,Component 1,engaged_pwud,20,32
+2025-11-01,Town 4,Component 2,engaged_pwud,9,18
+2025-11-01,Town 5,Component 1,engaged_pwud,19,29
+2025-11-01,Town 5,Component 2,engaged_pwud,16,28
+2025-12-01,Town 1,Component 1,engaged_pwud,16,28
+2025-12-01,Town 1,Component 2,engaged_pwud,5,16
+2025-12-01,Town 2,Component 1,engaged_pwud,19,34
+2025-12-01,Town 2,Component 2,engaged_pwud,8,15
+2025-12-01,Town 3,Component 1,engaged_pwud,17,25
+2025-12-01,Town 3,Component 2,engaged_pwud,8,15
+2025-12-01,Town 4,Component 1,engaged_pwud,20,33
+2025-12-01,Town 4,Component 2,engaged_pwud,11,16
+2025-12-01,Town 5,Component 1,engaged_pwud,16,26
+2025-12-01,Town 5,Component 2,engaged_pwud,12,19
+2026-01-01,Town 1,Component 1,engaged_pwud,21,31
+2026-01-01,Town 1,Component 2,engaged_pwud,10,15
+2026-01-01,Town 2,Component 1,engaged_pwud,23,38
+2026-01-01,Town 2,Component 2,engaged_pwud,23,31
+2026-01-01,Town 3,Component 1,engaged_pwud,13,29
+2026-01-01,Town 3,Component 2,engaged_pwud,18,26
+2026-01-01,Town 4,Component 1,engaged_pwud,9,18
+2026-01-01,Town 4,Component 2,engaged_pwud,13,20
+2026-01-01,Town 5,Component 1,engaged_pwud,20,30
+2026-01-01,Town 5,Component 2,engaged_pwud,12,17
+2026-02-01,Town 1,Component 1,engaged_pwud,19,34
+2026-02-01,Town 1,Component 2,engaged_pwud,12,22
+2026-02-01,Town 2,Component 1,engaged_pwud,26,42
+2026-02-01,Town 2,Component 2,engaged_pwud,13,25
+2026-02-01,Town 3,Component 1,engaged_pwud,17,27
+2026-02-01,Town 3,Component 2,engaged_pwud,16,24
+2026-02-01,Town 4,Component 1,engaged_pwud,15,28
+2026-02-01,Town 4,Component 2,engaged_pwud,11,17
+2026-02-01,Town 5,Component 1,engaged_pwud,16,30
+2026-02-01,Town 5,Component 2,engaged_pwud,19,25
+2026-03-01,Town 1,Component 1,engaged_pwud,9,19
+2026-03-01,Town 1,Component 2,engaged_pwud,17,24
+2026-03-01,Town 2,Component 1,engaged_pwud,19,34
+2026-03-01,Town 2,Component 2,engaged_pwud,14,17
+2026-03-01,Town 3,Component 1,engaged_pwud,22,33
+2026-03-01,Town 3,Component 2,engaged_pwud,18,29
+2026-03-01,Town 4,Component 1,engaged_pwud,22,35
+2026-03-01,Town 4,Component 2,engaged_pwud,12,25
+2026-03-01,Town 5,Component 1,engaged_pwud,21,29
+2026-03-01,Town 5,Component 2,engaged_pwud,14,22
+2026-04-01,Town 1,Component 1,engaged_pwud,16,30
+2026-04-01,Town 1,Component 2,engaged_pwud,11,22
+2026-04-01,Town 2,Component 1,engaged_pwud,16,33
+2026-04-01,Town 2,Component 2,engaged_pwud,17,27
+2026-04-01,Town 3,Component 1,engaged_pwud,26,36
+2026-04-01,Town 3,Component 2,engaged_pwud,13,20
+2026-04-01,Town 4,Component 1,engaged_pwud,21,35
+2026-04-01,Town 4,Component 2,engaged_pwud,13,23
+2026-04-01,Town 5,Component 1,engaged_pwud,17,31
+2026-04-01,Town 5,Component 2,engaged_pwud,18,23
+2026-05-01,Town 1,Component 1,engaged_pwud,25,40
+2026-05-01,Town 1,Component 2,engaged_pwud,15,27
+2026-05-01,Town 2,Component 1,engaged_pwud,22,33
+2026-05-01,Town 2,Component 2,engaged_pwud,21,28
+2026-05-01,Town 3,Component 1,engaged_pwud,23,34
+2026-05-01,Town 3,Component 2,engaged_pwud,22,30
+2026-05-01,Town 4,Component 1,engaged_pwud,18,36
+2026-05-01,Town 4,Component 2,engaged_pwud,15,25
+2026-05-01,Town 5,Component 1,engaged_pwud,20,32
+2026-05-01,Town 5,Component 2,engaged_pwud,14,25
+2026-06-01,Town 1,Component 1,engaged_pwud,18,36
+2026-06-01,Town 1,Component 2,engaged_pwud,15,26
+2026-06-01,Town 2,Component 1,engaged_pwud,21,32
+2026-06-01,Town 2,Component 2,engaged_pwud,12,16
+2026-06-01,Town 3,Component 1,engaged_pwud,19,39
+2026-06-01,Town 3,Component 2,engaged_pwud,13,17
+2026-06-01,Town 4,Component 1,engaged_pwud,15,27
+2026-06-01,Town 4,Component 2,engaged_pwud,11,20
+2026-06-01,Town 5,Component 1,engaged_pwud,22,37
+2026-06-01,Town 5,Component 2,engaged_pwud,16,27
+2026-07-01,Town 1,Component 1,engaged_pwud,18,36
+2026-07-01,Town 1,Component 2,engaged_pwud,22,34
+2026-07-01,Town 2,Component 1,engaged_pwud,23,36
+2026-07-01,Town 2,Component 2,engaged_pwud,18,28
+2026-07-01,Town 3,Component 1,engaged_pwud,18,28
+2026-07-01,Town 3,Component 2,engaged_pwud,24,33
+2026-07-01,Town 4,Component 1,engaged_pwud,20,33
+2026-07-01,Town 4,Component 2,engaged_pwud,12,29
+2026-07-01,Town 5,Component 1,engaged_pwud,17,28
+2026-07-01,Town 5,Component 2,engaged_pwud,17,35
+2026-08-01,Town 1,Component 1,engaged_pwud,18,30
+2026-08-01,Town 1,Component 2,engaged_pwud,17,29
+2026-08-01,Town 2,Component 1,engaged_pwud,23,38
+2026-08-01,Town 2,Component 2,engaged_pwud,9,17
+2026-08-01,Town 3,Component 1,engaged_pwud,24,36
+2026-08-01,Town 3,Component 2,engaged_pwud,18,26
+2026-08-01,Town 4,Component 1,engaged_pwud,11,22
+2026-08-01,Town 4,Component 2,engaged_pwud,18,31
+2026-08-01,Town 5,Component 1,engaged_pwud,22,33
+2026-08-01,Town 5,Component 2,engaged_pwud,15,29
+2026-09-01,Town 1,Component 1,engaged_pwud,19,29
+2026-09-01,Town 1,Component 2,engaged_pwud,22,37
+2026-09-01,Town 2,Component 1,engaged_pwud,20,29
+2026-09-01,Town 2,Component 2,engaged_pwud,15,27
+2026-09-01,Town 3,Component 1,engaged_pwud,14,31
+2026-09-01,Town 3,Component 2,engaged_pwud,15,26
+2026-09-01,Town 4,Component 1,engaged_pwud,18,32
+2026-09-01,Town 4,Component 2,engaged_pwud,20,34
+2026-09-01,Town 5,Component 1,engaged_pwud,22,40
+2026-09-01,Town 5,Component 2,engaged_pwud,30,39
+2025-04-01,Town 1,Component 1,gap_never_hiv_test,11,14
+2025-04-01,Town 1,Component 2,gap_never_hiv_test,4,7
+2025-04-01,Town 2,Component 1,gap_never_hiv_test,6,10
+2025-04-01,Town 2,Component 2,gap_never_hiv_test,4,9
+2025-04-01,Town 3,Component 1,gap_never_hiv_test,6,15
+2025-04-01,Town 3,Component 2,gap_never_hiv_test,6,10
+2025-04-01,Town 4,Component 1,gap_never_hiv_test,5,13
+2025-04-01,Town 4,Component 2,gap_never_hiv_test,4,10
+2025-04-01,Town 5,Component 1,gap_never_hiv_test,9,11
+2025-04-01,Town 5,Component 2,gap_never_hiv_test,3,10
+2025-05-01,Town 1,Component 1,gap_never_hiv_test,4,4
+2025-05-01,Town 1,Component 2,gap_never_hiv_test,7,13
+2025-05-01,Town 2,Component 1,gap_never_hiv_test,8,11
+2025-05-01,Town 2,Component 2,gap_never_hiv_test,3,8
+2025-05-01,Town 3,Component 1,gap_never_hiv_test,13,18
+2025-05-01,Town 3,Component 2,gap_never_hiv_test,4,9
+2025-05-01,Town 4,Component 1,gap_never_hiv_test,3,7
+2025-05-01,Town 4,Component 2,gap_never_hiv_test,4,8
+2025-05-01,Town 5,Component 1,gap_never_hiv_test,8,16
+2025-05-01,Town 5,Component 2,gap_never_hiv_test,6,11
+2025-06-01,Town 1,Component 1,gap_never_hiv_test,4,14
+2025-06-01,Town 1,Component 2,gap_never_hiv_test,4,9
+2025-06-01,Town 2,Component 1,gap_never_hiv_test,9,17
+2025-06-01,Town 2,Component 2,gap_never_hiv_test,7,12
+2025-06-01,Town 3,Component 1,gap_never_hiv_test,7,12
+2025-06-01,Town 3,Component 2,gap_never_hiv_test,2,6
+2025-06-01,Town 4,Component 1,gap_never_hiv_test,4,13
+2025-06-01,Town 4,Component 2,gap_never_hiv_test,8,15
+2025-06-01,Town 5,Component 1,gap_never_hiv_test,7,16
+2025-06-01,Town 5,Component 2,gap_never_hiv_test,4,7
+2025-07-01,Town 1,Component 1,gap_never_hiv_test,5,12
+2025-07-01,Town 1,Component 2,gap_never_hiv_test,7,14
+2025-07-01,Town 2,Component 1,gap_never_hiv_test,11,25
+2025-07-01,Town 2,Component 2,gap_never_hiv_test,13,15
+2025-07-01,Town 3,Component 1,gap_never_hiv_test,10,18
+2025-07-01,Town 3,Component 2,gap_never_hiv_test,9,11
+2025-07-01,Town 4,Component 1,gap_never_hiv_test,5,11
+2025-07-01,Town 4,Component 2,gap_never_hiv_test,9,16
+2025-07-01,Town 5,Component 1,gap_never_hiv_test,3,8
+2025-07-01,Town 5,Component 2,gap_never_hiv_test,1,7
+2025-08-01,Town 1,Component 1,gap_never_hiv_test,8,10
+2025-08-01,Town 1,Component 2,gap_never_hiv_test,4,7
+2025-08-01,Town 2,Component 1,gap_never_hiv_test,8,15
+2025-08-01,Town 2,Component 2,gap_never_hiv_test,6,9
+2025-08-01,Town 3,Component 1,gap_never_hiv_test,9,14
+2025-08-01,Town 3,Component 2,gap_never_hiv_test,4,7
+2025-08-01,Town 4,Component 1,gap_never_hiv_test,6,8
+2025-08-01,Town 4,Component 2,gap_never_hiv_test,2,7
+2025-08-01,Town 5,Component 1,gap_never_hiv_test,7,11
+2025-08-01,Town 5,Component 2,gap_never_hiv_test,4,9
+2025-09-01,Town 1,Component 1,gap_never_hiv_test,7,14
+2025-09-01,Town 1,Component 2,gap_never_hiv_test,2,6
+2025-09-01,Town 2,Component 1,gap_never_hiv_test,8,15
+2025-09-01,Town 2,Component 2,gap_never_hiv_test,10,18
+2025-09-01,Town 3,Component 1,gap_never_hiv_test,12,18
+2025-09-01,Town 3,Component 2,gap_never_hiv_test,6,14
+2025-09-01,Town 4,Component 1,gap_never_hiv_test,5,11
+2025-09-01,Town 4,Component 2,gap_never_hiv_test,4,11
+2025-09-01,Town 5,Component 1,gap_never_hiv_test,6,13
+2025-09-01,Town 5,Component 2,gap_never_hiv_test,2,11
+2025-10-01,Town 1,Component 1,gap_never_hiv_test,9,18
+2025-10-01,Town 1,Component 2,gap_never_hiv_test,5,6
+2025-10-01,Town 2,Component 1,gap_never_hiv_test,9,18
+2025-10-01,Town 2,Component 2,gap_never_hiv_test,12,21
+2025-10-01,Town 3,Component 1,gap_never_hiv_test,7,18
+2025-10-01,Town 3,Component 2,gap_never_hiv_test,10,17
+2025-10-01,Town 4,Component 1,gap_never_hiv_test,10,16
+2025-10-01,Town 4,Component 2,gap_never_hiv_test,9,15
+2025-10-01,Town 5,Component 1,gap_never_hiv_test,7,11
+2025-10-01,Town 5,Component 2,gap_never_hiv_test,7,9
+2025-11-01,Town 1,Component 1,gap_never_hiv_test,7,15
+2025-11-01,Town 1,Component 2,gap_never_hiv_test,5,9
+2025-11-01,Town 2,Component 1,gap_never_hiv_test,8,16
+2025-11-01,Town 2,Component 2,gap_never_hiv_test,6,10
+2025-11-01,Town 3,Component 1,gap_never_hiv_test,4,10
+2025-11-01,Town 3,Component 2,gap_never_hiv_test,7,14
+2025-11-01,Town 4,Component 1,gap_never_hiv_test,11,20
+2025-11-01,Town 4,Component 2,gap_never_hiv_test,6,9
+2025-11-01,Town 5,Component 1,gap_never_hiv_test,9,19
+2025-11-01,Town 5,Component 2,gap_never_hiv_test,10,16
+2025-12-01,Town 1,Component 1,gap_never_hiv_test,7,16
+2025-12-01,Town 1,Component 2,gap_never_hiv_test,3,5
+2025-12-01,Town 2,Component 1,gap_never_hiv_test,12,19
+2025-12-01,Town 2,Component 2,gap_never_hiv_test,6,8
+2025-12-01,Town 3,Component 1,gap_never_hiv_test,6,17
+2025-12-01,Town 3,Component 2,gap_never_hiv_test,4,8
+2025-12-01,Town 4,Component 1,gap_never_hiv_test,13,20
+2025-12-01,Town 4,Component 2,gap_never_hiv_test,5,11
+2025-12-01,Town 5,Component 1,gap_never_hiv_test,12,16
+2025-12-01,Town 5,Component 2,gap_never_hiv_test,7,12
+2026-01-01,Town 1,Component 1,gap_never_hiv_test,12,21
+2026-01-01,Town 1,Component 2,gap_never_hiv_test,5,10
+2026-01-01,Town 2,Component 1,gap_never_hiv_test,12,23
+2026-01-01,Town 2,Component 2,gap_never_hiv_test,15,23
+2026-01-01,Town 3,Component 1,gap_never_hiv_test,8,13
+2026-01-01,Town 3,Component 2,gap_never_hiv_test,7,18
+2026-01-01,Town 4,Component 1,gap_never_hiv_test,6,9
+2026-01-01,Town 4,Component 2,gap_never_hiv_test,8,13
+2026-01-01,Town 5,Component 1,gap_never_hiv_test,13,20
+2026-01-01,Town 5,Component 2,gap_never_hiv_test,6,12
+2026-02-01,Town 1,Component 1,gap_never_hiv_test,8,19
+2026-02-01,Town 1,Component 2,gap_never_hiv_test,7,12
+2026-02-01,Town 2,Component 1,gap_never_hiv_test,20,26
+2026-02-01,Town 2,Component 2,gap_never_hiv_test,7,13
+2026-02-01,Town 3,Component 1,gap_never_hiv_test,14,17
+2026-02-01,Town 3,Component 2,gap_never_hiv_test,7,16
+2026-02-01,Town 4,Component 1,gap_never_hiv_test,11,15
+2026-02-01,Town 4,Component 2,gap_never_hiv_test,7,11
+2026-02-01,Town 5,Component 1,gap_never_hiv_test,7,16
+2026-02-01,Town 5,Component 2,gap_never_hiv_test,11,19
+2026-03-01,Town 1,Component 1,gap_never_hiv_test,4,9
+2026-03-01,Town 1,Component 2,gap_never_hiv_test,10,17
+2026-03-01,Town 2,Component 1,gap_never_hiv_test,12,19
+2026-03-01,Town 2,Component 2,gap_never_hiv_test,10,14
+2026-03-01,Town 3,Component 1,gap_never_hiv_test,12,22
+2026-03-01,Town 3,Component 2,gap_never_hiv_test,8,18
+2026-03-01,Town 4,Component 1,gap_never_hiv_test,11,22
+2026-03-01,Town 4,Component 2,gap_never_hiv_test,9,12
+2026-03-01,Town 5,Component 1,gap_never_hiv_test,10,21
+2026-03-01,Town 5,Component 2,gap_never_hiv_test,7,14
+2026-04-01,Town 1,Component 1,gap_never_hiv_test,8,16
+2026-04-01,Town 1,Component 2,gap_never_hiv_test,8,11
+2026-04-01,Town 2,Component 1,gap_never_hiv_test,8,16
+2026-04-01,Town 2,Component 2,gap_never_hiv_test,11,17
+2026-04-01,Town 3,Component 1,gap_never_hiv_test,13,26
+2026-04-01,Town 3,Component 2,gap_never_hiv_test,7,13
+2026-04-01,Town 4,Component 1,gap_never_hiv_test,15,21
+2026-04-01,Town 4,Component 2,gap_never_hiv_test,4,13
+2026-04-01,Town 5,Component 1,gap_never_hiv_test,5,17
+2026-04-01,Town 5,Component 2,gap_never_hiv_test,8,18
+2026-05-01,Town 1,Component 1,gap_never_hiv_test,14,25
+2026-05-01,Town 1,Component 2,gap_never_hiv_test,10,15
+2026-05-01,Town 2,Component 1,gap_never_hiv_test,11,22
+2026-05-01,Town 2,Component 2,gap_never_hiv_test,11,21
+2026-05-01,Town 3,Component 1,gap_never_hiv_test,16,23
+2026-05-01,Town 3,Component 2,gap_never_hiv_test,12,22
+2026-05-01,Town 4,Component 1,gap_never_hiv_test,11,18
+2026-05-01,Town 4,Component 2,gap_never_hiv_test,11,15
+2026-05-01,Town 5,Component 1,gap_never_hiv_test,9,20
+2026-05-01,Town 5,Component 2,gap_never_hiv_test,9,14
+2026-06-01,Town 1,Component 1,gap_never_hiv_test,10,18
+2026-06-01,Town 1,Component 2,gap_never_hiv_test,9,15
+2026-06-01,Town 2,Component 1,gap_never_hiv_test,11,21
+2026-06-01,Town 2,Component 2,gap_never_hiv_test,4,12
+2026-06-01,Town 3,Component 1,gap_never_hiv_test,13,19
+2026-06-01,Town 3,Component 2,gap_never_hiv_test,8,13
+2026-06-01,Town 4,Component 1,gap_never_hiv_test,7,15
+2026-06-01,Town 4,Component 2,gap_never_hiv_test,4,11
+2026-06-01,Town 5,Component 1,gap_never_hiv_test,13,22
+2026-06-01,Town 5,Component 2,gap_never_hiv_test,11,16
+2026-07-01,Town 1,Component 1,gap_never_hiv_test,13,18
+2026-07-01,Town 1,Component 2,gap_never_hiv_test,9,22
+2026-07-01,Town 2,Component 1,gap_never_hiv_test,11,23
+2026-07-01,Town 2,Component 2,gap_never_hiv_test,12,18
+2026-07-01,Town 3,Component 1,gap_never_hiv_test,10,18
+2026-07-01,Town 3,Component 2,gap_never_hiv_test,15,24
+2026-07-01,Town 4,Component 1,gap_never_hiv_test,13,20
+2026-07-01,Town 4,Component 2,gap_never_hiv_test,6,12
+2026-07-01,Town 5,Component 1,gap_never_hiv_test,9,17
+2026-07-01,Town 5,Component 2,gap_never_hiv_test,8,17
+2026-08-01,Town 1,Component 1,gap_never_hiv_test,14,18
+2026-08-01,Town 1,Component 2,gap_never_hiv_test,7,17
+2026-08-01,Town 2,Component 1,gap_never_hiv_test,8,23
+2026-08-01,Town 2,Component 2,gap_never_hiv_test,8,9
+2026-08-01,Town 3,Component 1,gap_never_hiv_test,19,24
+2026-08-01,Town 3,Component 2,gap_never_hiv_test,8,18
+2026-08-01,Town 4,Component 1,gap_never_hiv_test,6,11
+2026-08-01,Town 4,Component 2,gap_never_hiv_test,11,18
+2026-08-01,Town 5,Component 1,gap_never_hiv_test,13,22
+2026-08-01,Town 5,Component 2,gap_never_hiv_test,9,15
+2026-09-01,Town 1,Component 1,gap_never_hiv_test,13,19
+2026-09-01,Town 1,Component 2,gap_never_hiv_test,15,22
+2026-09-01,Town 2,Component 1,gap_never_hiv_test,10,20
+2026-09-01,Town 2,Component 2,gap_never_hiv_test,11,15
+2026-09-01,Town 3,Component 1,gap_never_hiv_test,8,14
+2026-09-01,Town 3,Component 2,gap_never_hiv_test,7,15
+2026-09-01,Town 4,Component 1,gap_never_hiv_test,7,18
+2026-09-01,Town 4,Component 2,gap_never_hiv_test,10,20
+2026-09-01,Town 5,Component 1,gap_never_hiv_test,15,22
+2026-09-01,Town 5,Component 2,gap_never_hiv_test,18,30
+2025-04-01,Town 1,Component 1,gap_never_hcv_test,7,14
+2025-04-01,Town 1,Component 2,gap_never_hcv_test,5,7
+2025-04-01,Town 2,Component 1,gap_never_hcv_test,6,10
+2025-04-01,Town 2,Component 2,gap_never_hcv_test,5,9
+2025-04-01,Town 3,Component 1,gap_never_hcv_test,12,15
+2025-04-01,Town 3,Component 2,gap_never_hcv_test,4,10
+2025-04-01,Town 4,Component 1,gap_never_hcv_test,9,13
+2025-04-01,Town 4,Component 2,gap_never_hcv_test,4,10
+2025-04-01,Town 5,Component 1,gap_never_hcv_test,9,11
+2025-04-01,Town 5,Component 2,gap_never_hcv_test,5,10
+2025-05-01,Town 1,Component 1,gap_never_hcv_test,4,4
+2025-05-01,Town 1,Component 2,gap_never_hcv_test,7,13
+2025-05-01,Town 2,Component 1,gap_never_hcv_test,4,11
+2025-05-01,Town 2,Component 2,gap_never_hcv_test,4,8
+2025-05-01,Town 3,Component 1,gap_never_hcv_test,8,18
+2025-05-01,Town 3,Component 2,gap_never_hcv_test,5,9
+2025-05-01,Town 4,Component 1,gap_never_hcv_test,4,7
+2025-05-01,Town 4,Component 2,gap_never_hcv_test,7,8
+2025-05-01,Town 5,Component 1,gap_never_hcv_test,13,16
+2025-05-01,Town 5,Component 2,gap_never_hcv_test,7,11
+2025-06-01,Town 1,Component 1,gap_never_hcv_test,8,14
+2025-06-01,Town 1,Component 2,gap_never_hcv_test,7,9
+2025-06-01,Town 2,Component 1,gap_never_hcv_test,13,17
+2025-06-01,Town 2,Component 2,gap_never_hcv_test,9,12
+2025-06-01,Town 3,Component 1,gap_never_hcv_test,7,12
+2025-06-01,Town 3,Component 2,gap_never_hcv_test,2,6
+2025-06-01,Town 4,Component 1,gap_never_hcv_test,7,13
+2025-06-01,Town 4,Component 2,gap_never_hcv_test,11,15
+2025-06-01,Town 5,Component 1,gap_never_hcv_test,10,16
+2025-06-01,Town 5,Component 2,gap_never_hcv_test,6,7
+2025-07-01,Town 1,Component 1,gap_never_hcv_test,8,12
+2025-07-01,Town 1,Component 2,gap_never_hcv_test,9,14
+2025-07-01,Town 2,Component 1,gap_never_hcv_test,14,25
+2025-07-01,Town 2,Component 2,gap_never_hcv_test,9,15
+2025-07-01,Town 3,Component 1,gap_never_hcv_test,10,18
+2025-07-01,Town 3,Component 2,gap_never_hcv_test,5,11
+2025-07-01,Town 4,Component 1,gap_never_hcv_test,7,11
+2025-07-01,Town 4,Component 2,gap_never_hcv_test,9,16
+2025-07-01,Town 5,Component 1,gap_never_hcv_test,5,8
+2025-07-01,Town 5,Component 2,gap_never_hcv_test,4,7
+2025-08-01,Town 1,Component 1,gap_never_hcv_test,5,10
+2025-08-01,Town 1,Component 2,gap_never_hcv_test,3,7
+2025-08-01,Town 2,Component 1,gap_never_hcv_test,9,15
+2025-08-01,Town 2,Component 2,gap_never_hcv_test,4,9
+2025-08-01,Town 3,Component 1,gap_never_hcv_test,6,14
+2025-08-01,Town 3,Component 2,gap_never_hcv_test,4,7
+2025-08-01,Town 4,Component 1,gap_never_hcv_test,7,8
+2025-08-01,Town 4,Component 2,gap_never_hcv_test,4,7
+2025-08-01,Town 5,Component 1,gap_never_hcv_test,7,11
+2025-08-01,Town 5,Component 2,gap_never_hcv_test,8,9
+2025-09-01,Town 1,Component 1,gap_never_hcv_test,7,14
+2025-09-01,Town 1,Component 2,gap_never_hcv_test,6,6
+2025-09-01,Town 2,Component 1,gap_never_hcv_test,11,15
+2025-09-01,Town 2,Component 2,gap_never_hcv_test,12,18
+2025-09-01,Town 3,Component 1,gap_never_hcv_test,15,18
+2025-09-01,Town 3,Component 2,gap_never_hcv_test,8,14
+2025-09-01,Town 4,Component 1,gap_never_hcv_test,6,11
+2025-09-01,Town 4,Component 2,gap_never_hcv_test,7,11
+2025-09-01,Town 5,Component 1,gap_never_hcv_test,10,13
+2025-09-01,Town 5,Component 2,gap_never_hcv_test,7,11
+2025-10-01,Town 1,Component 1,gap_never_hcv_test,13,18
+2025-10-01,Town 1,Component 2,gap_never_hcv_test,4,6
+2025-10-01,Town 2,Component 1,gap_never_hcv_test,10,18
+2025-10-01,Town 2,Component 2,gap_never_hcv_test,14,21
+2025-10-01,Town 3,Component 1,gap_never_hcv_test,7,18
+2025-10-01,Town 3,Component 2,gap_never_hcv_test,11,17
+2025-10-01,Town 4,Component 1,gap_never_hcv_test,10,16
+2025-10-01,Town 4,Component 2,gap_never_hcv_test,11,15
+2025-10-01,Town 5,Component 1,gap_never_hcv_test,6,11
+2025-10-01,Town 5,Component 2,gap_never_hcv_test,5,9
+2025-11-01,Town 1,Component 1,gap_never_hcv_test,13,15
+2025-11-01,Town 1,Component 2,gap_never_hcv_test,3,9
+2025-11-01,Town 2,Component 1,gap_never_hcv_test,10,16
+2025-11-01,Town 2,Component 2,gap_never_hcv_test,8,10
+2025-11-01,Town 3,Component 1,gap_never_hcv_test,9,10
+2025-11-01,Town 3,Component 2,gap_never_hcv_test,9,14
+2025-11-01,Town 4,Component 1,gap_never_hcv_test,17,20
+2025-11-01,Town 4,Component 2,gap_never_hcv_test,6,9
+2025-11-01,Town 5,Component 1,gap_never_hcv_test,9,19
+2025-11-01,Town 5,Component 2,gap_never_hcv_test,11,16
+2025-12-01,Town 1,Component 1,gap_never_hcv_test,9,16
+2025-12-01,Town 1,Component 2,gap_never_hcv_test,3,5
+2025-12-01,Town 2,Component 1,gap_never_hcv_test,11,19
+2025-12-01,Town 2,Component 2,gap_never_hcv_test,8,8
+2025-12-01,Town 3,Component 1,gap_never_hcv_test,12,17
+2025-12-01,Town 3,Component 2,gap_never_hcv_test,6,8
+2025-12-01,Town 4,Component 1,gap_never_hcv_test,16,20
+2025-12-01,Town 4,Component 2,gap_never_hcv_test,8,11
+2025-12-01,Town 5,Component 1,gap_never_hcv_test,10,16
+2025-12-01,Town 5,Component 2,gap_never_hcv_test,9,12
+2026-01-01,Town 1,Component 1,gap_never_hcv_test,16,21
+2026-01-01,Town 1,Component 2,gap_never_hcv_test,10,10
+2026-01-01,Town 2,Component 1,gap_never_hcv_test,9,23
+2026-01-01,Town 2,Component 2,gap_never_hcv_test,16,23
+2026-01-01,Town 3,Component 1,gap_never_hcv_test,8,13
+2026-01-01,Town 3,Component 2,gap_never_hcv_test,11,18
+2026-01-01,Town 4,Component 1,gap_never_hcv_test,5,9
+2026-01-01,Town 4,Component 2,gap_never_hcv_test,9,13
+2026-01-01,Town 5,Component 1,gap_never_hcv_test,16,20
+2026-01-01,Town 5,Component 2,gap_never_hcv_test,8,12
+2026-02-01,Town 1,Component 1,gap_never_hcv_test,11,19
+2026-02-01,Town 1,Component 2,gap_never_hcv_test,7,12
+2026-02-01,Town 2,Component 1,gap_never_hcv_test,14,26
+2026-02-01,Town 2,Component 2,gap_never_hcv_test,10,13
+2026-02-01,Town 3,Component 1,gap_never_hcv_test,10,17
+2026-02-01,Town 3,Component 2,gap_never_hcv_test,13,16
+2026-02-01,Town 4,Component 1,gap_never_hcv_test,10,15
+2026-02-01,Town 4,Component 2,gap_never_hcv_test,5,11
+2026-02-01,Town 5,Component 1,gap_never_hcv_test,7,16
+2026-02-01,Town 5,Component 2,gap_never_hcv_test,13,19
+2026-03-01,Town 1,Component 1,gap_never_hcv_test,5,9
+2026-03-01,Town 1,Component 2,gap_never_hcv_test,13,17
+2026-03-01,Town 2,Component 1,gap_never_hcv_test,11,19
+2026-03-01,Town 2,Component 2,gap_never_hcv_test,11,14
+2026-03-01,Town 3,Component 1,gap_never_hcv_test,12,22
+2026-03-01,Town 3,Component 2,gap_never_hcv_test,9,18
+2026-03-01,Town 4,Component 1,gap_never_hcv_test,14,22
+2026-03-01,Town 4,Component 2,gap_never_hcv_test,10,12
+2026-03-01,Town 5,Component 1,gap_never_hcv_test,7,21
+2026-03-01,Town 5,Component 2,gap_never_hcv_test,10,14
+2026-04-01,Town 1,Component 1,gap_never_hcv_test,10,16
+2026-04-01,Town 1,Component 2,gap_never_hcv_test,6,11
+2026-04-01,Town 2,Component 1,gap_never_hcv_test,8,16
+2026-04-01,Town 2,Component 2,gap_never_hcv_test,9,17
+2026-04-01,Town 3,Component 1,gap_never_hcv_test,15,26
+2026-04-01,Town 3,Component 2,gap_never_hcv_test,8,13
+2026-04-01,Town 4,Component 1,gap_never_hcv_test,12,21
+2026-04-01,Town 4,Component 2,gap_never_hcv_test,6,13
+2026-04-01,Town 5,Component 1,gap_never_hcv_test,9,17
+2026-04-01,Town 5,Component 2,gap_never_hcv_test,12,18
+2026-05-01,Town 1,Component 1,gap_never_hcv_test,15,25
+2026-05-01,Town 1,Component 2,gap_never_hcv_test,10,15
+2026-05-01,Town 2,Component 1,gap_never_hcv_test,18,22
+2026-05-01,Town 2,Component 2,gap_never_hcv_test,17,21
+2026-05-01,Town 3,Component 1,gap_never_hcv_test,17,23
+2026-05-01,Town 3,Component 2,gap_never_hcv_test,12,22
+2026-05-01,Town 4,Component 1,gap_never_hcv_test,7,18
+2026-05-01,Town 4,Component 2,gap_never_hcv_test,7,15
+2026-05-01,Town 5,Component 1,gap_never_hcv_test,9,20
+2026-05-01,Town 5,Component 2,gap_never_hcv_test,10,14
+2026-06-01,Town 1,Component 1,gap_never_hcv_test,12,18
+2026-06-01,Town 1,Component 2,gap_never_hcv_test,8,15
+2026-06-01,Town 2,Component 1,gap_never_hcv_test,19,21
+2026-06-01,Town 2,Component 2,gap_never_hcv_test,5,12
+2026-06-01,Town 3,Component 1,gap_never_hcv_test,14,19
+2026-06-01,Town 3,Component 2,gap_never_hcv_test,7,13
+2026-06-01,Town 4,Component 1,gap_never_hcv_test,12,15
+2026-06-01,Town 4,Component 2,gap_never_hcv_test,8,11
+2026-06-01,Town 5,Component 1,gap_never_hcv_test,18,22
+2026-06-01,Town 5,Component 2,gap_never_hcv_test,11,16
+2026-07-01,Town 1,Component 1,gap_never_hcv_test,10,18
+2026-07-01,Town 1,Component 2,gap_never_hcv_test,16,22
+2026-07-01,Town 2,Component 1,gap_never_hcv_test,15,23
+2026-07-01,Town 2,Component 2,gap_never_hcv_test,16,18
+2026-07-01,Town 3,Component 1,gap_never_hcv_test,9,18
+2026-07-01,Town 3,Component 2,gap_never_hcv_test,20,24
+2026-07-01,Town 4,Component 1,gap_never_hcv_test,16,20
+2026-07-01,Town 4,Component 2,gap_never_hcv_test,4,12
+2026-07-01,Town 5,Component 1,gap_never_hcv_test,13,17
+2026-07-01,Town 5,Component 2,gap_never_hcv_test,12,17
+2026-08-01,Town 1,Component 1,gap_never_hcv_test,10,18
+2026-08-01,Town 1,Component 2,gap_never_hcv_test,10,17
+2026-08-01,Town 2,Component 1,gap_never_hcv_test,12,23
+2026-08-01,Town 2,Component 2,gap_never_hcv_test,8,9
+2026-08-01,Town 3,Component 1,gap_never_hcv_test,16,24
+2026-08-01,Town 3,Component 2,gap_never_hcv_test,9,18
+2026-08-01,Town 4,Component 1,gap_never_hcv_test,9,11
+2026-08-01,Town 4,Component 2,gap_never_hcv_test,14,18
+2026-08-01,Town 5,Component 1,gap_never_hcv_test,10,22
+2026-08-01,Town 5,Component 2,gap_never_hcv_test,10,15
+2026-09-01,Town 1,Component 1,gap_never_hcv_test,9,19
+2026-09-01,Town 1,Component 2,gap_never_hcv_test,13,22
+2026-09-01,Town 2,Component 1,gap_never_hcv_test,11,20
+2026-09-01,Town 2,Component 2,gap_never_hcv_test,7,15
+2026-09-01,Town 3,Component 1,gap_never_hcv_test,8,14
+2026-09-01,Town 3,Component 2,gap_never_hcv_test,11,15
+2026-09-01,Town 4,Component 1,gap_never_hcv_test,14,18
+2026-09-01,Town 4,Component 2,gap_never_hcv_test,11,20
+2026-09-01,Town 5,Component 1,gap_never_hcv_test,19,22
+2026-09-01,Town 5,Component 2,gap_never_hcv_test,24,30
+2025-04-01,Town 1,Component 1,gap_never_sud_assess,11,14
+2025-04-01,Town 1,Component 2,gap_never_sud_assess,3,7
+2025-04-01,Town 2,Component 1,gap_never_sud_assess,5,10
+2025-04-01,Town 2,Component 2,gap_never_sud_assess,3,9
+2025-04-01,Town 3,Component 1,gap_never_sud_assess,6,15
+2025-04-01,Town 3,Component 2,gap_never_sud_assess,3,10
+2025-04-01,Town 4,Component 1,gap_never_sud_assess,9,13
+2025-04-01,Town 4,Component 2,gap_never_sud_assess,6,10
+2025-04-01,Town 5,Component 1,gap_never_sud_assess,4,11
+2025-04-01,Town 5,Component 2,gap_never_sud_assess,4,10
+2025-05-01,Town 1,Component 1,gap_never_sud_assess,2,4
+2025-05-01,Town 1,Component 2,gap_never_sud_assess,7,13
+2025-05-01,Town 2,Component 1,gap_never_sud_assess,6,11
+2025-05-01,Town 2,Component 2,gap_never_sud_assess,3,8
+2025-05-01,Town 3,Component 1,gap_never_sud_assess,6,18
+2025-05-01,Town 3,Component 2,gap_never_sud_assess,4,9
+2025-05-01,Town 4,Component 1,gap_never_sud_assess,3,7
+2025-05-01,Town 4,Component 2,gap_never_sud_assess,5,8
+2025-05-01,Town 5,Component 1,gap_never_sud_assess,6,16
+2025-05-01,Town 5,Component 2,gap_never_sud_assess,5,11
+2025-06-01,Town 1,Component 1,gap_never_sud_assess,9,14
+2025-06-01,Town 1,Component 2,gap_never_sud_assess,5,9
+2025-06-01,Town 2,Component 1,gap_never_sud_assess,9,17
+2025-06-01,Town 2,Component 2,gap_never_sud_assess,6,12
+2025-06-01,Town 3,Component 1,gap_never_sud_assess,5,12
+2025-06-01,Town 3,Component 2,gap_never_sud_assess,6,6
+2025-06-01,Town 4,Component 1,gap_never_sud_assess,9,13
+2025-06-01,Town 4,Component 2,gap_never_sud_assess,7,15
+2025-06-01,Town 5,Component 1,gap_never_sud_assess,8,16
+2025-06-01,Town 5,Component 2,gap_never_sud_assess,3,7
+2025-07-01,Town 1,Component 1,gap_never_sud_assess,6,12
+2025-07-01,Town 1,Component 2,gap_never_sud_assess,9,14
+2025-07-01,Town 2,Component 1,gap_never_sud_assess,13,25
+2025-07-01,Town 2,Component 2,gap_never_sud_assess,8,15
+2025-07-01,Town 3,Component 1,gap_never_sud_assess,8,18
+2025-07-01,Town 3,Component 2,gap_never_sud_assess,6,11
+2025-07-01,Town 4,Component 1,gap_never_sud_assess,6,11
+2025-07-01,Town 4,Component 2,gap_never_sud_assess,10,16
+2025-07-01,Town 5,Component 1,gap_never_sud_assess,5,8
+2025-07-01,Town 5,Component 2,gap_never_sud_assess,2,7
+2025-08-01,Town 1,Component 1,gap_never_sud_assess,5,10
+2025-08-01,Town 1,Component 2,gap_never_sud_assess,1,7
+2025-08-01,Town 2,Component 1,gap_never_sud_assess,11,15
+2025-08-01,Town 2,Component 2,gap_never_sud_assess,5,9
+2025-08-01,Town 3,Component 1,gap_never_sud_assess,6,14
+2025-08-01,Town 3,Component 2,gap_never_sud_assess,4,7
+2025-08-01,Town 4,Component 1,gap_never_sud_assess,4,8
+2025-08-01,Town 4,Component 2,gap_never_sud_assess,4,7
+2025-08-01,Town 5,Component 1,gap_never_sud_assess,8,11
+2025-08-01,Town 5,Component 2,gap_never_sud_assess,5,9
+2025-09-01,Town 1,Component 1,gap_never_sud_assess,5,14
+2025-09-01,Town 1,Component 2,gap_never_sud_assess,3,6
+2025-09-01,Town 2,Component 1,gap_never_sud_assess,5,15
+2025-09-01,Town 2,Component 2,gap_never_sud_assess,8,18
+2025-09-01,Town 3,Component 1,gap_never_sud_assess,10,18
+2025-09-01,Town 3,Component 2,gap_never_sud_assess,8,14
+2025-09-01,Town 4,Component 1,gap_never_sud_assess,5,11
+2025-09-01,Town 4,Component 2,gap_never_sud_assess,5,11
+2025-09-01,Town 5,Component 1,gap_never_sud_assess,5,13
+2025-09-01,Town 5,Component 2,gap_never_sud_assess,5,11
+2025-10-01,Town 1,Component 1,gap_never_sud_assess,7,18
+2025-10-01,Town 1,Component 2,gap_never_sud_assess,2,6
+2025-10-01,Town 2,Component 1,gap_never_sud_assess,11,18
+2025-10-01,Town 2,Component 2,gap_never_sud_assess,9,21
+2025-10-01,Town 3,Component 1,gap_never_sud_assess,8,18
+2025-10-01,Town 3,Component 2,gap_never_sud_assess,9,17
+2025-10-01,Town 4,Component 1,gap_never_sud_assess,8,16
+2025-10-01,Town 4,Component 2,gap_never_sud_assess,7,15
+2025-10-01,Town 5,Component 1,gap_never_sud_assess,4,11
+2025-10-01,Town 5,Component 2,gap_never_sud_assess,6,9
+2025-11-01,Town 1,Component 1,gap_never_sud_assess,8,15
+2025-11-01,Town 1,Component 2,gap_never_sud_assess,6,9
+2025-11-01,Town 2,Component 1,gap_never_sud_assess,7,16
+2025-11-01,Town 2,Component 2,gap_never_sud_assess,3,10
+2025-11-01,Town 3,Component 1,gap_never_sud_assess,6,10
+2025-11-01,Town 3,Component 2,gap_never_sud_assess,5,14
+2025-11-01,Town 4,Component 1,gap_never_sud_assess,9,20
+2025-11-01,Town 4,Component 2,gap_never_sud_assess,0,9
+2025-11-01,Town 5,Component 1,gap_never_sud_assess,14,19
+2025-11-01,Town 5,Component 2,gap_never_sud_assess,13,16
+2025-12-01,Town 1,Component 1,gap_never_sud_assess,9,16
+2025-12-01,Town 1,Component 2,gap_never_sud_assess,2,5
+2025-12-01,Town 2,Component 1,gap_never_sud_assess,5,19
+2025-12-01,Town 2,Component 2,gap_never_sud_assess,4,8
+2025-12-01,Town 3,Component 1,gap_never_sud_assess,11,17
+2025-12-01,Town 3,Component 2,gap_never_sud_assess,3,8
+2025-12-01,Town 4,Component 1,gap_never_sud_assess,10,20
+2025-12-01,Town 4,Component 2,gap_never_sud_assess,4,11
+2025-12-01,Town 5,Component 1,gap_never_sud_assess,8,16
+2025-12-01,Town 5,Component 2,gap_never_sud_assess,4,12
+2026-01-01,Town 1,Component 1,gap_never_sud_assess,14,21
+2026-01-01,Town 1,Component 2,gap_never_sud_assess,6,10
+2026-01-01,Town 2,Component 1,gap_never_sud_assess,12,23
+2026-01-01,Town 2,Component 2,gap_never_sud_assess,15,23
+2026-01-01,Town 3,Component 1,gap_never_sud_assess,11,13
+2026-01-01,Town 3,Component 2,gap_never_sud_assess,9,18
+2026-01-01,Town 4,Component 1,gap_never_sud_assess,4,9
+2026-01-01,Town 4,Component 2,gap_never_sud_assess,7,13
+2026-01-01,Town 5,Component 1,gap_never_sud_assess,11,20
+2026-01-01,Town 5,Component 2,gap_never_sud_assess,7,12
+2026-02-01,Town 1,Component 1,gap_never_sud_assess,11,19
+2026-02-01,Town 1,Component 2,gap_never_sud_assess,8,12
+2026-02-01,Town 2,Component 1,gap_never_sud_assess,15,26
+2026-02-01,Town 2,Component 2,gap_never_sud_assess,6,13
+2026-02-01,Town 3,Component 1,gap_never_sud_assess,10,17
+2026-02-01,Town 3,Component 2,gap_never_sud_assess,10,16
+2026-02-01,Town 4,Component 1,gap_never_sud_assess,9,15
+2026-02-01,Town 4,Component 2,gap_never_sud_assess,7,11
+2026-02-01,Town 5,Component 1,gap_never_sud_assess,6,16
+2026-02-01,Town 5,Component 2,gap_never_sud_assess,12,19
+2026-03-01,Town 1,Component 1,gap_never_sud_assess,4,9
+2026-03-01,Town 1,Component 2,gap_never_sud_assess,10,17
+2026-03-01,Town 2,Component 1,gap_never_sud_assess,10,19
+2026-03-01,Town 2,Component 2,gap_never_sud_assess,7,14
+2026-03-01,Town 3,Component 1,gap_never_sud_assess,10,22
+2026-03-01,Town 3,Component 2,gap_never_sud_assess,6,18
+2026-03-01,Town 4,Component 1,gap_never_sud_assess,12,22
+2026-03-01,Town 4,Component 2,gap_never_sud_assess,5,12
+2026-03-01,Town 5,Component 1,gap_never_sud_assess,9,21
+2026-03-01,Town 5,Component 2,gap_never_sud_assess,10,14
+2026-04-01,Town 1,Component 1,gap_never_sud_assess,10,16
+2026-04-01,Town 1,Component 2,gap_never_sud_assess,4,11
+2026-04-01,Town 2,Component 1,gap_never_sud_assess,8,16
+2026-04-01,Town 2,Component 2,gap_never_sud_assess,8,17
+2026-04-01,Town 3,Component 1,gap_never_sud_assess,14,26
+2026-04-01,Town 3,Component 2,gap_never_sud_assess,5,13
+2026-04-01,Town 4,Component 1,gap_never_sud_assess,10,21
+2026-04-01,Town 4,Component 2,gap_never_sud_assess,8,13
+2026-04-01,Town 5,Component 1,gap_never_sud_assess,7,17
+2026-04-01,Town 5,Component 2,gap_never_sud_assess,9,18
+2026-05-01,Town 1,Component 1,gap_never_sud_assess,16,25
+2026-05-01,Town 1,Component 2,gap_never_sud_assess,8,15
+2026-05-01,Town 2,Component 1,gap_never_sud_assess,9,22
+2026-05-01,Town 2,Component 2,gap_never_sud_assess,16,21
+2026-05-01,Town 3,Component 1,gap_never_sud_assess,10,23
+2026-05-01,Town 3,Component 2,gap_never_sud_assess,12,22
+2026-05-01,Town 4,Component 1,gap_never_sud_assess,8,18
+2026-05-01,Town 4,Component 2,gap_never_sud_assess,7,15
+2026-05-01,Town 5,Component 1,gap_never_sud_assess,14,20
+2026-05-01,Town 5,Component 2,gap_never_sud_assess,4,14
+2026-06-01,Town 1,Component 1,gap_never_sud_assess,9,18
+2026-06-01,Town 1,Component 2,gap_never_sud_assess,6,15
+2026-06-01,Town 2,Component 1,gap_never_sud_assess,13,21
+2026-06-01,Town 2,Component 2,gap_never_sud_assess,6,12
+2026-06-01,Town 3,Component 1,gap_never_sud_assess,7,19
+2026-06-01,Town 3,Component 2,gap_never_sud_assess,8,13
+2026-06-01,Town 4,Component 1,gap_never_sud_assess,7,15
+2026-06-01,Town 4,Component 2,gap_never_sud_assess,6,11
+2026-06-01,Town 5,Component 1,gap_never_sud_assess,11,22
+2026-06-01,Town 5,Component 2,gap_never_sud_assess,9,16
+2026-07-01,Town 1,Component 1,gap_never_sud_assess,10,18
+2026-07-01,Town 1,Component 2,gap_never_sud_assess,12,22
+2026-07-01,Town 2,Component 1,gap_never_sud_assess,11,23
+2026-07-01,Town 2,Component 2,gap_never_sud_assess,6,18
+2026-07-01,Town 3,Component 1,gap_never_sud_assess,10,18
+2026-07-01,Town 3,Component 2,gap_never_sud_assess,10,24
+2026-07-01,Town 4,Component 1,gap_never_sud_assess,10,20
+2026-07-01,Town 4,Component 2,gap_never_sud_assess,6,12
+2026-07-01,Town 5,Component 1,gap_never_sud_assess,9,17
+2026-07-01,Town 5,Component 2,gap_never_sud_assess,8,17
+2026-08-01,Town 1,Component 1,gap_never_sud_assess,13,18
+2026-08-01,Town 1,Component 2,gap_never_sud_assess,9,17
+2026-08-01,Town 2,Component 1,gap_never_sud_assess,10,23
+2026-08-01,Town 2,Component 2,gap_never_sud_assess,5,9
+2026-08-01,Town 3,Component 1,gap_never_sud_assess,14,24
+2026-08-01,Town 3,Component 2,gap_never_sud_assess,11,18
+2026-08-01,Town 4,Component 1,gap_never_sud_assess,7,11
+2026-08-01,Town 4,Component 2,gap_never_sud_assess,11,18
+2026-08-01,Town 5,Component 1,gap_never_sud_assess,15,22
+2026-08-01,Town 5,Component 2,gap_never_sud_assess,7,15
+2026-09-01,Town 1,Component 1,gap_never_sud_assess,10,19
+2026-09-01,Town 1,Component 2,gap_never_sud_assess,9,22
+2026-09-01,Town 2,Component 1,gap_never_sud_assess,11,20
+2026-09-01,Town 2,Component 2,gap_never_sud_assess,5,15
+2026-09-01,Town 3,Component 1,gap_never_sud_assess,7,14
+2026-09-01,Town 3,Component 2,gap_never_sud_assess,9,15
+2026-09-01,Town 4,Component 1,gap_never_sud_assess,11,18
+2026-09-01,Town 4,Component 2,gap_never_sud_assess,8,20
+2026-09-01,Town 5,Component 1,gap_never_sud_assess,12,22
+2026-09-01,Town 5,Component 2,gap_never_sud_assess,13,30
+2025-04-01,Town 1,Component 1,gap_not_on_hiv_med,6,14
+2025-04-01,Town 1,Component 2,gap_not_on_hiv_med,5,7
+2025-04-01,Town 2,Component 1,gap_not_on_hiv_med,6,10
+2025-04-01,Town 2,Component 2,gap_not_on_hiv_med,7,9
+2025-04-01,Town 3,Component 1,gap_not_on_hiv_med,8,15
+2025-04-01,Town 3,Component 2,gap_not_on_hiv_med,5,10
+2025-04-01,Town 4,Component 1,gap_not_on_hiv_med,7,13
+2025-04-01,Town 4,Component 2,gap_not_on_hiv_med,4,10
+2025-04-01,Town 5,Component 1,gap_not_on_hiv_med,9,11
+2025-04-01,Town 5,Component 2,gap_not_on_hiv_med,5,10
+2025-05-01,Town 1,Component 1,gap_not_on_hiv_med,2,4
+2025-05-01,Town 1,Component 2,gap_not_on_hiv_med,6,13
+2025-05-01,Town 2,Component 1,gap_not_on_hiv_med,4,11
+2025-05-01,Town 2,Component 2,gap_not_on_hiv_med,4,8
+2025-05-01,Town 3,Component 1,gap_not_on_hiv_med,9,18
+2025-05-01,Town 3,Component 2,gap_not_on_hiv_med,2,9
+2025-05-01,Town 4,Component 1,gap_not_on_hiv_med,3,7
+2025-05-01,Town 4,Component 2,gap_not_on_hiv_med,4,8
+2025-05-01,Town 5,Component 1,gap_not_on_hiv_med,6,16
+2025-05-01,Town 5,Component 2,gap_not_on_hiv_med,5,11
+2025-06-01,Town 1,Component 1,gap_not_on_hiv_med,6,14
+2025-06-01,Town 1,Component 2,gap_not_on_hiv_med,4,9
+2025-06-01,Town 2,Component 1,gap_not_on_hiv_med,8,17
+2025-06-01,Town 2,Component 2,gap_not_on_hiv_med,3,12
+2025-06-01,Town 3,Component 1,gap_not_on_hiv_med,7,12
+2025-06-01,Town 3,Component 2,gap_not_on_hiv_med,2,6
+2025-06-01,Town 4,Component 1,gap_not_on_hiv_med,6,13
+2025-06-01,Town 4,Component 2,gap_not_on_hiv_med,7,15
+2025-06-01,Town 5,Component 1,gap_not_on_hiv_med,6,16
+2025-06-01,Town 5,Component 2,gap_not_on_hiv_med,3,7
+2025-07-01,Town 1,Component 1,gap_not_on_hiv_med,5,12
+2025-07-01,Town 1,Component 2,gap_not_on_hiv_med,7,14
+2025-07-01,Town 2,Component 1,gap_not_on_hiv_med,7,25
+2025-07-01,Town 2,Component 2,gap_not_on_hiv_med,4,15
+2025-07-01,Town 3,Component 1,gap_not_on_hiv_med,8,18
+2025-07-01,Town 3,Component 2,gap_not_on_hiv_med,5,11
+2025-07-01,Town 4,Component 1,gap_not_on_hiv_med,3,11
+2025-07-01,Town 4,Component 2,gap_not_on_hiv_med,9,16
+2025-07-01,Town 5,Component 1,gap_not_on_hiv_med,2,8
+2025-07-01,Town 5,Component 2,gap_not_on_hiv_med,3,7
+2025-08-01,Town 1,Component 1,gap_not_on_hiv_med,6,10
+2025-08-01,Town 1,Component 2,gap_not_on_hiv_med,2,7
+2025-08-01,Town 2,Component 1,gap_not_on_hiv_med,6,15
+2025-08-01,Town 2,Component 2,gap_not_on_hiv_med,2,9
+2025-08-01,Town 3,Component 1,gap_not_on_hiv_med,6,14
+2025-08-01,Town 3,Component 2,gap_not_on_hiv_med,4,7
+2025-08-01,Town 4,Component 1,gap_not_on_hiv_med,4,8
+2025-08-01,Town 4,Component 2,gap_not_on_hiv_med,4,7
+2025-08-01,Town 5,Component 1,gap_not_on_hiv_med,4,11
+2025-08-01,Town 5,Component 2,gap_not_on_hiv_med,3,9
+2025-09-01,Town 1,Component 1,gap_not_on_hiv_med,6,14
+2025-09-01,Town 1,Component 2,gap_not_on_hiv_med,3,6
+2025-09-01,Town 2,Component 1,gap_not_on_hiv_med,6,15
+2025-09-01,Town 2,Component 2,gap_not_on_hiv_med,8,18
+2025-09-01,Town 3,Component 1,gap_not_on_hiv_med,7,18
+2025-09-01,Town 3,Component 2,gap_not_on_hiv_med,3,14
+2025-09-01,Town 4,Component 1,gap_not_on_hiv_med,3,11
+2025-09-01,Town 4,Component 2,gap_not_on_hiv_med,7,11
+2025-09-01,Town 5,Component 1,gap_not_on_hiv_med,7,13
+2025-09-01,Town 5,Component 2,gap_not_on_hiv_med,4,11
+2025-10-01,Town 1,Component 1,gap_not_on_hiv_med,9,18
+2025-10-01,Town 1,Component 2,gap_not_on_hiv_med,2,6
+2025-10-01,Town 2,Component 1,gap_not_on_hiv_med,6,18
+2025-10-01,Town 2,Component 2,gap_not_on_hiv_med,8,21
+2025-10-01,Town 3,Component 1,gap_not_on_hiv_med,12,18
+2025-10-01,Town 3,Component 2,gap_not_on_hiv_med,7,17
+2025-10-01,Town 4,Component 1,gap_not_on_hiv_med,7,16
+2025-10-01,Town 4,Component 2,gap_not_on_hiv_med,10,15
+2025-10-01,Town 5,Component 1,gap_not_on_hiv_med,4,11
+2025-10-01,Town 5,Component 2,gap_not_on_hiv_med,4,9
+2025-11-01,Town 1,Component 1,gap_not_on_hiv_med,4,15
+2025-11-01,Town 1,Component 2,gap_not_on_hiv_med,6,9
+2025-11-01,Town 2,Component 1,gap_not_on_hiv_med,7,16
+2025-11-01,Town 2,Component 2,gap_not_on_hiv_med,5,10
+2025-11-01,Town 3,Component 1,gap_not_on_hiv_med,3,10
+2025-11-01,Town 3,Component 2,gap_not_on_hiv_med,5,14
+2025-11-01,Town 4,Component 1,gap_not_on_hiv_med,10,20
+2025-11-01,Town 4,Component 2,gap_not_on_hiv_med,5,9
+2025-11-01,Town 5,Component 1,gap_not_on_hiv_med,9,19
+2025-11-01,Town 5,Component 2,gap_not_on_hiv_med,2,16
+2025-12-01,Town 1,Component 1,gap_not_on_hiv_med,9,16
+2025-12-01,Town 1,Component 2,gap_not_on_hiv_med,4,5
+2025-12-01,Town 2,Component 1,gap_not_on_hiv_med,7,19
+2025-12-01,Town 2,Component 2,gap_not_on_hiv_med,2,8
+2025-12-01,Town 3,Component 1,gap_not_on_hiv_med,4,17
+2025-12-01,Town 3,Component 2,gap_not_on_hiv_med,2,8
+2025-12-01,Town 4,Component 1,gap_not_on_hiv_med,10,20
+2025-12-01,Town 4,Component 2,gap_not_on_hiv_med,5,11
+2025-12-01,Town 5,Component 1,gap_not_on_hiv_med,8,16
+2025-12-01,Town 5,Component 2,gap_not_on_hiv_med,5,12
+2026-01-01,Town 1,Component 1,gap_not_on_hiv_med,12,21
+2026-01-01,Town 1,Component 2,gap_not_on_hiv_med,4,10
+2026-01-01,Town 2,Component 1,gap_not_on_hiv_med,10,23
+2026-01-01,Town 2,Component 2,gap_not_on_hiv_med,13,23
+2026-01-01,Town 3,Component 1,gap_not_on_hiv_med,7,13
+2026-01-01,Town 3,Component 2,gap_not_on_hiv_med,6,18
+2026-01-01,Town 4,Component 1,gap_not_on_hiv_med,5,9
+2026-01-01,Town 4,Component 2,gap_not_on_hiv_med,4,13
+2026-01-01,Town 5,Component 1,gap_not_on_hiv_med,8,20
+2026-01-01,Town 5,Component 2,gap_not_on_hiv_med,6,12
+2026-02-01,Town 1,Component 1,gap_not_on_hiv_med,5,19
+2026-02-01,Town 1,Component 2,gap_not_on_hiv_med,9,12
+2026-02-01,Town 2,Component 1,gap_not_on_hiv_med,10,26
+2026-02-01,Town 2,Component 2,gap_not_on_hiv_med,3,13
+2026-02-01,Town 3,Component 1,gap_not_on_hiv_med,8,17
+2026-02-01,Town 3,Component 2,gap_not_on_hiv_med,8,16
+2026-02-01,Town 4,Component 1,gap_not_on_hiv_med,7,15
+2026-02-01,Town 4,Component 2,gap_not_on_hiv_med,9,11
+2026-02-01,Town 5,Component 1,gap_not_on_hiv_med,4,16
+2026-02-01,Town 5,Component 2,gap_not_on_hiv_med,7,19
+2026-03-01,Town 1,Component 1,gap_not_on_hiv_med,4,9
+2026-03-01,Town 1,Component 2,gap_not_on_hiv_med,9,17
+2026-03-01,Town 2,Component 1,gap_not_on_hiv_med,6,19
+2026-03-01,Town 2,Component 2,gap_not_on_hiv_med,6,14
+2026-03-01,Town 3,Component 1,gap_not_on_hiv_med,12,22
+2026-03-01,Town 3,Component 2,gap_not_on_hiv_med,10,18
+2026-03-01,Town 4,Component 1,gap_not_on_hiv_med,10,22
+2026-03-01,Town 4,Component 2,gap_not_on_hiv_med,4,12
+2026-03-01,Town 5,Component 1,gap_not_on_hiv_med,8,21
+2026-03-01,Town 5,Component 2,gap_not_on_hiv_med,5,14
+2026-04-01,Town 1,Component 1,gap_not_on_hiv_med,8,16
+2026-04-01,Town 1,Component 2,gap_not_on_hiv_med,5,11
+2026-04-01,Town 2,Component 1,gap_not_on_hiv_med,5,16
+2026-04-01,Town 2,Component 2,gap_not_on_hiv_med,7,17
+2026-04-01,Town 3,Component 1,gap_not_on_hiv_med,15,26
+2026-04-01,Town 3,Component 2,gap_not_on_hiv_med,7,13
+2026-04-01,Town 4,Component 1,gap_not_on_hiv_med,8,21
+2026-04-01,Town 4,Component 2,gap_not_on_hiv_med,6,13
+2026-04-01,Town 5,Component 1,gap_not_on_hiv_med,4,17
+2026-04-01,Town 5,Component 2,gap_not_on_hiv_med,10,18
+2026-05-01,Town 1,Component 1,gap_not_on_hiv_med,9,25
+2026-05-01,Town 1,Component 2,gap_not_on_hiv_med,9,15
+2026-05-01,Town 2,Component 1,gap_not_on_hiv_med,9,22
+2026-05-01,Town 2,Component 2,gap_not_on_hiv_med,9,21
+2026-05-01,Town 3,Component 1,gap_not_on_hiv_med,10,23
+2026-05-01,Town 3,Component 2,gap_not_on_hiv_med,14,22
+2026-05-01,Town 4,Component 1,gap_not_on_hiv_med,6,18
+2026-05-01,Town 4,Component 2,gap_not_on_hiv_med,6,15
+2026-05-01,Town 5,Component 1,gap_not_on_hiv_med,8,20
+2026-05-01,Town 5,Component 2,gap_not_on_hiv_med,6,14
+2026-06-01,Town 1,Component 1,gap_not_on_hiv_med,9,18
+2026-06-01,Town 1,Component 2,gap_not_on_hiv_med,4,15
+2026-06-01,Town 2,Component 1,gap_not_on_hiv_med,10,21
+2026-06-01,Town 2,Component 2,gap_not_on_hiv_med,6,12
+2026-06-01,Town 3,Component 1,gap_not_on_hiv_med,9,19
+2026-06-01,Town 3,Component 2,gap_not_on_hiv_med,7,13
+2026-06-01,Town 4,Component 1,gap_not_on_hiv_med,5,15
+2026-06-01,Town 4,Component 2,gap_not_on_hiv_med,3,11
+2026-06-01,Town 5,Component 1,gap_not_on_hiv_med,10,22
+2026-06-01,Town 5,Component 2,gap_not_on_hiv_med,10,16
+2026-07-01,Town 1,Component 1,gap_not_on_hiv_med,11,18
+2026-07-01,Town 1,Component 2,gap_not_on_hiv_med,10,22
+2026-07-01,Town 2,Component 1,gap_not_on_hiv_med,8,23
+2026-07-01,Town 2,Component 2,gap_not_on_hiv_med,5,18
+2026-07-01,Town 3,Component 1,gap_not_on_hiv_med,12,18
+2026-07-01,Town 3,Component 2,gap_not_on_hiv_med,7,24
+2026-07-01,Town 4,Component 1,gap_not_on_hiv_med,11,20
+2026-07-01,Town 4,Component 2,gap_not_on_hiv_med,8,12
+2026-07-01,Town 5,Component 1,gap_not_on_hiv_med,5,17
+2026-07-01,Town 5,Component 2,gap_not_on_hiv_med,9,17
+2026-08-01,Town 1,Component 1,gap_not_on_hiv_med,6,18
+2026-08-01,Town 1,Component 2,gap_not_on_hiv_med,8,17
+2026-08-01,Town 2,Component 1,gap_not_on_hiv_med,10,23
+2026-08-01,Town 2,Component 2,gap_not_on_hiv_med,3,9
+2026-08-01,Town 3,Component 1,gap_not_on_hiv_med,11,24
+2026-08-01,Town 3,Component 2,gap_not_on_hiv_med,10,18
+2026-08-01,Town 4,Component 1,gap_not_on_hiv_med,3,11
+2026-08-01,Town 4,Component 2,gap_not_on_hiv_med,6,18
+2026-08-01,Town 5,Component 1,gap_not_on_hiv_med,8,22
+2026-08-01,Town 5,Component 2,gap_not_on_hiv_med,8,15
+2026-09-01,Town 1,Component 1,gap_not_on_hiv_med,9,19
+2026-09-01,Town 1,Component 2,gap_not_on_hiv_med,8,22
+2026-09-01,Town 2,Component 1,gap_not_on_hiv_med,10,20
+2026-09-01,Town 2,Component 2,gap_not_on_hiv_med,7,15
+2026-09-01,Town 3,Component 1,gap_not_on_hiv_med,5,14
+2026-09-01,Town 3,Component 2,gap_not_on_hiv_med,7,15
+2026-09-01,Town 4,Component 1,gap_not_on_hiv_med,7,18
+2026-09-01,Town 4,Component 2,gap_not_on_hiv_med,10,20
+2026-09-01,Town 5,Component 1,gap_not_on_hiv_med,8,22
+2026-09-01,Town 5,Component 2,gap_not_on_hiv_med,16,30
+2025-04-01,Town 1,Component 1,gap_not_on_hcv_tx,13,14
+2025-04-01,Town 1,Component 2,gap_not_on_hcv_tx,5,7
+2025-04-01,Town 2,Component 1,gap_not_on_hcv_tx,7,10
+2025-04-01,Town 2,Component 2,gap_not_on_hcv_tx,6,9
+2025-04-01,Town 3,Component 1,gap_not_on_hcv_tx,10,15
+2025-04-01,Town 3,Component 2,gap_not_on_hcv_tx,5,10
+2025-04-01,Town 4,Component 1,gap_not_on_hcv_tx,8,13
+2025-04-01,Town 4,Component 2,gap_not_on_hcv_tx,7,10
+2025-04-01,Town 5,Component 1,gap_not_on_hcv_tx,8,11
+2025-04-01,Town 5,Component 2,gap_not_on_hcv_tx,6,10
+2025-05-01,Town 1,Component 1,gap_not_on_hcv_tx,2,4
+2025-05-01,Town 1,Component 2,gap_not_on_hcv_tx,8,13
+2025-05-01,Town 2,Component 1,gap_not_on_hcv_tx,9,11
+2025-05-01,Town 2,Component 2,gap_not_on_hcv_tx,3,8
+2025-05-01,Town 3,Component 1,gap_not_on_hcv_tx,7,18
+2025-05-01,Town 3,Component 2,gap_not_on_hcv_tx,7,9
+2025-05-01,Town 4,Component 1,gap_not_on_hcv_tx,6,7
+2025-05-01,Town 4,Component 2,gap_not_on_hcv_tx,6,8
+2025-05-01,Town 5,Component 1,gap_not_on_hcv_tx,9,16
+2025-05-01,Town 5,Component 2,gap_not_on_hcv_tx,9,11
+2025-06-01,Town 1,Component 1,gap_not_on_hcv_tx,5,14
+2025-06-01,Town 1,Component 2,gap_not_on_hcv_tx,5,9
+2025-06-01,Town 2,Component 1,gap_not_on_hcv_tx,12,17
+2025-06-01,Town 2,Component 2,gap_not_on_hcv_tx,6,12
+2025-06-01,Town 3,Component 1,gap_not_on_hcv_tx,8,12
+2025-06-01,Town 3,Component 2,gap_not_on_hcv_tx,5,6
+2025-06-01,Town 4,Component 1,gap_not_on_hcv_tx,9,13
+2025-06-01,Town 4,Component 2,gap_not_on_hcv_tx,10,15
+2025-06-01,Town 5,Component 1,gap_not_on_hcv_tx,9,16
+2025-06-01,Town 5,Component 2,gap_not_on_hcv_tx,3,7
+2025-07-01,Town 1,Component 1,gap_not_on_hcv_tx,6,12
+2025-07-01,Town 1,Component 2,gap_not_on_hcv_tx,5,14
+2025-07-01,Town 2,Component 1,gap_not_on_hcv_tx,19,25
+2025-07-01,Town 2,Component 2,gap_not_on_hcv_tx,9,15
+2025-07-01,Town 3,Component 1,gap_not_on_hcv_tx,13,18
+2025-07-01,Town 3,Component 2,gap_not_on_hcv_tx,8,11
+2025-07-01,Town 4,Component 1,gap_not_on_hcv_tx,9,11
+2025-07-01,Town 4,Component 2,gap_not_on_hcv_tx,8,16
+2025-07-01,Town 5,Component 1,gap_not_on_hcv_tx,4,8
+2025-07-01,Town 5,Component 2,gap_not_on_hcv_tx,5,7
+2025-08-01,Town 1,Component 1,gap_not_on_hcv_tx,5,10
+2025-08-01,Town 1,Component 2,gap_not_on_hcv_tx,5,7
+2025-08-01,Town 2,Component 1,gap_not_on_hcv_tx,10,15
+2025-08-01,Town 2,Component 2,gap_not_on_hcv_tx,3,9
+2025-08-01,Town 3,Component 1,gap_not_on_hcv_tx,10,14
+2025-08-01,Town 3,Component 2,gap_not_on_hcv_tx,7,7
+2025-08-01,Town 4,Component 1,gap_not_on_hcv_tx,7,8
+2025-08-01,Town 4,Component 2,gap_not_on_hcv_tx,4,7
+2025-08-01,Town 5,Component 1,gap_not_on_hcv_tx,6,11
+2025-08-01,Town 5,Component 2,gap_not_on_hcv_tx,5,9
+2025-09-01,Town 1,Component 1,gap_not_on_hcv_tx,10,14
+2025-09-01,Town 1,Component 2,gap_not_on_hcv_tx,3,6
+2025-09-01,Town 2,Component 1,gap_not_on_hcv_tx,8,15
+2025-09-01,Town 2,Component 2,gap_not_on_hcv_tx,12,18
+2025-09-01,Town 3,Component 1,gap_not_on_hcv_tx,7,18
+2025-09-01,Town 3,Component 2,gap_not_on_hcv_tx,5,14
+2025-09-01,Town 4,Component 1,gap_not_on_hcv_tx,4,11
+2025-09-01,Town 4,Component 2,gap_not_on_hcv_tx,3,11
+2025-09-01,Town 5,Component 1,gap_not_on_hcv_tx,9,13
+2025-09-01,Town 5,Component 2,gap_not_on_hcv_tx,7,11
+2025-10-01,Town 1,Component 1,gap_not_on_hcv_tx,8,18
+2025-10-01,Town 1,Component 2,gap_not_on_hcv_tx,2,6
+2025-10-01,Town 2,Component 1,gap_not_on_hcv_tx,12,18
+2025-10-01,Town 2,Component 2,gap_not_on_hcv_tx,13,21
+2025-10-01,Town 3,Component 1,gap_not_on_hcv_tx,10,18
+2025-10-01,Town 3,Component 2,gap_not_on_hcv_tx,11,17
+2025-10-01,Town 4,Component 1,gap_not_on_hcv_tx,9,16
+2025-10-01,Town 4,Component 2,gap_not_on_hcv_tx,10,15
+2025-10-01,Town 5,Component 1,gap_not_on_hcv_tx,6,11
+2025-10-01,Town 5,Component 2,gap_not_on_hcv_tx,6,9
+2025-11-01,Town 1,Component 1,gap_not_on_hcv_tx,9,15
+2025-11-01,Town 1,Component 2,gap_not_on_hcv_tx,4,9
+2025-11-01,Town 2,Component 1,gap_not_on_hcv_tx,9,16
+2025-11-01,Town 2,Component 2,gap_not_on_hcv_tx,5,10
+2025-11-01,Town 3,Component 1,gap_not_on_hcv_tx,5,10
+2025-11-01,Town 3,Component 2,gap_not_on_hcv_tx,8,14
+2025-11-01,Town 4,Component 1,gap_not_on_hcv_tx,16,20
+2025-11-01,Town 4,Component 2,gap_not_on_hcv_tx,4,9
+2025-11-01,Town 5,Component 1,gap_not_on_hcv_tx,12,19
+2025-11-01,Town 5,Component 2,gap_not_on_hcv_tx,13,16
+2025-12-01,Town 1,Component 1,gap_not_on_hcv_tx,9,16
+2025-12-01,Town 1,Component 2,gap_not_on_hcv_tx,4,5
+2025-12-01,Town 2,Component 1,gap_not_on_hcv_tx,11,19
+2025-12-01,Town 2,Component 2,gap_not_on_hcv_tx,6,8
+2025-12-01,Town 3,Component 1,gap_not_on_hcv_tx,10,17
+2025-12-01,Town 3,Component 2,gap_not_on_hcv_tx,6,8
+2025-12-01,Town 4,Component 1,gap_not_on_hcv_tx,8,20
+2025-12-01,Town 4,Component 2,gap_not_on_hcv_tx,5,11
+2025-12-01,Town 5,Component 1,gap_not_on_hcv_tx,10,16
+2025-12-01,Town 5,Component 2,gap_not_on_hcv_tx,5,12
+2026-01-01,Town 1,Component 1,gap_not_on_hcv_tx,12,21
+2026-01-01,Town 1,Component 2,gap_not_on_hcv_tx,5,10
+2026-01-01,Town 2,Component 1,gap_not_on_hcv_tx,14,23
+2026-01-01,Town 2,Component 2,gap_not_on_hcv_tx,13,23
+2026-01-01,Town 3,Component 1,gap_not_on_hcv_tx,4,13
+2026-01-01,Town 3,Component 2,gap_not_on_hcv_tx,10,18
+2026-01-01,Town 4,Component 1,gap_not_on_hcv_tx,6,9
+2026-01-01,Town 4,Component 2,gap_not_on_hcv_tx,9,13
+2026-01-01,Town 5,Component 1,gap_not_on_hcv_tx,10,20
+2026-01-01,Town 5,Component 2,gap_not_on_hcv_tx,6,12
+2026-02-01,Town 1,Component 1,gap_not_on_hcv_tx,9,19
+2026-02-01,Town 1,Component 2,gap_not_on_hcv_tx,5,12
+2026-02-01,Town 2,Component 1,gap_not_on_hcv_tx,17,26
+2026-02-01,Town 2,Component 2,gap_not_on_hcv_tx,9,13
+2026-02-01,Town 3,Component 1,gap_not_on_hcv_tx,8,17
+2026-02-01,Town 3,Component 2,gap_not_on_hcv_tx,9,16
+2026-02-01,Town 4,Component 1,gap_not_on_hcv_tx,8,15
+2026-02-01,Town 4,Component 2,gap_not_on_hcv_tx,7,11
+2026-02-01,Town 5,Component 1,gap_not_on_hcv_tx,8,16
+2026-02-01,Town 5,Component 2,gap_not_on_hcv_tx,14,19
+2026-03-01,Town 1,Component 1,gap_not_on_hcv_tx,8,9
+2026-03-01,Town 1,Component 2,gap_not_on_hcv_tx,11,17
+2026-03-01,Town 2,Component 1,gap_not_on_hcv_tx,13,19
+2026-03-01,Town 2,Component 2,gap_not_on_hcv_tx,6,14
+2026-03-01,Town 3,Component 1,gap_not_on_hcv_tx,14,22
+2026-03-01,Town 3,Component 2,gap_not_on_hcv_tx,16,18
+2026-03-01,Town 4,Component 1,gap_not_on_hcv_tx,13,22
+2026-03-01,Town 4,Component 2,gap_not_on_hcv_tx,7,12
+2026-03-01,Town 5,Component 1,gap_not_on_hcv_tx,13,21
+2026-03-01,Town 5,Component 2,gap_not_on_hcv_tx,4,14
+2026-04-01,Town 1,Component 1,gap_not_on_hcv_tx,10,16
+2026-04-01,Town 1,Component 2,gap_not_on_hcv_tx,8,11
+2026-04-01,Town 2,Component 1,gap_not_on_hcv_tx,8,16
+2026-04-01,Town 2,Component 2,gap_not_on_hcv_tx,11,17
+2026-04-01,Town 3,Component 1,gap_not_on_hcv_tx,13,26
+2026-04-01,Town 3,Component 2,gap_not_on_hcv_tx,11,13
+2026-04-01,Town 4,Component 1,gap_not_on_hcv_tx,9,21
+2026-04-01,Town 4,Component 2,gap_not_on_hcv_tx,10,13
+2026-04-01,Town 5,Component 1,gap_not_on_hcv_tx,9,17
+2026-04-01,Town 5,Component 2,gap_not_on_hcv_tx,8,18
+2026-05-01,Town 1,Component 1,gap_not_on_hcv_tx,18,25
+2026-05-01,Town 1,Component 2,gap_not_on_hcv_tx,9,15
+2026-05-01,Town 2,Component 1,gap_not_on_hcv_tx,16,22
+2026-05-01,Town 2,Component 2,gap_not_on_hcv_tx,13,21
+2026-05-01,Town 3,Component 1,gap_not_on_hcv_tx,11,23
+2026-05-01,Town 3,Component 2,gap_not_on_hcv_tx,13,22
+2026-05-01,Town 4,Component 1,gap_not_on_hcv_tx,12,18
+2026-05-01,Town 4,Component 2,gap_not_on_hcv_tx,11,15
+2026-05-01,Town 5,Component 1,gap_not_on_hcv_tx,11,20
+2026-05-01,Town 5,Component 2,gap_not_on_hcv_tx,11,14
+2026-06-01,Town 1,Component 1,gap_not_on_hcv_tx,10,18
+2026-06-01,Town 1,Component 2,gap_not_on_hcv_tx,10,15
+2026-06-01,Town 2,Component 1,gap_not_on_hcv_tx,11,21
+2026-06-01,Town 2,Component 2,gap_not_on_hcv_tx,7,12
+2026-06-01,Town 3,Component 1,gap_not_on_hcv_tx,12,19
+2026-06-01,Town 3,Component 2,gap_not_on_hcv_tx,7,13
+2026-06-01,Town 4,Component 1,gap_not_on_hcv_tx,10,15
+2026-06-01,Town 4,Component 2,gap_not_on_hcv_tx,4,11
+2026-06-01,Town 5,Component 1,gap_not_on_hcv_tx,12,22
+2026-06-01,Town 5,Component 2,gap_not_on_hcv_tx,12,16
+2026-07-01,Town 1,Component 1,gap_not_on_hcv_tx,12,18
+2026-07-01,Town 1,Component 2,gap_not_on_hcv_tx,14,22
+2026-07-01,Town 2,Component 1,gap_not_on_hcv_tx,14,23
+2026-07-01,Town 2,Component 2,gap_not_on_hcv_tx,12,18
+2026-07-01,Town 3,Component 1,gap_not_on_hcv_tx,12,18
+2026-07-01,Town 3,Component 2,gap_not_on_hcv_tx,12,24
+2026-07-01,Town 4,Component 1,gap_not_on_hcv_tx,14,20
+2026-07-01,Town 4,Component 2,gap_not_on_hcv_tx,7,12
+2026-07-01,Town 5,Component 1,gap_not_on_hcv_tx,10,17
+2026-07-01,Town 5,Component 2,gap_not_on_hcv_tx,5,17
+2026-08-01,Town 1,Component 1,gap_not_on_hcv_tx,10,18
+2026-08-01,Town 1,Component 2,gap_not_on_hcv_tx,10,17
+2026-08-01,Town 2,Component 1,gap_not_on_hcv_tx,14,23
+2026-08-01,Town 2,Component 2,gap_not_on_hcv_tx,8,9
+2026-08-01,Town 3,Component 1,gap_not_on_hcv_tx,14,24
+2026-08-01,Town 3,Component 2,gap_not_on_hcv_tx,12,18
+2026-08-01,Town 4,Component 1,gap_not_on_hcv_tx,7,11
+2026-08-01,Town 4,Component 2,gap_not_on_hcv_tx,13,18
+2026-08-01,Town 5,Component 1,gap_not_on_hcv_tx,14,22
+2026-08-01,Town 5,Component 2,gap_not_on_hcv_tx,9,15
+2026-09-01,Town 1,Component 1,gap_not_on_hcv_tx,15,19
+2026-09-01,Town 1,Component 2,gap_not_on_hcv_tx,8,22
+2026-09-01,Town 2,Component 1,gap_not_on_hcv_tx,9,20
+2026-09-01,Town 2,Component 2,gap_not_on_hcv_tx,11,15
+2026-09-01,Town 3,Component 1,gap_not_on_hcv_tx,6,14
+2026-09-01,Town 3,Component 2,gap_not_on_hcv_tx,11,15
+2026-09-01,Town 4,Component 1,gap_not_on_hcv_tx,9,18
+2026-09-01,Town 4,Component 2,gap_not_on_hcv_tx,11,20
+2026-09-01,Town 5,Component 1,gap_not_on_hcv_tx,12,22
+2026-09-01,Town 5,Component 2,gap_not_on_hcv_tx,19,30
+2025-04-01,Town 1,Component 1,gap_not_on_sud_tx,8,14
+2025-04-01,Town 1,Component 2,gap_not_on_sud_tx,5,7
+2025-04-01,Town 2,Component 1,gap_not_on_sud_tx,6,10
+2025-04-01,Town 2,Component 2,gap_not_on_sud_tx,5,9
+2025-04-01,Town 3,Component 1,gap_not_on_sud_tx,8,15
+2025-04-01,Town 3,Component 2,gap_not_on_sud_tx,4,10
+2025-04-01,Town 4,Component 1,gap_not_on_sud_tx,8,13
+2025-04-01,Town 4,Component 2,gap_not_on_sud_tx,2,10
+2025-04-01,Town 5,Component 1,gap_not_on_sud_tx,5,11
+2025-04-01,Town 5,Component 2,gap_not_on_sud_tx,5,10
+2025-05-01,Town 1,Component 1,gap_not_on_sud_tx,2,4
+2025-05-01,Town 1,Component 2,gap_not_on_sud_tx,7,13
+2025-05-01,Town 2,Component 1,gap_not_on_sud_tx,6,11
+2025-05-01,Town 2,Component 2,gap_not_on_sud_tx,4,8
+2025-05-01,Town 3,Component 1,gap_not_on_sud_tx,10,18
+2025-05-01,Town 3,Component 2,gap_not_on_sud_tx,7,9
+2025-05-01,Town 4,Component 1,gap_not_on_sud_tx,3,7
+2025-05-01,Town 4,Component 2,gap_not_on_sud_tx,6,8
+2025-05-01,Town 5,Component 1,gap_not_on_sud_tx,7,16
+2025-05-01,Town 5,Component 2,gap_not_on_sud_tx,3,11
+2025-06-01,Town 1,Component 1,gap_not_on_sud_tx,5,14
+2025-06-01,Town 1,Component 2,gap_not_on_sud_tx,6,9
+2025-06-01,Town 2,Component 1,gap_not_on_sud_tx,12,17
+2025-06-01,Town 2,Component 2,gap_not_on_sud_tx,6,12
+2025-06-01,Town 3,Component 1,gap_not_on_sud_tx,8,12
+2025-06-01,Town 3,Component 2,gap_not_on_sud_tx,3,6
+2025-06-01,Town 4,Component 1,gap_not_on_sud_tx,4,13
+2025-06-01,Town 4,Component 2,gap_not_on_sud_tx,9,15
+2025-06-01,Town 5,Component 1,gap_not_on_sud_tx,9,16
+2025-06-01,Town 5,Component 2,gap_not_on_sud_tx,4,7
+2025-07-01,Town 1,Component 1,gap_not_on_sud_tx,4,12
+2025-07-01,Town 1,Component 2,gap_not_on_sud_tx,5,14
+2025-07-01,Town 2,Component 1,gap_not_on_sud_tx,16,25
+2025-07-01,Town 2,Component 2,gap_not_on_sud_tx,9,15
+2025-07-01,Town 3,Component 1,gap_not_on_sud_tx,7,18
+2025-07-01,Town 3,Component 2,gap_not_on_sud_tx,5,11
+2025-07-01,Town 4,Component 1,gap_not_on_sud_tx,7,11
+2025-07-01,Town 4,Component 2,gap_not_on_sud_tx,7,16
+2025-07-01,Town 5,Component 1,gap_not_on_sud_tx,6,8
+2025-07-01,Town 5,Component 2,gap_not_on_sud_tx,5,7
+2025-08-01,Town 1,Component 1,gap_not_on_sud_tx,5,10
+2025-08-01,Town 1,Component 2,gap_not_on_sud_tx,4,7
+2025-08-01,Town 2,Component 1,gap_not_on_sud_tx,9,15
+2025-08-01,Town 2,Component 2,gap_not_on_sud_tx,4,9
+2025-08-01,Town 3,Component 1,gap_not_on_sud_tx,10,14
+2025-08-01,Town 3,Component 2,gap_not_on_sud_tx,5,7
+2025-08-01,Town 4,Component 1,gap_not_on_sud_tx,6,8
+2025-08-01,Town 4,Component 2,gap_not_on_sud_tx,5,7
+2025-08-01,Town 5,Component 1,gap_not_on_sud_tx,6,11
+2025-08-01,Town 5,Component 2,gap_not_on_sud_tx,4,9
+2025-09-01,Town 1,Component 1,gap_not_on_sud_tx,10,14
+2025-09-01,Town 1,Component 2,gap_not_on_sud_tx,4,6
+2025-09-01,Town 2,Component 1,gap_not_on_sud_tx,6,15
+2025-09-01,Town 2,Component 2,gap_not_on_sud_tx,6,18
+2025-09-01,Town 3,Component 1,gap_not_on_sud_tx,7,18
+2025-09-01,Town 3,Component 2,gap_not_on_sud_tx,13,14
+2025-09-01,Town 4,Component 1,gap_not_on_sud_tx,8,11
+2025-09-01,Town 4,Component 2,gap_not_on_sud_tx,6,11
+2025-09-01,Town 5,Component 1,gap_not_on_sud_tx,10,13
+2025-09-01,Town 5,Component 2,gap_not_on_sud_tx,4,11
+2025-10-01,Town 1,Component 1,gap_not_on_sud_tx,14,18
+2025-10-01,Town 1,Component 2,gap_not_on_sud_tx,2,6
+2025-10-01,Town 2,Component 1,gap_not_on_sud_tx,8,18
+2025-10-01,Town 2,Component 2,gap_not_on_sud_tx,10,21
+2025-10-01,Town 3,Component 1,gap_not_on_sud_tx,12,18
+2025-10-01,Town 3,Component 2,gap_not_on_sud_tx,7,17
+2025-10-01,Town 4,Component 1,gap_not_on_sud_tx,7,16
+2025-10-01,Town 4,Component 2,gap_not_on_sud_tx,10,15
+2025-10-01,Town 5,Component 1,gap_not_on_sud_tx,6,11
+2025-10-01,Town 5,Component 2,gap_not_on_sud_tx,6,9
+2025-11-01,Town 1,Component 1,gap_not_on_sud_tx,11,15
+2025-11-01,Town 1,Component 2,gap_not_on_sud_tx,4,9
+2025-11-01,Town 2,Component 1,gap_not_on_sud_tx,11,16
+2025-11-01,Town 2,Component 2,gap_not_on_sud_tx,7,10
+2025-11-01,Town 3,Component 1,gap_not_on_sud_tx,5,10
+2025-11-01,Town 3,Component 2,gap_not_on_sud_tx,6,14
+2025-11-01,Town 4,Component 1,gap_not_on_sud_tx,7,20
+2025-11-01,Town 4,Component 2,gap_not_on_sud_tx,6,9
+2025-11-01,Town 5,Component 1,gap_not_on_sud_tx,10,19
+2025-11-01,Town 5,Component 2,gap_not_on_sud_tx,8,16
+2025-12-01,Town 1,Component 1,gap_not_on_sud_tx,12,16
+2025-12-01,Town 1,Component 2,gap_not_on_sud_tx,1,5
+2025-12-01,Town 2,Component 1,gap_not_on_sud_tx,12,19
+2025-12-01,Town 2,Component 2,gap_not_on_sud_tx,5,8
+2025-12-01,Town 3,Component 1,gap_not_on_sud_tx,12,17
+2025-12-01,Town 3,Component 2,gap_not_on_sud_tx,3,8
+2025-12-01,Town 4,Component 1,gap_not_on_sud_tx,13,20
+2025-12-01,Town 4,Component 2,gap_not_on_sud_tx,7,11
+2025-12-01,Town 5,Component 1,gap_not_on_sud_tx,7,16
+2025-12-01,Town 5,Component 2,gap_not_on_sud_tx,8,12
+2026-01-01,Town 1,Component 1,gap_not_on_sud_tx,13,21
+2026-01-01,Town 1,Component 2,gap_not_on_sud_tx,6,10
+2026-01-01,Town 2,Component 1,gap_not_on_sud_tx,10,23
+2026-01-01,Town 2,Component 2,gap_not_on_sud_tx,10,23
+2026-01-01,Town 3,Component 1,gap_not_on_sud_tx,7,13
+2026-01-01,Town 3,Component 2,gap_not_on_sud_tx,10,18
+2026-01-01,Town 4,Component 1,gap_not_on_sud_tx,5,9
+2026-01-01,Town 4,Component 2,gap_not_on_sud_tx,5,13
+2026-01-01,Town 5,Component 1,gap_not_on_sud_tx,7,20
+2026-01-01,Town 5,Component 2,gap_not_on_sud_tx,4,12
+2026-02-01,Town 1,Component 1,gap_not_on_sud_tx,12,19
+2026-02-01,Town 1,Component 2,gap_not_on_sud_tx,11,12
+2026-02-01,Town 2,Component 1,gap_not_on_sud_tx,13,26
+2026-02-01,Town 2,Component 2,gap_not_on_sud_tx,7,13
+2026-02-01,Town 3,Component 1,gap_not_on_sud_tx,3,17
+2026-02-01,Town 3,Component 2,gap_not_on_sud_tx,9,16
+2026-02-01,Town 4,Component 1,gap_not_on_sud_tx,9,15
+2026-02-01,Town 4,Component 2,gap_not_on_sud_tx,7,11
+2026-02-01,Town 5,Component 1,gap_not_on_sud_tx,5,16
+2026-02-01,Town 5,Component 2,gap_not_on_sud_tx,7,19
+2026-03-01,Town 1,Component 1,gap_not_on_sud_tx,7,9
+2026-03-01,Town 1,Component 2,gap_not_on_sud_tx,7,17
+2026-03-01,Town 2,Component 1,gap_not_on_sud_tx,10,19
+2026-03-01,Town 2,Component 2,gap_not_on_sud_tx,10,14
+2026-03-01,Town 3,Component 1,gap_not_on_sud_tx,13,22
+2026-03-01,Town 3,Component 2,gap_not_on_sud_tx,10,18
+2026-03-01,Town 4,Component 1,gap_not_on_sud_tx,16,22
+2026-03-01,Town 4,Component 2,gap_not_on_sud_tx,3,12
+2026-03-01,Town 5,Component 1,gap_not_on_sud_tx,13,21
+2026-03-01,Town 5,Component 2,gap_not_on_sud_tx,6,14
+2026-04-01,Town 1,Component 1,gap_not_on_sud_tx,4,16
+2026-04-01,Town 1,Component 2,gap_not_on_sud_tx,6,11
+2026-04-01,Town 2,Component 1,gap_not_on_sud_tx,9,16
+2026-04-01,Town 2,Component 2,gap_not_on_sud_tx,8,17
+2026-04-01,Town 3,Component 1,gap_not_on_sud_tx,16,26
+2026-04-01,Town 3,Component 2,gap_not_on_sud_tx,6,13
+2026-04-01,Town 4,Component 1,gap_not_on_sud_tx,9,21
+2026-04-01,Town 4,Component 2,gap_not_on_sud_tx,7,13
+2026-04-01,Town 5,Component 1,gap_not_on_sud_tx,11,17
+2026-04-01,Town 5,Component 2,gap_not_on_sud_tx,12,18
+2026-05-01,Town 1,Component 1,gap_not_on_sud_tx,13,25
+2026-05-01,Town 1,Component 2,gap_not_on_sud_tx,7,15
+2026-05-01,Town 2,Component 1,gap_not_on_sud_tx,11,22
+2026-05-01,Town 2,Component 2,gap_not_on_sud_tx,12,21
+2026-05-01,Town 3,Component 1,gap_not_on_sud_tx,14,23
+2026-05-01,Town 3,Component 2,gap_not_on_sud_tx,12,22
+2026-05-01,Town 4,Component 1,gap_not_on_sud_tx,11,18
+2026-05-01,Town 4,Component 2,gap_not_on_sud_tx,6,15
+2026-05-01,Town 5,Component 1,gap_not_on_sud_tx,7,20
+2026-05-01,Town 5,Component 2,gap_not_on_sud_tx,4,14
+2026-06-01,Town 1,Component 1,gap_not_on_sud_tx,10,18
+2026-06-01,Town 1,Component 2,gap_not_on_sud_tx,10,15
+2026-06-01,Town 2,Component 1,gap_not_on_sud_tx,7,21
+2026-06-01,Town 2,Component 2,gap_not_on_sud_tx,6,12
+2026-06-01,Town 3,Component 1,gap_not_on_sud_tx,11,19
+2026-06-01,Town 3,Component 2,gap_not_on_sud_tx,6,13
+2026-06-01,Town 4,Component 1,gap_not_on_sud_tx,9,15
+2026-06-01,Town 4,Component 2,gap_not_on_sud_tx,8,11
+2026-06-01,Town 5,Component 1,gap_not_on_sud_tx,14,22
+2026-06-01,Town 5,Component 2,gap_not_on_sud_tx,10,16
+2026-07-01,Town 1,Component 1,gap_not_on_sud_tx,16,18
+2026-07-01,Town 1,Component 2,gap_not_on_sud_tx,15,22
+2026-07-01,Town 2,Component 1,gap_not_on_sud_tx,17,23
+2026-07-01,Town 2,Component 2,gap_not_on_sud_tx,11,18
+2026-07-01,Town 3,Component 1,gap_not_on_sud_tx,10,18
+2026-07-01,Town 3,Component 2,gap_not_on_sud_tx,14,24
+2026-07-01,Town 4,Component 1,gap_not_on_sud_tx,13,20
+2026-07-01,Town 4,Component 2,gap_not_on_sud_tx,8,12
+2026-07-01,Town 5,Component 1,gap_not_on_sud_tx,6,17
+2026-07-01,Town 5,Component 2,gap_not_on_sud_tx,11,17
+2026-08-01,Town 1,Component 1,gap_not_on_sud_tx,9,18
+2026-08-01,Town 1,Component 2,gap_not_on_sud_tx,8,17
+2026-08-01,Town 2,Component 1,gap_not_on_sud_tx,14,23
+2026-08-01,Town 2,Component 2,gap_not_on_sud_tx,7,9
+2026-08-01,Town 3,Component 1,gap_not_on_sud_tx,11,24
+2026-08-01,Town 3,Component 2,gap_not_on_sud_tx,13,18
+2026-08-01,Town 4,Component 1,gap_not_on_sud_tx,7,11
+2026-08-01,Town 4,Component 2,gap_not_on_sud_tx,10,18
+2026-08-01,Town 5,Component 1,gap_not_on_sud_tx,12,22
+2026-08-01,Town 5,Component 2,gap_not_on_sud_tx,6,15
+2026-09-01,Town 1,Component 1,gap_not_on_sud_tx,9,19
+2026-09-01,Town 1,Component 2,gap_not_on_sud_tx,16,22
+2026-09-01,Town 2,Component 1,gap_not_on_sud_tx,11,20
+2026-09-01,Town 2,Component 2,gap_not_on_sud_tx,5,15
+2026-09-01,Town 3,Component 1,gap_not_on_sud_tx,8,14
+2026-09-01,Town 3,Component 2,gap_not_on_sud_tx,8,15
+2026-09-01,Town 4,Component 1,gap_not_on_sud_tx,10,18
+2026-09-01,Town 4,Component 2,gap_not_on_sud_tx,9,20
+2026-09-01,Town 5,Component 1,gap_not_on_sud_tx,13,22
+2026-09-01,Town 5,Component 2,gap_not_on_sud_tx,17,30
+2025-04-01,Town 1,Component 1,link_hiv,5,8
+2025-04-01,Town 1,Component 2,link_hiv,0,1
+2025-04-01,Town 2,Component 1,link_hiv,4,4
+2025-04-01,Town 2,Component 2,link_hiv,3,4
+2025-04-01,Town 3,Component 1,link_hiv,3,4
+2025-04-01,Town 3,Component 2,link_hiv,2,4
+2025-04-01,Town 4,Component 1,link_hiv,3,4
+2025-04-01,Town 4,Component 2,link_hiv,0,1
+2025-04-01,Town 5,Component 1,link_hiv,2,3
+2025-04-01,Town 5,Component 2,link_hiv,2,6
+2025-05-01,Town 1,Component 1,link_hiv,1,2
+2025-05-01,Town 1,Component 2,link_hiv,3,7
+2025-05-01,Town 2,Component 1,link_hiv,3,4
+2025-05-01,Town 2,Component 2,link_hiv,1,3
+2025-05-01,Town 3,Component 1,link_hiv,4,8
+2025-05-01,Town 3,Component 2,link_hiv,4,7
+2025-05-01,Town 4,Component 1,link_hiv,2,3
+2025-05-01,Town 4,Component 2,link_hiv,0,2
+2025-05-01,Town 5,Component 1,link_hiv,1,1
+2025-05-01,Town 5,Component 2,link_hiv,1,1
+2025-06-01,Town 1,Component 1,link_hiv,3,4
+2025-06-01,Town 1,Component 2,link_hiv,2,3
+2025-06-01,Town 2,Component 1,link_hiv,8,11
+2025-06-01,Town 2,Component 2,link_hiv,2,5
+2025-06-01,Town 3,Component 1,link_hiv,3,5
+2025-06-01,Town 3,Component 2,link_hiv,1,2
+2025-06-01,Town 4,Component 1,link_hiv,1,5
+2025-06-01,Town 4,Component 2,link_hiv,2,5
+2025-06-01,Town 5,Component 1,link_hiv,4,7
+2025-06-01,Town 5,Component 2,link_hiv,1,2
+2025-07-01,Town 1,Component 1,link_hiv,4,6
+2025-07-01,Town 1,Component 2,link_hiv,2,3
+2025-07-01,Town 2,Component 1,link_hiv,6,7
+2025-07-01,Town 2,Component 2,link_hiv,3,6
+2025-07-01,Town 3,Component 1,link_hiv,4,7
+2025-07-01,Town 3,Component 2,link_hiv,4,7
+2025-07-01,Town 4,Component 1,link_hiv,4,6
+2025-07-01,Town 4,Component 2,link_hiv,2,6
+2025-07-01,Town 5,Component 1,link_hiv,1,3
+2025-07-01,Town 5,Component 2,link_hiv,3,4
+2025-08-01,Town 1,Component 1,link_hiv,4,4
+2025-08-01,Town 1,Component 2,link_hiv,2,3
+2025-08-01,Town 2,Component 1,link_hiv,5,6
+2025-08-01,Town 2,Component 2,link_hiv,3,6
+2025-08-01,Town 3,Component 1,link_hiv,3,4
+2025-08-01,Town 3,Component 2,link_hiv,2,2
+2025-08-01,Town 4,Component 1,link_hiv,2,3
+2025-08-01,Town 4,Component 2,link_hiv,0,1
+2025-08-01,Town 5,Component 1,link_hiv,4,5
+2025-08-01,Town 5,Component 2,link_hiv,2,3
+2025-09-01,Town 1,Component 1,link_hiv,2,4
+2025-09-01,Town 1,Component 2,link_hiv,2,3
+2025-09-01,Town 2,Component 1,link_hiv,1,6
+2025-09-01,Town 2,Component 2,link_hiv,2,4
+2025-09-01,Town 3,Component 1,link_hiv,5,8
+2025-09-01,Town 3,Component 2,link_hiv,5,6
+2025-09-01,Town 4,Component 1,link_hiv,4,6
+2025-09-01,Town 4,Component 2,link_hiv,4,6
+2025-09-01,Town 5,Component 1,link_hiv,2,2
+2025-09-01,Town 5,Component 2,link_hiv,5,7
+2025-10-01,Town 1,Component 1,link_hiv,3,7
+2025-10-01,Town 1,Component 2,link_hiv,1,3
+2025-10-01,Town 2,Component 1,link_hiv,7,9
+2025-10-01,Town 2,Component 2,link_hiv,6,10
+2025-10-01,Town 3,Component 1,link_hiv,5,8
+2025-10-01,Town 3,Component 2,link_hiv,9,10
+2025-10-01,Town 4,Component 1,link_hiv,2,3
+2025-10-01,Town 4,Component 2,link_hiv,4,6
+2025-10-01,Town 5,Component 1,link_hiv,2,4
+2025-10-01,Town 5,Component 2,link_hiv,3,4
+2025-11-01,Town 1,Component 1,link_hiv,4,8
+2025-11-01,Town 1,Component 2,link_hiv,3,4
+2025-11-01,Town 2,Component 1,link_hiv,2,4
+2025-11-01,Town 2,Component 2,link_hiv,3,3
+2025-11-01,Town 3,Component 1,link_hiv,4,4
+2025-11-01,Town 3,Component 2,link_hiv,3,5
+2025-11-01,Town 4,Component 1,link_hiv,4,6
+2025-11-01,Town 4,Component 2,link_hiv,1,6
+2025-11-01,Town 5,Component 1,link_hiv,6,10
+2025-11-01,Town 5,Component 2,link_hiv,1,5
+2025-12-01,Town 1,Component 1,link_hiv,4,9
+2025-12-01,Town 1,Component 2,link_hiv,0,1
+2025-12-01,Town 2,Component 1,link_hiv,5,8
+2025-12-01,Town 2,Component 2,link_hiv,3,4
+2025-12-01,Town 3,Component 1,link_hiv,5,8
+2025-12-01,Town 3,Component 2,link_hiv,3,4
+2025-12-01,Town 4,Component 1,link_hiv,5,8
+2025-12-01,Town 4,Component 2,link_hiv,4,4
+2025-12-01,Town 5,Component 1,link_hiv,8,11
+2025-12-01,Town 5,Component 2,link_hiv,5,6
+2026-01-01,Town 1,Component 1,link_hiv,9,11
+2026-01-01,Town 1,Component 2,link_hiv,4,4
+2026-01-01,Town 2,Component 1,link_hiv,3,6
+2026-01-01,Town 2,Component 2,link_hiv,3,8
+2026-01-01,Town 3,Component 1,link_hiv,3,3
+2026-01-01,Town 3,Component 2,link_hiv,5,6
+2026-01-01,Town 4,Component 1,link_hiv,2,4
+2026-01-01,Town 4,Component 2,link_hiv,2,2
+2026-01-01,Town 5,Component 1,link_hiv,6,7
+2026-01-01,Town 5,Component 2,link_hiv,1,8
+2026-02-01,Town 1,Component 1,link_hiv,6,8
+2026-02-01,Town 1,Component 2,link_hiv,1,3
+2026-02-01,Town 2,Component 1,link_hiv,5,9
+2026-02-01,Town 2,Component 2,link_hiv,4,4
+2026-02-01,Town 3,Component 1,link_hiv,5,6
+2026-02-01,Town 3,Component 2,link_hiv,2,4
+2026-02-01,Town 4,Component 1,link_hiv,5,8
+2026-02-01,Town 4,Component 2,link_hiv,5,8
+2026-02-01,Town 5,Component 1,link_hiv,5,8
+2026-02-01,Town 5,Component 2,link_hiv,5,9
+2026-03-01,Town 1,Component 1,link_hiv,1,5
+2026-03-01,Town 1,Component 2,link_hiv,6,7
+2026-03-01,Town 2,Component 1,link_hiv,6,8
+2026-03-01,Town 2,Component 2,link_hiv,5,5
+2026-03-01,Town 3,Component 1,link_hiv,6,11
+2026-03-01,Town 3,Component 2,link_hiv,4,4
+2026-03-01,Town 4,Component 1,link_hiv,2,5
+2026-03-01,Town 4,Component 2,link_hiv,3,4
+2026-03-01,Town 5,Component 1,link_hiv,0,5
+2026-03-01,Town 5,Component 2,link_hiv,2,9
+2026-04-01,Town 1,Component 1,link_hiv,3,9
+2026-04-01,Town 1,Component 2,link_hiv,3,4
+2026-04-01,Town 2,Component 1,link_hiv,2,5
+2026-04-01,Town 2,Component 2,link_hiv,5,9
+2026-04-01,Town 3,Component 1,link_hiv,4,11
+2026-04-01,Town 3,Component 2,link_hiv,7,7
+2026-04-01,Town 4,Component 1,link_hiv,8,13
+2026-04-01,Town 4,Component 2,link_hiv,2,3
+2026-04-01,Town 5,Component 1,link_hiv,2,6
+2026-04-01,Town 5,Component 2,link_hiv,5,9
+2026-05-01,Town 1,Component 1,link_hiv,5,7
+2026-05-01,Town 1,Component 2,link_hiv,3,8
+2026-05-01,Town 2,Component 1,link_hiv,1,2
+2026-05-01,Town 2,Component 2,link_hiv,7,10
+2026-05-01,Town 3,Component 1,link_hiv,5,9
+2026-05-01,Town 3,Component 2,link_hiv,2,7
+2026-05-01,Town 4,Component 1,link_hiv,5,7
+2026-05-01,Town 4,Component 2,link_hiv,3,3
+2026-05-01,Town 5,Component 1,link_hiv,5,10
+2026-05-01,Town 5,Component 2,link_hiv,1,4
+2026-06-01,Town 1,Component 1,link_hiv,3,6
+2026-06-01,Town 1,Component 2,link_hiv,4,5
+2026-06-01,Town 2,Component 1,link_hiv,4,8
+2026-06-01,Town 2,Component 2,link_hiv,3,5
+2026-06-01,Town 3,Component 1,link_hiv,6,7
+2026-06-01,Town 3,Component 2,link_hiv,3,6
+2026-06-01,Town 4,Component 1,link_hiv,6,7
+2026-06-01,Town 4,Component 2,link_hiv,4,6
+2026-06-01,Town 5,Component 1,link_hiv,6,10
+2026-06-01,Town 5,Component 2,link_hiv,2,5
+2026-07-01,Town 1,Component 1,link_hiv,5,6
+2026-07-01,Town 1,Component 2,link_hiv,6,10
+2026-07-01,Town 2,Component 1,link_hiv,6,10
+2026-07-01,Town 2,Component 2,link_hiv,6,10
+2026-07-01,Town 3,Component 1,link_hiv,5,8
+2026-07-01,Town 3,Component 2,link_hiv,6,7
+2026-07-01,Town 4,Component 1,link_hiv,6,8
+2026-07-01,Town 4,Component 2,link_hiv,3,4
+2026-07-01,Town 5,Component 1,link_hiv,8,10
+2026-07-01,Town 5,Component 2,link_hiv,6,8
+2026-08-01,Town 1,Component 1,link_hiv,3,4
+2026-08-01,Town 1,Component 2,link_hiv,2,6
+2026-08-01,Town 2,Component 1,link_hiv,7,11
+2026-08-01,Town 2,Component 2,link_hiv,3,5
+2026-08-01,Town 3,Component 1,link_hiv,11,13
+2026-08-01,Town 3,Component 2,link_hiv,4,6
+2026-08-01,Town 4,Component 1,link_hiv,1,2
+2026-08-01,Town 4,Component 2,link_hiv,2,5
+2026-08-01,Town 5,Component 1,link_hiv,6,9
+2026-08-01,Town 5,Component 2,link_hiv,4,6
+2026-09-01,Town 1,Component 1,link_hiv,4,6
+2026-09-01,Town 1,Component 2,link_hiv,8,12
+2026-09-01,Town 2,Component 1,link_hiv,3,7
+2026-09-01,Town 2,Component 2,link_hiv,4,8
+2026-09-01,Town 3,Component 1,link_hiv,2,6
+2026-09-01,Town 3,Component 2,link_hiv,6,8
+2026-09-01,Town 4,Component 1,link_hiv,6,7
+2026-09-01,Town 4,Component 2,link_hiv,2,7
+2026-09-01,Town 5,Component 1,link_hiv,4,13
+2026-09-01,Town 5,Component 2,link_hiv,4,9
+2025-04-01,Town 1,Component 1,link_hcv,0,3
+2025-04-01,Town 1,Component 2,link_hcv,1,3
+2025-04-01,Town 2,Component 1,link_hcv,3,3
+2025-04-01,Town 2,Component 2,link_hcv,0,1
+2025-04-01,Town 3,Component 1,link_hcv,3,5
+2025-04-01,Town 3,Component 2,link_hcv,0,4
+2025-04-01,Town 4,Component 1,link_hcv,3,3
+2025-04-01,Town 4,Component 2,link_hcv,1,3
+2025-04-01,Town 5,Component 1,link_hcv,2,5
+2025-04-01,Town 5,Component 2,link_hcv,0,3
+2025-05-01,Town 1,Component 1,link_hcv,1,1
+2025-05-01,Town 1,Component 2,link_hcv,0,4
+2025-05-01,Town 2,Component 1,link_hcv,2,3
+2025-05-01,Town 2,Component 2,link_hcv,1,2
+2025-05-01,Town 3,Component 1,link_hcv,5,10
+2025-05-01,Town 3,Component 2,link_hcv,0,4
+2025-05-01,Town 4,Component 1,link_hcv,2,2
+2025-05-01,Town 4,Component 2,link_hcv,2,2
+2025-05-01,Town 5,Component 1,link_hcv,4,6
+2025-05-01,Town 5,Component 2,link_hcv,1,3
+2025-06-01,Town 1,Component 1,link_hcv,0,1
+2025-06-01,Town 1,Component 2,link_hcv,0,1
+2025-06-01,Town 2,Component 1,link_hcv,2,5
+2025-06-01,Town 2,Component 2,link_hcv,1,3
+2025-06-01,Town 3,Component 1,link_hcv,2,4
+2025-06-01,Town 3,Component 2,link_hcv,0,1
+2025-06-01,Town 4,Component 1,link_hcv,1,2
+2025-06-01,Town 4,Component 2,link_hcv,4,8
+2025-06-01,Town 5,Component 1,link_hcv,0,4
+2025-06-01,Town 5,Component 2,link_hcv,0,1
+2025-07-01,Town 1,Component 1,link_hcv,0,2
+2025-07-01,Town 1,Component 2,link_hcv,1,7
+2025-07-01,Town 2,Component 1,link_hcv,4,5
+2025-07-01,Town 2,Component 2,link_hcv,2,7
+2025-07-01,Town 3,Component 1,link_hcv,5,5
+2025-07-01,Town 3,Component 2,link_hcv,1,5
+2025-07-01,Town 4,Component 1,link_hcv,0,3
+2025-07-01,Town 4,Component 2,link_hcv,2,6
+2025-07-01,Town 5,Component 1,link_hcv,1,3
+2025-07-01,Town 5,Component 2,link_hcv,0,1
+2025-08-01,Town 1,Component 1,link_hcv,0,5
+2025-08-01,Town 1,Component 2,link_hcv,1,2
+2025-08-01,Town 2,Component 1,link_hcv,2,4
+2025-08-01,Town 2,Component 2,link_hcv,1,2
+2025-08-01,Town 3,Component 1,link_hcv,1,4
+2025-08-01,Town 3,Component 2,link_hcv,1,1
+2025-08-01,Town 4,Component 1,link_hcv,0,3
+2025-08-01,Town 4,Component 2,link_hcv,1,2
+2025-08-01,Town 5,Component 1,link_hcv,1,4
+2025-08-01,Town 5,Component 2,link_hcv,2,3
+2025-09-01,Town 1,Component 1,link_hcv,0,2
+2025-09-01,Town 1,Component 2,link_hcv,0,1
+2025-09-01,Town 2,Component 1,link_hcv,3,5
+2025-09-01,Town 2,Component 2,link_hcv,6,8
+2025-09-01,Town 3,Component 1,link_hcv,3,6
+2025-09-01,Town 3,Component 2,link_hcv,2,6
+2025-09-01,Town 4,Component 1,link_hcv,0,1
+2025-09-01,Town 4,Component 2,link_hcv,2,5
+2025-09-01,Town 5,Component 1,link_hcv,2,2
+2025-09-01,Town 5,Component 2,link_hcv,2,4
+2025-10-01,Town 1,Component 1,link_hcv,4,8
+2025-10-01,Town 1,Component 2,link_hcv,0,3
+2025-10-01,Town 2,Component 1,link_hcv,0,7
+2025-10-01,Town 2,Component 2,link_hcv,2,6
+2025-10-01,Town 3,Component 1,link_hcv,2,4
+2025-10-01,Town 3,Component 2,link_hcv,6,9
+2025-10-01,Town 4,Component 1,link_hcv,3,5
+2025-10-01,Town 4,Component 2,link_hcv,1,5
+2025-10-01,Town 5,Component 1,link_hcv,2,3
+2025-10-01,Town 5,Component 2,link_hcv,3,3
+2025-11-01,Town 1,Component 1,link_hcv,1,3
+2025-11-01,Town 1,Component 2,link_hcv,2,4
+2025-11-01,Town 2,Component 1,link_hcv,3,6
+2025-11-01,Town 2,Component 2,link_hcv,2,4
+2025-11-01,Town 3,Component 1,link_hcv,1,2
+2025-11-01,Town 3,Component 2,link_hcv,3,4
+2025-11-01,Town 4,Component 1,link_hcv,1,6
+2025-11-01,Town 4,Component 2,link_hcv,0,0
+2025-11-01,Town 5,Component 1,link_hcv,1,7
+2025-11-01,Town 5,Component 2,link_hcv,4,5
+2025-12-01,Town 1,Component 1,link_hcv,3,7
+2025-12-01,Town 1,Component 2,link_hcv,0,0
+2025-12-01,Town 2,Component 1,link_hcv,0,4
+2025-12-01,Town 2,Component 2,link_hcv,2,2
+2025-12-01,Town 3,Component 1,link_hcv,3,8
+2025-12-01,Town 3,Component 2,link_hcv,0,0
+2025-12-01,Town 4,Component 1,link_hcv,5,10
+2025-12-01,Town 4,Component 2,link_hcv,4,5
+2025-12-01,Town 5,Component 1,link_hcv,3,5
+2025-12-01,Town 5,Component 2,link_hcv,0,1
+2026-01-01,Town 1,Component 1,link_hcv,2,4
+2026-01-01,Town 1,Component 2,link_hcv,2,4
+2026-01-01,Town 2,Component 1,link_hcv,2,5
+2026-01-01,Town 2,Component 2,link_hcv,4,11
+2026-01-01,Town 3,Component 1,link_hcv,1,3
+2026-01-01,Town 3,Component 2,link_hcv,2,5
+2026-01-01,Town 4,Component 1,link_hcv,2,3
+2026-01-01,Town 4,Component 2,link_hcv,0,3
+2026-01-01,Town 5,Component 1,link_hcv,3,9
+2026-01-01,Town 5,Component 2,link_hcv,0,2
+2026-02-01,Town 1,Component 1,link_hcv,3,6
+2026-02-01,Town 1,Component 2,link_hcv,2,3
+2026-02-01,Town 2,Component 1,link_hcv,3,6
+2026-02-01,Town 2,Component 2,link_hcv,1,4
+2026-02-01,Town 3,Component 1,link_hcv,0,4
+2026-02-01,Town 3,Component 2,link_hcv,3,4
+2026-02-01,Town 4,Component 1,link_hcv,2,7
+2026-02-01,Town 4,Component 2,link_hcv,1,3
+2026-02-01,Town 5,Component 1,link_hcv,0,2
+2026-02-01,Town 5,Component 2,link_hcv,1,3
+2026-03-01,Town 1,Component 1,link_hcv,2,3
+2026-03-01,Town 1,Component 2,link_hcv,3,8
+2026-03-01,Town 2,Component 1,link_hcv,0,4
+2026-03-01,Town 2,Component 2,link_hcv,3,5
+2026-03-01,Town 3,Component 1,link_hcv,4,8
+2026-03-01,Town 3,Component 2,link_hcv,5,8
+2026-03-01,Town 4,Component 1,link_hcv,1,7
+2026-03-01,Town 4,Component 2,link_hcv,2,2
+2026-03-01,Town 5,Component 1,link_hcv,1,6
+2026-03-01,Town 5,Component 2,link_hcv,4,6
+2026-04-01,Town 1,Component 1,link_hcv,2,2
+2026-04-01,Town 1,Component 2,link_hcv,3,3
+2026-04-01,Town 2,Component 1,link_hcv,3,5
+2026-04-01,Town 2,Component 2,link_hcv,3,8
+2026-04-01,Town 3,Component 1,link_hcv,3,5
+2026-04-01,Town 3,Component 2,link_hcv,2,4
+2026-04-01,Town 4,Component 1,link_hcv,1,5
+2026-04-01,Town 4,Component 2,link_hcv,1,1
+2026-04-01,Town 5,Component 1,link_hcv,6,8
+2026-04-01,Town 5,Component 2,link_hcv,3,9
+2026-05-01,Town 1,Component 1,link_hcv,3,12
+2026-05-01,Town 1,Component 2,link_hcv,4,6
+2026-05-01,Town 2,Component 1,link_hcv,4,9
+2026-05-01,Town 2,Component 2,link_hcv,6,13
+2026-05-01,Town 3,Component 1,link_hcv,5,7
+2026-05-01,Town 3,Component 2,link_hcv,7,9
+2026-05-01,Town 4,Component 1,link_hcv,1,4
+2026-05-01,Town 4,Component 2,link_hcv,3,4
+2026-05-01,Town 5,Component 1,link_hcv,5,7
+2026-05-01,Town 5,Component 2,link_hcv,3,7
+2026-06-01,Town 1,Component 1,link_hcv,2,7
+2026-06-01,Town 1,Component 2,link_hcv,2,4
+2026-06-01,Town 2,Component 1,link_hcv,4,8
+2026-06-01,Town 2,Component 2,link_hcv,0,4
+2026-06-01,Town 3,Component 1,link_hcv,2,3
+2026-06-01,Town 3,Component 2,link_hcv,3,6
+2026-06-01,Town 4,Component 1,link_hcv,2,2
+2026-06-01,Town 4,Component 2,link_hcv,2,4
+2026-06-01,Town 5,Component 1,link_hcv,2,5
+2026-06-01,Town 5,Component 2,link_hcv,2,2
+2026-07-01,Town 1,Component 1,link_hcv,3,6
+2026-07-01,Town 1,Component 2,link_hcv,3,7
+2026-07-01,Town 2,Component 1,link_hcv,2,4
+2026-07-01,Town 2,Component 2,link_hcv,3,5
+2026-07-01,Town 3,Component 1,link_hcv,3,7
+2026-07-01,Town 3,Component 2,link_hcv,4,9
+2026-07-01,Town 4,Component 1,link_hcv,2,3
+2026-07-01,Town 4,Component 2,link_hcv,1,4
+2026-07-01,Town 5,Component 1,link_hcv,3,6
+2026-07-01,Town 5,Component 2,link_hcv,2,5
+2026-08-01,Town 1,Component 1,link_hcv,3,5
+2026-08-01,Town 1,Component 2,link_hcv,3,5
+2026-08-01,Town 2,Component 1,link_hcv,4,7
+2026-08-01,Town 2,Component 2,link_hcv,3,5
+2026-08-01,Town 3,Component 1,link_hcv,5,12
+2026-08-01,Town 3,Component 2,link_hcv,5,9
+2026-08-01,Town 4,Component 1,link_hcv,1,3
+2026-08-01,Town 4,Component 2,link_hcv,3,6
+2026-08-01,Town 5,Component 1,link_hcv,4,7
+2026-08-01,Town 5,Component 2,link_hcv,2,5
+2026-09-01,Town 1,Component 1,link_hcv,1,5
+2026-09-01,Town 1,Component 2,link_hcv,3,4
+2026-09-01,Town 2,Component 1,link_hcv,3,8
+2026-09-01,Town 2,Component 2,link_hcv,1,6
+2026-09-01,Town 3,Component 1,link_hcv,5,7
+2026-09-01,Town 3,Component 2,link_hcv,3,5
+2026-09-01,Town 4,Component 1,link_hcv,1,3
+2026-09-01,Town 4,Component 2,link_hcv,3,7
+2026-09-01,Town 5,Component 1,link_hcv,3,7
+2026-09-01,Town 5,Component 2,link_hcv,0,4
+2025-04-01,Town 1,Component 1,link_sud,2,7
+2025-04-01,Town 1,Component 2,link_sud,1,2
+2025-04-01,Town 2,Component 1,link_sud,3,3
+2025-04-01,Town 2,Component 2,link_sud,5,6
+2025-04-01,Town 3,Component 1,link_sud,4,6
+2025-04-01,Town 3,Component 2,link_sud,1,1
+2025-04-01,Town 4,Component 1,link_sud,3,8
+2025-04-01,Town 4,Component 2,link_sud,2,7
+2025-04-01,Town 5,Component 1,link_sud,4,5
+2025-04-01,Town 5,Component 2,link_sud,4,7
+2025-05-01,Town 1,Component 1,link_sud,0,1
+2025-05-01,Town 1,Component 2,link_sud,5,8
+2025-05-01,Town 2,Component 1,link_sud,3,5
+2025-05-01,Town 2,Component 2,link_sud,1,3
+2025-05-01,Town 3,Component 1,link_sud,2,7
+2025-05-01,Town 3,Component 2,link_sud,3,3
+2025-05-01,Town 4,Component 1,link_sud,1,4
+2025-05-01,Town 4,Component 2,link_sud,1,1
+2025-05-01,Town 5,Component 1,link_sud,4,7
+2025-05-01,Town 5,Component 2,link_sud,2,5
+2025-06-01,Town 1,Component 1,link_sud,2,5
+2025-06-01,Town 1,Component 2,link_sud,3,4
+2025-06-01,Town 2,Component 1,link_sud,4,9
+2025-06-01,Town 2,Component 2,link_sud,6,9
+2025-06-01,Town 3,Component 1,link_sud,4,4
+2025-06-01,Town 3,Component 2,link_sud,2,3
+2025-06-01,Town 4,Component 1,link_sud,5,6
+2025-06-01,Town 4,Component 2,link_sud,2,6
+2025-06-01,Town 5,Component 1,link_sud,3,6
+2025-06-01,Town 5,Component 2,link_sud,2,4
+2025-07-01,Town 1,Component 1,link_sud,3,6
+2025-07-01,Town 1,Component 2,link_sud,6,8
+2025-07-01,Town 2,Component 1,link_sud,5,14
+2025-07-01,Town 2,Component 2,link_sud,4,6
+2025-07-01,Town 3,Component 1,link_sud,5,7
+2025-07-01,Town 3,Component 2,link_sud,6,6
+2025-07-01,Town 4,Component 1,link_sud,1,5
+2025-07-01,Town 4,Component 2,link_sud,3,6
+2025-07-01,Town 5,Component 1,link_sud,2,3
+2025-07-01,Town 5,Component 2,link_sud,1,2
+2025-08-01,Town 1,Component 1,link_sud,3,5
+2025-08-01,Town 1,Component 2,link_sud,1,2
+2025-08-01,Town 2,Component 1,link_sud,2,5
+2025-08-01,Town 2,Component 2,link_sud,3,3
+2025-08-01,Town 3,Component 1,link_sud,4,7
+2025-08-01,Town 3,Component 2,link_sud,2,2
+2025-08-01,Town 4,Component 1,link_sud,1,4
+2025-08-01,Town 4,Component 2,link_sud,3,4
+2025-08-01,Town 5,Component 1,link_sud,2,2
+2025-08-01,Town 5,Component 2,link_sud,5,5
+2025-09-01,Town 1,Component 1,link_sud,7,7
+2025-09-01,Town 1,Component 2,link_sud,1,3
+2025-09-01,Town 2,Component 1,link_sud,6,6
+2025-09-01,Town 2,Component 2,link_sud,8,12
+2025-09-01,Town 3,Component 1,link_sud,3,3
+2025-09-01,Town 3,Component 2,link_sud,7,7
+2025-09-01,Town 4,Component 1,link_sud,5,6
+2025-09-01,Town 4,Component 2,link_sud,2,6
+2025-09-01,Town 5,Component 1,link_sud,1,4
+2025-09-01,Town 5,Component 2,link_sud,2,4
+2025-10-01,Town 1,Component 1,link_sud,4,9
+2025-10-01,Town 1,Component 2,link_sud,4,4
+2025-10-01,Town 2,Component 1,link_sud,3,8
+2025-10-01,Town 2,Component 2,link_sud,6,10
+2025-10-01,Town 3,Component 1,link_sud,6,10
+2025-10-01,Town 3,Component 2,link_sud,5,7
+2025-10-01,Town 4,Component 1,link_sud,2,2
+2025-10-01,Town 4,Component 2,link_sud,3,8
+2025-10-01,Town 5,Component 1,link_sud,4,7
+2025-10-01,Town 5,Component 2,link_sud,0,3
+2025-11-01,Town 1,Component 1,link_sud,1,4
+2025-11-01,Town 1,Component 2,link_sud,1,2
+2025-11-01,Town 2,Component 1,link_sud,6,8
+2025-11-01,Town 2,Component 2,link_sud,3,7
+2025-11-01,Town 3,Component 1,link_sud,3,6
+2025-11-01,Town 3,Component 2,link_sud,2,8
+2025-11-01,Town 4,Component 1,link_sud,6,10
+2025-11-01,Town 4,Component 2,link_sud,4,6
+2025-11-01,Town 5,Component 1,link_sud,6,10
+2025-11-01,Town 5,Component 2,link_sud,4,9
+2025-12-01,Town 1,Component 1,link_sud,6,10
+2025-12-01,Town 1,Component 2,link_sud,1,2
+2025-12-01,Town 2,Component 1,link_sud,4,7
+2025-12-01,Town 2,Component 2,link_sud,2,2
+2025-12-01,Town 3,Component 1,link_sud,5,9
+2025-12-01,Town 3,Component 2,link_sud,1,3
+2025-12-01,Town 4,Component 1,link_sud,5,10
+2025-12-01,Town 4,Component 2,link_sud,3,5
+2025-12-01,Town 5,Component 1,link_sud,3,3
+2025-12-01,Town 5,Component 2,link_sud,3,7
+2026-01-01,Town 1,Component 1,link_sud,3,7
+2026-01-01,Town 1,Component 2,link_sud,3,4
+2026-01-01,Town 2,Component 1,link_sud,6,14
+2026-01-01,Town 2,Component 2,link_sud,8,12
+2026-01-01,Town 3,Component 1,link_sud,2,5
+2026-01-01,Town 3,Component 2,link_sud,4,9
+2026-01-01,Town 4,Component 1,link_sud,4,5
+2026-01-01,Town 4,Component 2,link_sud,2,5
+2026-01-01,Town 5,Component 1,link_sud,6,11
+2026-01-01,Town 5,Component 2,link_sud,3,3
+2026-02-01,Town 1,Component 1,link_sud,8,9
+2026-02-01,Town 1,Component 2,link_sud,4,5
+2026-02-01,Town 2,Component 1,link_sud,8,17
+2026-02-01,Town 2,Component 2,link_sud,3,5
+2026-02-01,Town 3,Component 1,link_sud,2,6
+2026-02-01,Town 3,Component 2,link_sud,2,4
+2026-02-01,Town 4,Component 1,link_sud,4,8
+2026-02-01,Town 4,Component 2,link_sud,3,4
+2026-02-01,Town 5,Component 1,link_sud,2,5
+2026-02-01,Town 5,Component 2,link_sud,4,11
+2026-03-01,Town 1,Component 1,link_sud,3,4
+2026-03-01,Town 1,Component 2,link_sud,5,6
+2026-03-01,Town 2,Component 1,link_sud,5,7
+2026-03-01,Town 2,Component 2,link_sud,4,5
+2026-03-01,Town 3,Component 1,link_sud,5,12
+2026-03-01,Town 3,Component 2,link_sud,7,12
+2026-03-01,Town 4,Component 1,link_sud,7,10
+2026-03-01,Town 4,Component 2,link_sud,3,6
+2026-03-01,Town 5,Component 1,link_sud,4,10
+2026-03-01,Town 5,Component 2,link_sud,3,3
+2026-04-01,Town 1,Component 1,link_sud,3,5
+2026-04-01,Town 1,Component 2,link_sud,1,3
+2026-04-01,Town 2,Component 1,link_sud,5,8
+2026-04-01,Town 2,Component 2,link_sud,7,12
+2026-04-01,Town 3,Component 1,link_sud,9,12
+2026-04-01,Town 3,Component 2,link_sud,6,8
+2026-04-01,Town 4,Component 1,link_sud,10,13
+2026-04-01,Town 4,Component 2,link_sud,5,6
+2026-04-01,Town 5,Component 1,link_sud,4,7
+2026-04-01,Town 5,Component 2,link_sud,3,4
+2026-05-01,Town 1,Component 1,link_sud,7,10
+2026-05-01,Town 1,Component 2,link_sud,1,3
+2026-05-01,Town 2,Component 1,link_sud,7,10
+2026-05-01,Town 2,Component 2,link_sud,5,6
+2026-05-01,Town 3,Component 1,link_sud,4,12
+2026-05-01,Town 3,Component 2,link_sud,4,7
+2026-05-01,Town 4,Component 1,link_sud,7,10
+2026-05-01,Town 4,Component 2,link_sud,5,6
+2026-05-01,Town 5,Component 1,link_sud,5,8
+2026-05-01,Town 5,Component 2,link_sud,5,9
+2026-06-01,Town 1,Component 1,link_sud,7,9
+2026-06-01,Town 1,Component 2,link_sud,3,6
+2026-06-01,Town 2,Component 1,link_sud,7,12
+2026-06-01,Town 2,Component 2,link_sud,1,4
+2026-06-01,Town 3,Component 1,link_sud,3,6
+2026-06-01,Town 3,Component 2,link_sud,2,4
+2026-06-01,Town 4,Component 1,link_sud,1,7
+2026-06-01,Town 4,Component 2,link_sud,1,3
+2026-06-01,Town 5,Component 1,link_sud,7,10
+2026-06-01,Town 5,Component 2,link_sud,5,6
+2026-07-01,Town 1,Component 1,link_sud,4,8
+2026-07-01,Town 1,Component 2,link_sud,3,7
+2026-07-01,Town 2,Component 1,link_sud,4,8
+2026-07-01,Town 2,Component 2,link_sud,7,12
+2026-07-01,Town 3,Component 1,link_sud,7,11
+2026-07-01,Town 3,Component 2,link_sud,3,10
+2026-07-01,Town 4,Component 1,link_sud,3,6
+2026-07-01,Town 4,Component 2,link_sud,6,7
+2026-07-01,Town 5,Component 1,link_sud,4,6
+2026-07-01,Town 5,Component 2,link_sud,2,6
+2026-08-01,Town 1,Component 1,link_sud,4,10
+2026-08-01,Town 1,Component 2,link_sud,5,8
+2026-08-01,Town 2,Component 1,link_sud,5,12
+2026-08-01,Town 2,Component 2,link_sud,2,3
+2026-08-01,Town 3,Component 1,link_sud,6,12
+2026-08-01,Town 3,Component 2,link_sud,3,6
+2026-08-01,Town 4,Component 1,link_sud,4,4
+2026-08-01,Town 4,Component 2,link_sud,4,7
+2026-08-01,Town 5,Component 1,link_sud,2,8
+2026-08-01,Town 5,Component 2,link_sud,4,6
+2026-09-01,Town 1,Component 1,link_sud,5,11
+2026-09-01,Town 1,Component 2,link_sud,5,10
+2026-09-01,Town 2,Component 1,link_sud,6,11
+2026-09-01,Town 2,Component 2,link_sud,3,7
+2026-09-01,Town 3,Component 1,link_sud,2,5
+2026-09-01,Town 3,Component 2,link_sud,5,8
+2026-09-01,Town 4,Component 1,link_sud,9,11
+2026-09-01,Town 4,Component 2,link_sud,4,7
+2026-09-01,Town 5,Component 1,link_sud,9,16
+2026-09-01,Town 5,Component 2,link_sud,5,16
+2025-04-01,Town 1,Component 1,retained_med,0,1
+2025-04-01,Town 1,Component 2,retained_med,0,0
+2025-04-01,Town 2,Component 1,retained_med,0,0
+2025-04-01,Town 2,Component 2,retained_med,2,2
+2025-04-01,Town 3,Component 1,retained_med,2,3
+2025-04-01,Town 3,Component 2,retained_med,2,3
+2025-04-01,Town 4,Component 1,retained_med,3,5
+2025-04-01,Town 4,Component 2,retained_med,2,3
+2025-04-01,Town 5,Component 1,retained_med,0,1
+2025-04-01,Town 5,Component 2,retained_med,3,4
+2025-05-01,Town 1,Component 1,retained_med,1,1
+2025-05-01,Town 1,Component 2,retained_med,2,4
+2025-05-01,Town 2,Component 1,retained_med,2,3
+2025-05-01,Town 2,Component 2,retained_med,2,3
+2025-05-01,Town 3,Component 1,retained_med,6,7
+2025-05-01,Town 3,Component 2,retained_med,2,3
+2025-05-01,Town 4,Component 1,retained_med,0,2
+2025-05-01,Town 4,Component 2,retained_med,0,0
+2025-05-01,Town 5,Component 1,retained_med,2,3
+2025-05-01,Town 5,Component 2,retained_med,1,3
+2025-06-01,Town 1,Component 1,retained_med,1,2
+2025-06-01,Town 1,Component 2,retained_med,2,3
+2025-06-01,Town 2,Component 1,retained_med,0,1
+2025-06-01,Town 2,Component 2,retained_med,4,5
+2025-06-01,Town 3,Component 1,retained_med,0,1
+2025-06-01,Town 3,Component 2,retained_med,0,0
+2025-06-01,Town 4,Component 1,retained_med,1,1
+2025-06-01,Town 4,Component 2,retained_med,1,2
+2025-06-01,Town 5,Component 1,retained_med,1,2
+2025-06-01,Town 5,Component 2,retained_med,1,3
+2025-07-01,Town 1,Component 1,retained_med,3,6
+2025-07-01,Town 1,Component 2,retained_med,2,5
+2025-07-01,Town 2,Component 1,retained_med,3,4
+2025-07-01,Town 2,Component 2,retained_med,2,3
+2025-07-01,Town 3,Component 1,retained_med,2,6
+2025-07-01,Town 3,Component 2,retained_med,0,1
+2025-07-01,Town 4,Component 1,retained_med,2,3
+2025-07-01,Town 4,Component 2,retained_med,1,2
+2025-07-01,Town 5,Component 1,retained_med,0,1
+2025-07-01,Town 5,Component 2,retained_med,0,3
+2025-08-01,Town 1,Component 1,retained_med,1,2
+2025-08-01,Town 1,Component 2,retained_med,0,0
+2025-08-01,Town 2,Component 1,retained_med,4,4
+2025-08-01,Town 2,Component 2,retained_med,1,2
+2025-08-01,Town 3,Component 1,retained_med,2,4
+2025-08-01,Town 3,Component 2,retained_med,2,2
+2025-08-01,Town 4,Component 1,retained_med,1,1
+2025-08-01,Town 4,Component 2,retained_med,2,2
+2025-08-01,Town 5,Component 1,retained_med,1,1
+2025-08-01,Town 5,Component 2,retained_med,0,2
+2025-09-01,Town 1,Component 1,retained_med,2,3
+2025-09-01,Town 1,Component 2,retained_med,2,3
+2025-09-01,Town 2,Component 1,retained_med,3,4
+2025-09-01,Town 2,Component 2,retained_med,2,4
+2025-09-01,Town 3,Component 1,retained_med,4,7
+2025-09-01,Town 3,Component 2,retained_med,1,4
+2025-09-01,Town 4,Component 1,retained_med,2,4
+2025-09-01,Town 4,Component 2,retained_med,1,2
+2025-09-01,Town 5,Component 1,retained_med,1,2
+2025-09-01,Town 5,Component 2,retained_med,2,3
+2025-10-01,Town 1,Component 1,retained_med,3,5
+2025-10-01,Town 1,Component 2,retained_med,1,1
+2025-10-01,Town 2,Component 1,retained_med,3,7
+2025-10-01,Town 2,Component 2,retained_med,4,6
+2025-10-01,Town 3,Component 1,retained_med,4,5
+2025-10-01,Town 3,Component 2,retained_med,2,4
+2025-10-01,Town 4,Component 1,retained_med,3,3
+2025-10-01,Town 4,Component 2,retained_med,2,8
+2025-10-01,Town 5,Component 1,retained_med,1,4
+2025-10-01,Town 5,Component 2,retained_med,2,5
+2025-11-01,Town 1,Component 1,retained_med,1,2
+2025-11-01,Town 1,Component 2,retained_med,1,1
+2025-11-01,Town 2,Component 1,retained_med,1,2
+2025-11-01,Town 2,Component 2,retained_med,1,2
+2025-11-01,Town 3,Component 1,retained_med,1,3
+2025-11-01,Town 3,Component 2,retained_med,0,1
+2025-11-01,Town 4,Component 1,retained_med,4,6
+2025-11-01,Town 4,Component 2,retained_med,1,1
+2025-11-01,Town 5,Component 1,retained_med,2,5
+2025-11-01,Town 5,Component 2,retained_med,1,1
+2025-12-01,Town 1,Component 1,retained_med,4,4
+2025-12-01,Town 1,Component 2,retained_med,1,2
+2025-12-01,Town 2,Component 1,retained_med,3,6
+2025-12-01,Town 2,Component 2,retained_med,1,1
+2025-12-01,Town 3,Component 1,retained_med,0,2
+2025-12-01,Town 3,Component 2,retained_med,2,2
+2025-12-01,Town 4,Component 1,retained_med,3,8
+2025-12-01,Town 4,Component 2,retained_med,2,5
+2025-12-01,Town 5,Component 1,retained_med,3,4
+2025-12-01,Town 5,Component 2,retained_med,2,4
+2026-01-01,Town 1,Component 1,retained_med,4,6
+2026-01-01,Town 1,Component 2,retained_med,0,1
+2026-01-01,Town 2,Component 1,retained_med,2,6
+2026-01-01,Town 2,Component 2,retained_med,3,4
+2026-01-01,Town 3,Component 1,retained_med,3,4
+2026-01-01,Town 3,Component 2,retained_med,0,1
+2026-01-01,Town 4,Component 1,retained_med,1,3
+2026-01-01,Town 4,Component 2,retained_med,0,1
+2026-01-01,Town 5,Component 1,retained_med,1,2
+2026-01-01,Town 5,Component 2,retained_med,4,5
+2026-02-01,Town 1,Component 1,retained_med,3,4
+2026-02-01,Town 1,Component 2,retained_med,1,4
+2026-02-01,Town 2,Component 1,retained_med,4,6
+2026-02-01,Town 2,Component 2,retained_med,0,1
+2026-02-01,Town 3,Component 1,retained_med,2,3
+2026-02-01,Town 3,Component 2,retained_med,2,5
+2026-02-01,Town 4,Component 1,retained_med,3,5
+2026-02-01,Town 4,Component 2,retained_med,3,4
+2026-02-01,Town 5,Component 1,retained_med,2,2
+2026-02-01,Town 5,Component 2,retained_med,3,3
+2026-03-01,Town 1,Component 1,retained_med,0,1
+2026-03-01,Town 1,Component 2,retained_med,2,4
+2026-03-01,Town 2,Component 1,retained_med,1,6
+2026-03-01,Town 2,Component 2,retained_med,3,4
+2026-03-01,Town 3,Component 1,retained_med,5,7
+2026-03-01,Town 3,Component 2,retained_med,4,5
+2026-03-01,Town 4,Component 1,retained_med,6,7
+2026-03-01,Town 4,Component 2,retained_med,4,4
+2026-03-01,Town 5,Component 1,retained_med,6,8
+2026-03-01,Town 5,Component 2,retained_med,1,4
+2026-04-01,Town 1,Component 1,retained_med,2,4
+2026-04-01,Town 1,Component 2,retained_med,1,3
+2026-04-01,Town 2,Component 1,retained_med,1,1
+2026-04-01,Town 2,Component 2,retained_med,6,9
+2026-04-01,Town 3,Component 1,retained_med,3,4
+2026-04-01,Town 3,Component 2,retained_med,0,3
+2026-04-01,Town 4,Component 1,retained_med,4,7
+2026-04-01,Town 4,Component 2,retained_med,1,1
+2026-04-01,Town 5,Component 1,retained_med,2,3
+2026-04-01,Town 5,Component 2,retained_med,2,3
+2026-05-01,Town 1,Component 1,retained_med,3,5
+2026-05-01,Town 1,Component 2,retained_med,1,3
+2026-05-01,Town 2,Component 1,retained_med,4,6
+2026-05-01,Town 2,Component 2,retained_med,4,7
+2026-05-01,Town 3,Component 1,retained_med,7,9
+2026-05-01,Town 3,Component 2,retained_med,1,3
+2026-05-01,Town 4,Component 1,retained_med,0,0
+2026-05-01,Town 4,Component 2,retained_med,0,2
+2026-05-01,Town 5,Component 1,retained_med,3,5
+2026-05-01,Town 5,Component 2,retained_med,1,3
+2026-06-01,Town 1,Component 1,retained_med,2,3
+2026-06-01,Town 1,Component 2,retained_med,3,5
+2026-06-01,Town 2,Component 1,retained_med,3,4
+2026-06-01,Town 2,Component 2,retained_med,1,4
+2026-06-01,Town 3,Component 1,retained_med,2,2
+2026-06-01,Town 3,Component 2,retained_med,1,3
+2026-06-01,Town 4,Component 1,retained_med,2,3
+2026-06-01,Town 4,Component 2,retained_med,1,1
+2026-06-01,Town 5,Component 1,retained_med,3,6
+2026-06-01,Town 5,Component 2,retained_med,4,8
+2026-07-01,Town 1,Component 1,retained_med,2,5
+2026-07-01,Town 1,Component 2,retained_med,5,6
+2026-07-01,Town 2,Component 1,retained_med,3,6
+2026-07-01,Town 2,Component 2,retained_med,3,5
+2026-07-01,Town 3,Component 1,retained_med,4,5
+2026-07-01,Town 3,Component 2,retained_med,4,7
+2026-07-01,Town 4,Component 1,retained_med,2,5
+2026-07-01,Town 4,Component 2,retained_med,0,2
+2026-07-01,Town 5,Component 1,retained_med,2,7
+2026-07-01,Town 5,Component 2,retained_med,4,5
+2026-08-01,Town 1,Component 1,retained_med,3,4
+2026-08-01,Town 1,Component 2,retained_med,3,5
+2026-08-01,Town 2,Component 1,retained_med,1,3
+2026-08-01,Town 2,Component 2,retained_med,0,1
+2026-08-01,Town 3,Component 1,retained_med,4,8
+2026-08-01,Town 3,Component 2,retained_med,2,4
+2026-08-01,Town 4,Component 1,retained_med,2,2
+2026-08-01,Town 4,Component 2,retained_med,5,5
+2026-08-01,Town 5,Component 1,retained_med,4,6
+2026-08-01,Town 5,Component 2,retained_med,0,1
+2026-09-01,Town 1,Component 1,retained_med,5,5
+2026-09-01,Town 1,Component 2,retained_med,4,8
+2026-09-01,Town 2,Component 1,retained_med,4,6
+2026-09-01,Town 2,Component 2,retained_med,1,3
+2026-09-01,Town 3,Component 1,retained_med,2,3
+2026-09-01,Town 3,Component 2,retained_med,2,3
+2026-09-01,Town 4,Component 1,retained_med,3,4
+2026-09-01,Town 4,Component 2,retained_med,1,3
+2026-09-01,Town 5,Component 1,retained_med,3,7
+2026-09-01,Town 5,Component 2,retained_med,6,11
+2025-04-01,Town 1,Total,org_referring,6,12
+2025-04-01,Town 2,Total,org_referring,7,12
+2025-04-01,Town 3,Total,org_referring,11,12
+2025-04-01,Town 4,Total,org_referring,7,12
+2025-04-01,Town 5,Total,org_referring,7,12
+2025-05-01,Town 1,Total,org_referring,3,12
+2025-05-01,Town 2,Total,org_referring,6,12
+2025-05-01,Town 3,Total,org_referring,5,12
+2025-05-01,Town 4,Total,org_referring,6,12
+2025-05-01,Town 5,Total,org_referring,11,12
+2025-06-01,Town 1,Total,org_referring,7,12
+2025-06-01,Town 2,Total,org_referring,7,12
+2025-06-01,Town 3,Total,org_referring,5,12
+2025-06-01,Town 4,Total,org_referring,5,12
+2025-06-01,Town 5,Total,org_referring,5,12
+2025-07-01,Town 1,Total,org_referring,8,12
+2025-07-01,Town 2,Total,org_referring,7,12
+2025-07-01,Town 3,Total,org_referring,8,12
+2025-07-01,Town 4,Total,org_referring,6,12
+2025-07-01,Town 5,Total,org_referring,8,12
+2025-08-01,Town 1,Total,org_referring,6,12
+2025-08-01,Town 2,Total,org_referring,6,12
+2025-08-01,Town 3,Total,org_referring,4,12
+2025-08-01,Town 4,Total,org_referring,8,12
+2025-08-01,Town 5,Total,org_referring,7,12
+2025-09-01,Town 1,Total,org_referring,7,12
+2025-09-01,Town 2,Total,org_referring,5,12
+2025-09-01,Town 3,Total,org_referring,7,12
+2025-09-01,Town 4,Total,org_referring,5,12
+2025-09-01,Town 5,Total,org_referring,7,12
+2025-10-01,Town 1,Total,org_referring,5,12
+2025-10-01,Town 2,Total,org_referring,8,12
+2025-10-01,Town 3,Total,org_referring,5,12
+2025-10-01,Town 4,Total,org_referring,8,12
+2025-10-01,Town 5,Total,org_referring,6,12
+2025-11-01,Town 1,Total,org_referring,4,12
+2025-11-01,Town 2,Total,org_referring,7,12
+2025-11-01,Town 3,Total,org_referring,5,12
+2025-11-01,Town 4,Total,org_referring,6,12
+2025-11-01,Town 5,Total,org_referring,6,12
+2025-12-01,Town 1,Total,org_referring,6,12
+2025-12-01,Town 2,Total,org_referring,6,12
+2025-12-01,Town 3,Total,org_referring,9,12
+2025-12-01,Town 4,Total,org_referring,6,12
+2025-12-01,Town 5,Total,org_referring,8,12
+2026-01-01,Town 1,Total,org_referring,3,12
+2026-01-01,Town 2,Total,org_referring,5,12
+2026-01-01,Town 3,Total,org_referring,7,12
+2026-01-01,Town 4,Total,org_referring,5,12
+2026-01-01,Town 5,Total,org_referring,9,12
+2026-02-01,Town 1,Total,org_referring,3,12
+2026-02-01,Town 2,Total,org_referring,6,12
+2026-02-01,Town 3,Total,org_referring,8,12
+2026-02-01,Town 4,Total,org_referring,6,12
+2026-02-01,Town 5,Total,org_referring,4,12
+2026-03-01,Town 1,Total,org_referring,6,12
+2026-03-01,Town 2,Total,org_referring,7,12
+2026-03-01,Town 3,Total,org_referring,7,12
+2026-03-01,Town 4,Total,org_referring,10,12
+2026-03-01,Town 5,Total,org_referring,5,12
+2026-04-01,Town 1,Total,org_referring,8,12
+2026-04-01,Town 2,Total,org_referring,4,12
+2026-04-01,Town 3,Total,org_referring,7,12
+2026-04-01,Town 4,Total,org_referring,7,12
+2026-04-01,Town 5,Total,org_referring,7,12
+2026-05-01,Town 1,Total,org_referring,3,12
+2026-05-01,Town 2,Total,org_referring,6,12
+2026-05-01,Town 3,Total,org_referring,9,12
+2026-05-01,Town 4,Total,org_referring,7,12
+2026-05-01,Town 5,Total,org_referring,8,12
+2026-06-01,Town 1,Total,org_referring,7,12
+2026-06-01,Town 2,Total,org_referring,5,12
+2026-06-01,Town 3,Total,org_referring,6,12
+2026-06-01,Town 4,Total,org_referring,8,12
+2026-06-01,Town 5,Total,org_referring,3,12
+2026-07-01,Town 1,Total,org_referring,5,12
+2026-07-01,Town 2,Total,org_referring,7,12
+2026-07-01,Town 3,Total,org_referring,8,12
+2026-07-01,Town 4,Total,org_referring,9,12
+2026-07-01,Town 5,Total,org_referring,4,12
+2026-08-01,Town 1,Total,org_referring,7,12
+2026-08-01,Town 2,Total,org_referring,7,12
+2026-08-01,Town 3,Total,org_referring,3,12
+2026-08-01,Town 4,Total,org_referring,7,12
+2026-08-01,Town 5,Total,org_referring,9,12
+2026-09-01,Town 1,Total,org_referring,6,12
+2026-09-01,Town 2,Total,org_referring,8,12
+2026-09-01,Town 3,Total,org_referring,9,12
+2026-09-01,Town 4,Total,org_referring,6,12
+2026-09-01,Town 5,Total,org_referring,7,12
+2025-04-01,Town 1,Total,org_receiving,5,12
+2025-04-01,Town 2,Total,org_receiving,5,12
+2025-04-01,Town 3,Total,org_receiving,6,12
+2025-04-01,Town 4,Total,org_receiving,7,12
+2025-04-01,Town 5,Total,org_receiving,6,12
+2025-05-01,Town 1,Total,org_receiving,3,12
+2025-05-01,Town 2,Total,org_receiving,5,12
+2025-05-01,Town 3,Total,org_receiving,7,12
+2025-05-01,Town 4,Total,org_receiving,8,12
+2025-05-01,Town 5,Total,org_receiving,5,12
+2025-06-01,Town 1,Total,org_receiving,3,12
+2025-06-01,Town 2,Total,org_receiving,4,12
+2025-06-01,Town 3,Total,org_receiving,6,12
+2025-06-01,Town 4,Total,org_receiving,6,12
+2025-06-01,Town 5,Total,org_receiving,2,12
+2025-07-01,Town 1,Total,org_receiving,5,12
+2025-07-01,Town 2,Total,org_receiving,5,12
+2025-07-01,Town 3,Total,org_receiving,6,12
+2025-07-01,Town 4,Total,org_receiving,2,12
+2025-07-01,Town 5,Total,org_receiving,8,12
+2025-08-01,Town 1,Total,org_receiving,2,12
+2025-08-01,Town 2,Total,org_receiving,5,12
+2025-08-01,Town 3,Total,org_receiving,3,12
+2025-08-01,Town 4,Total,org_receiving,2,12
+2025-08-01,Town 5,Total,org_receiving,4,12
+2025-09-01,Town 1,Total,org_receiving,4,12
+2025-09-01,Town 2,Total,org_receiving,6,12
+2025-09-01,Town 3,Total,org_receiving,4,12
+2025-09-01,Town 4,Total,org_receiving,6,12
+2025-09-01,Town 5,Total,org_receiving,5,12
+2025-10-01,Town 1,Total,org_receiving,3,12
+2025-10-01,Town 2,Total,org_receiving,2,12
+2025-10-01,Town 3,Total,org_receiving,3,12
+2025-10-01,Town 4,Total,org_receiving,4,12
+2025-10-01,Town 5,Total,org_receiving,5,12
+2025-11-01,Town 1,Total,org_receiving,4,12
+2025-11-01,Town 2,Total,org_receiving,2,12
+2025-11-01,Town 3,Total,org_receiving,4,12
+2025-11-01,Town 4,Total,org_receiving,1,12
+2025-11-01,Town 5,Total,org_receiving,4,12
+2025-12-01,Town 1,Total,org_receiving,4,12
+2025-12-01,Town 2,Total,org_receiving,4,12
+2025-12-01,Town 3,Total,org_receiving,5,12
+2025-12-01,Town 4,Total,org_receiving,8,12
+2025-12-01,Town 5,Total,org_receiving,10,12
+2026-01-01,Town 1,Total,org_receiving,4,12
+2026-01-01,Town 2,Total,org_receiving,7,12
+2026-01-01,Town 3,Total,org_receiving,3,12
+2026-01-01,Town 4,Total,org_receiving,6,12
+2026-01-01,Town 5,Total,org_receiving,3,12
+2026-02-01,Town 1,Total,org_receiving,5,12
+2026-02-01,Town 2,Total,org_receiving,5,12
+2026-02-01,Town 3,Total,org_receiving,2,12
+2026-02-01,Town 4,Total,org_receiving,8,12
+2026-02-01,Town 5,Total,org_receiving,4,12
+2026-03-01,Town 1,Total,org_receiving,6,12
+2026-03-01,Town 2,Total,org_receiving,5,12
+2026-03-01,Town 3,Total,org_receiving,3,12
+2026-03-01,Town 4,Total,org_receiving,7,12
+2026-03-01,Town 5,Total,org_receiving,5,12
+2026-04-01,Town 1,Total,org_receiving,3,12
+2026-04-01,Town 2,Total,org_receiving,3,12
+2026-04-01,Town 3,Total,org_receiving,6,12
+2026-04-01,Town 4,Total,org_receiving,3,12
+2026-04-01,Town 5,Total,org_receiving,4,12
+2026-05-01,Town 1,Total,org_receiving,5,12
+2026-05-01,Town 2,Total,org_receiving,7,12
+2026-05-01,Town 3,Total,org_receiving,9,12
+2026-05-01,Town 4,Total,org_receiving,8,12
+2026-05-01,Town 5,Total,org_receiving,7,12
+2026-06-01,Town 1,Total,org_receiving,3,12
+2026-06-01,Town 2,Total,org_receiving,2,12
+2026-06-01,Town 3,Total,org_receiving,6,12
+2026-06-01,Town 4,Total,org_receiving,5,12
+2026-06-01,Town 5,Total,org_receiving,4,12
+2026-07-01,Town 1,Total,org_receiving,6,12
+2026-07-01,Town 2,Total,org_receiving,6,12
+2026-07-01,Town 3,Total,org_receiving,6,12
+2026-07-01,Town 4,Total,org_receiving,8,12
+2026-07-01,Town 5,Total,org_receiving,6,12
+2026-08-01,Town 1,Total,org_receiving,7,12
+2026-08-01,Town 2,Total,org_receiving,7,12
+2026-08-01,Town 3,Total,org_receiving,5,12
+2026-08-01,Town 4,Total,org_receiving,3,12
+2026-08-01,Town 5,Total,org_receiving,8,12
+2026-09-01,Town 1,Total,org_receiving,6,12
+2026-09-01,Town 2,Total,org_receiving,3,12
+2026-09-01,Town 3,Total,org_receiving,4,12
+2026-09-01,Town 4,Total,org_receiving,6,12
+2026-09-01,Town 5,Total,org_receiving,4,12
+2025-04-01,Town 1,Total,org_coordinating,3,12
+2025-04-01,Town 2,Total,org_coordinating,5,12
+2025-04-01,Town 3,Total,org_coordinating,4,12
+2025-04-01,Town 4,Total,org_coordinating,7,12
+2025-04-01,Town 5,Total,org_coordinating,2,12
+2025-05-01,Town 1,Total,org_coordinating,4,12
+2025-05-01,Town 2,Total,org_coordinating,7,12
+2025-05-01,Town 3,Total,org_coordinating,5,12
+2025-05-01,Town 4,Total,org_coordinating,1,12
+2025-05-01,Town 5,Total,org_coordinating,3,12
+2025-06-01,Town 1,Total,org_coordinating,4,12
+2025-06-01,Town 2,Total,org_coordinating,4,12
+2025-06-01,Town 3,Total,org_coordinating,2,12
+2025-06-01,Town 4,Total,org_coordinating,1,12
+2025-06-01,Town 5,Total,org_coordinating,3,12
+2025-07-01,Town 1,Total,org_coordinating,4,12
+2025-07-01,Town 2,Total,org_coordinating,6,12
+2025-07-01,Town 3,Total,org_coordinating,6,12
+2025-07-01,Town 4,Total,org_coordinating,3,12
+2025-07-01,Town 5,Total,org_coordinating,6,12
+2025-08-01,Town 1,Total,org_coordinating,4,12
+2025-08-01,Town 2,Total,org_coordinating,3,12
+2025-08-01,Town 3,Total,org_coordinating,1,12
+2025-08-01,Town 4,Total,org_coordinating,4,12
+2025-08-01,Town 5,Total,org_coordinating,0,12
+2025-09-01,Town 1,Total,org_coordinating,1,12
+2025-09-01,Town 2,Total,org_coordinating,2,12
+2025-09-01,Town 3,Total,org_coordinating,1,12
+2025-09-01,Town 4,Total,org_coordinating,5,12
+2025-09-01,Town 5,Total,org_coordinating,5,12
+2025-10-01,Town 1,Total,org_coordinating,1,12
+2025-10-01,Town 2,Total,org_coordinating,2,12
+2025-10-01,Town 3,Total,org_coordinating,4,12
+2025-10-01,Town 4,Total,org_coordinating,4,12
+2025-10-01,Town 5,Total,org_coordinating,5,12
+2025-11-01,Town 1,Total,org_coordinating,5,12
+2025-11-01,Town 2,Total,org_coordinating,2,12
+2025-11-01,Town 3,Total,org_coordinating,6,12
+2025-11-01,Town 4,Total,org_coordinating,2,12
+2025-11-01,Town 5,Total,org_coordinating,6,12
+2025-12-01,Town 1,Total,org_coordinating,7,12
+2025-12-01,Town 2,Total,org_coordinating,5,12
+2025-12-01,Town 3,Total,org_coordinating,4,12
+2025-12-01,Town 4,Total,org_coordinating,3,12
+2025-12-01,Town 5,Total,org_coordinating,3,12
+2026-01-01,Town 1,Total,org_coordinating,5,12
+2026-01-01,Town 2,Total,org_coordinating,2,12
+2026-01-01,Town 3,Total,org_coordinating,2,12
+2026-01-01,Town 4,Total,org_coordinating,3,12
+2026-01-01,Town 5,Total,org_coordinating,2,12
+2026-02-01,Town 1,Total,org_coordinating,3,12
+2026-02-01,Town 2,Total,org_coordinating,2,12
+2026-02-01,Town 3,Total,org_coordinating,5,12
+2026-02-01,Town 4,Total,org_coordinating,4,12
+2026-02-01,Town 5,Total,org_coordinating,4,12
+2026-03-01,Town 1,Total,org_coordinating,5,12
+2026-03-01,Town 2,Total,org_coordinating,3,12
+2026-03-01,Town 3,Total,org_coordinating,5,12
+2026-03-01,Town 4,Total,org_coordinating,3,12
+2026-03-01,Town 5,Total,org_coordinating,5,12
+2026-04-01,Town 1,Total,org_coordinating,3,12
+2026-04-01,Town 2,Total,org_coordinating,4,12
+2026-04-01,Town 3,Total,org_coordinating,3,12
+2026-04-01,Town 4,Total,org_coordinating,3,12
+2026-04-01,Town 5,Total,org_coordinating,2,12
+2026-05-01,Town 1,Total,org_coordinating,4,12
+2026-05-01,Town 2,Total,org_coordinating,3,12
+2026-05-01,Town 3,Total,org_coordinating,4,12
+2026-05-01,Town 4,Total,org_coordinating,4,12
+2026-05-01,Town 5,Total,org_coordinating,5,12
+2026-06-01,Town 1,Total,org_coordinating,5,12
+2026-06-01,Town 2,Total,org_coordinating,3,12
+2026-06-01,Town 3,Total,org_coordinating,4,12
+2026-06-01,Town 4,Total,org_coordinating,2,12
+2026-06-01,Town 5,Total,org_coordinating,6,12
+2026-07-01,Town 1,Total,org_coordinating,1,12
+2026-07-01,Town 2,Total,org_coordinating,2,12
+2026-07-01,Town 3,Total,org_coordinating,2,12
+2026-07-01,Town 4,Total,org_coordinating,3,12
+2026-07-01,Town 5,Total,org_coordinating,2,12
+2026-08-01,Town 1,Total,org_coordinating,5,12
+2026-08-01,Town 2,Total,org_coordinating,3,12
+2026-08-01,Town 3,Total,org_coordinating,3,12
+2026-08-01,Town 4,Total,org_coordinating,4,12
+2026-08-01,Town 5,Total,org_coordinating,3,12
+2026-09-01,Town 1,Total,org_coordinating,2,12
+2026-09-01,Town 2,Total,org_coordinating,6,12
+2026-09-01,Town 3,Total,org_coordinating,3,12
+2026-09-01,Town 4,Total,org_coordinating,4,12
+2026-09-01,Town 5,Total,org_coordinating,2,12
